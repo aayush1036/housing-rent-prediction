@@ -17,6 +17,25 @@ Which involves creating a web app which is able to take inputs and predict house
 
 <a href="https://rent-prediction-grootis-330517.el.r.appspot.com/">Web App</a>
 
+This project is an end to end implementation of a project where the goal is to predict house rent prices for various different cities<br>
+This project uses a machine leraning model in the backend to predict the rent prices in various cities using the inputs given to it<br>
+This project uses a XGBoost Regressor model (which turned out to be the best model)<br>
+The models were evaluated on the basis of two metrics<br>
+<ol>
+<li>R<sup>2</sup>score</li>
+<li>Mean Absolute Error</li>
+</ol>
+
+The models tried out in this project are<br>
+<ol>
+<li>Linear Regression</li>
+<li>Decision Tree Regression</li>
+<li>Random Forest Regression</li>
+<li>Adaboost Regression</li>
+<li>Gradient Boost Regression</li>
+<li>XGBoost Regression</li>
+</ol>
+
 Running the project on local machine <br>
 Step 1 - Clone the project <br>
 ```
