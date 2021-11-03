@@ -1,0 +1,186 @@
+{% extends 'base.html' %}
+{% block body %}
+<p class="intro">
+    Kolkata is the capital of West Bengal, often famous for its growing industries and development, the house prices
+    here are not fixed as it is
+    developing rapidly, hence taking a decision is a little difficult, so for taking an informed decision, here we
+    present you with facts and
+    analysis on the data of the house pricces in Kolkata which we have analysed ourselves
+</p>
+</div>
+<hr>
+<!-- Insights -->
+<div class="cities" id="cities">
+    <h2>Parameters Covered.</h2>
+    <div class="city-row" id="Numerical">
+        <h3>Numerical Analysis</h3>
+        <img class="LeftAlign" src="static/Numerical/KOLKATA.png" alt="Kolkata-numerical" border="0">
+        <p>
+            In this image, we have analyzed 4 things, the distribution of rent in Kolkata, distribution of the area of
+            houses in Kolkata,
+            Number of bedrooms in the houses in Kolkata and distribution of bathrooms in the houses in Kolkata.
+            From this figure, we find that the rent of most houses is under 40k rupees, most of the houses in Kolkata
+            are under 2000 square
+            feet in area, most houses in Kolkata have 2 or 3 bedrooms and 1 or 2 bathrooms
+        </p>
+    </div>
+    <div class="city-row" id="Sapcious">
+        <h3>Area</h3>
+        <img class="RightAlign" src="static/Spacious/KOLKATA.png" alt="Kolkata-spacious" border="0">
+        <p>
+            This image shows the most spacious and least spacious localities to live in Kolkata. Spaciousness of a
+            locality is calculated by
+            taking the average of areas of houses in that locality. Most spacious localities are the localities that
+            have the highest average area
+            of all the houses in that locality and converse is true for the least spacious localities. From this image,
+            we see that Banerjee Para Road,Rabindra Sarova Metro, Bhojenrhat are the least spacous localities in Kolkata
+            whereas
+            Thakurpukur 3A Bus Stand,Kadam Tala,Kona Expressway are the most spacious localities in Kolkata
+        </p>
+    </div>
+    <div class="city-row" id="Afrordability">
+        <h3>Affordability</h3>
+        <img class="LeftAlign" src="static/Affordability/KOLKATA.png" alt="Aahemdabad-affordability" border="0">
+        <p>
+            This image shows the most afforable and least afforable localities to live in Kolkata. Affordability
+            of a locality is calculated by
+            taking the average price of all the houses in that locality. Most affordable localities are the
+            localities that have the lowest average
+            price and the converse is true for least afforable localities. From this image, we see that
+            Thakurpukur 3A Bus Stand, Makardah and Durganagar are the most afforable localities in Kolkata whereas 
+            Barabazar Market, Shyambazar and Lal Bazar are the least affordable localities in Kolkata
+        </p>
+    </div>
+    <div class="city-row" id="Other">
+        <h3>Other</h3>
+        <img class="RightAlign" src="static/Other/KOLKATA.png" alt="Kolkata-other" border="0">
+        <p>
+            Here we have analyzed other aspects of the houses in Kolkata which are
+            <ol>
+              <li>Seller Type - The entity which is putting the property on rent - Can be of 3 types</li>
+              <ul>
+                <li>Agent - The real estate agent through which the owner would like to put the property on rent</li>
+                <li>Builder - The builder of the property who might put the property on rent</li>
+                <li>Owner - The owner may directly put the property on rent</li>
+              </ul>
+              <li>Layout Type - The layout of the property put on rent</li>
+              <ul>
+                <li>RK - The property contains only a Room and Kitchen where the bedroom and hall are combined</li>
+                <li>BHK - The property contains a Bedroom, Hall and a Kitchen</li>
+              </ul>
+              <li>Property Type - The type of property which is put on rent</li>
+              <ul>
+                <li>Apartment - A flat in a building which contains many flats</li>
+                <li>Studio Aparment - Contains only one room</li>
+                <li>Independent House - A single house with boundary walls on four sides</li>
+                <li>Independent Floor - An entire floor on a building isolated from the rest of the building</li>
+                <li>Villa</li>
+                <li>Penthouse</li>
+              </ul>
+              <li>Furnish Type</li>
+              <ul>
+                <li>Semi Furnished - Contains some furniture sufficient enough for the tennant to settle</li>
+                <li>Furnished - Contains all the necessary furniture for a tennant to settle</li>
+                <li>Unfurnished - Contains no furnitire</li>
+              </ul>
+            </ol>    
+        <p class="table-data">Seller types of various properties in Kolkata</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>SELLER TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>AGENT</th>
+              <td>63.71%</td>
+            </tr>
+            <tr>
+              <th>OWNER</th>
+              <td>35.28%</td>
+            </tr>
+            <tr>
+              <th>BUILDER</th>
+              <td>1.01%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="table-data">Layout type of various properties in Kolkata</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>LAYOUT TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>BHK</th>
+              <td>95.1%</td>
+            </tr>
+            <tr>
+              <th>RK</th>
+              <td>4.9%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="table-data">Property types of various properties in Kolkata</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>PROPERTY TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Apartment</th>
+              <td>73.34%</td>
+            </tr>
+            <tr>
+              <th>Independent Floor</th>
+              <td>11.76%</td>
+            </tr>
+            <tr>
+              <th>Independent House</th>
+              <td>9.49%</td>
+            </tr>
+            <tr>
+              <th>Studio Apartment</th>
+              <td>4.9%</td>
+            </tr>
+            <tr>
+              <th>Villa</th>
+              <td>0.51%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="table-data">Furnish type of various properties in Kolkata</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>FURNISH TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Unfurnished</th>
+              <td>46.04%</td>
+            </tr>
+            <tr>
+              <th>Semi-Furnished</th>
+              <td>33.16%</td>
+            </tr>
+            <tr>
+              <th>Furnished</th>
+              <td>20.8%</td>
+            </tr>
+          </tbody>
+        </table>
+        </p>
+    </div>
+</div>
+{% endblock body %}

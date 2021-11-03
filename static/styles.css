@@ -1,0 +1,169 @@
+h1{
+    font-size: 5.625rem;
+    font-family: 'Sacramento',cursive;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+
+}
+p{
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 0px;
+}
+hr {
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+.pro{
+    text-decoration: underline;
+}
+body{
+    margin:0;
+    text-align: center;
+    text-decoration-color: #40514E;
+}
+.city-row{
+    width: 60%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.LeftAlign{
+    height: 375px;
+    width: 576px;
+    float: left;
+    margin-right: 30px;
+}
+.RightAlign{
+    height: 375px;
+    width: 576px;
+    float: right;
+    margin-left: 30px;
+}
+.result-image{
+    height: 360px;
+    width: 640px;
+}
+.middle-container{
+    margin: 100px 0;
+
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.hobbies{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: center;
+}
+.bnr-icons{
+    color: black;
+    font-size: 25px;
+    background: white;
+    padding-left: 25px;
+    border-radius: 50%
+}
+.hobby{
+    height: 400px;
+    width: 372px;
+}
+.contact{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.contact-me{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.python_skill:hover{
+    color: #d8ebb5;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    /* margin: 10px 20px; */
+    size:3;
+    text-decoration: none;
+}
+.profile{
+    padding-bottom: 10px;
+}
+.insta-profile{
+    margin-left: 25px;
+}
+.hobbies-heading{
+    padding: 0px;
+}
+.copyright{
+    color: white;
+}
+
+.form-floating{
+    padding: 50px;
+}
+
+.mb-3{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.predictButton{
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.footer-link{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    /* margin: 10px 20px; */
+    size:3;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+.dataframe{
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px;
+    padding-bottom: 10%;
+}
+
+.table-data{
+    text-align: center;
+}

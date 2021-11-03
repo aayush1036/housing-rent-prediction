@@ -1,0 +1,189 @@
+{% extends 'base.html' %}
+{% block body %}
+<p class="intro">
+    Chennai is the capital of the coastal state of Tamil Nadu and it is on the Eastern coast of India. Various tech
+    companies like Infosys have
+    their offices in Chennai. Chennai is a rapidly developing city in the region of South India and hence it has a great
+    scope of development
+    and hence housing industry is blooming in Chennai. Hence for the users to take informed decisions regarding the
+    housing in Chennai,
+    we have developed this website which will help the users to take informed decisions based on the graphs and data
+    analysis that we have done
+    on the data that we have about Chennai
+</p>
+</div>
+<hr>
+<!-- Insights -->
+<div class="cities" id="cities">
+    <h2>Parameters Covered.</h2>
+    <div class="city-row" id="Numerical">
+        <h3>Numerical Analysis</h3>
+        <img class="LeftAlign" src="static/Numerical/CHENNAI.png" alt="Chennai-numerical" border="0">
+        <p>
+            In this image, we have analyzed 4 things, the distribution of rent in Chennai, distribution of the area of
+            houses in Chennai,
+            Number of bedrooms in the houses in Chennai and distribution of bathrooms in the houses in Chennai.
+            From this figure, we find that the rent of most houses is under 40k rupees, most of the houses in Chennai
+            are under 4000 square
+            feet in area, most houses in Chennai have 1 or 2 bedrooms and 1 or 2 bathrooms
+        </p>
+    </div>
+    <div class="city-row" id="Sapcious">
+        <h3>Area</h3>
+        <img class="RightAlign" src="static/Spacious/CHENNAI.png" alt="Chennai-spacious" border="0">
+        <p>
+            This image shows the most spacious and least spacious localities to live in Chennai. Spaciousness of a
+            locality is calculated by
+            taking the average of areas of houses in that locality. Most spacious localities are the localities that
+            have the highest average area
+            of all the houses in that locality and converse is true for the least spacious localities. From this image,
+            we see that Sekkadu, Vasantham Nagar and Annai Meenakshi Nagar are the least spacous localities in Chennai whereas 
+            Uthandi, Pallavan Nagar Main Road and Kutthambakkam are the most spacious localities in Chennai
+        </p>
+    </div>
+    <div class="city-row" id="Afrordability">
+        <h3>Affordability</h3>
+        <img class="LeftAlign" src="static/Affordability/CHENNAI.png" alt="Aahemdabad-affordability" border="0">
+        <p>
+            This image shows the most afforable and least afforable localities to live in Chennai. Affordability
+            of a locality is calculated by
+            taking the average price of all the houses in that locality. Most affordable localities are the
+            localities that have the lowest average
+            price and the converse is true for least afforable localities. From this image, we see that
+            Kattavakkam, Perumalpattu and Thatchoor are the most afforable localities in Chennai whereas 
+            Thousand Lights,Anand Nagar Main and Nadhampakkam are the least affordable localities in Chennai
+        </p>
+    </div>
+    <div class="city-row" id="Other">
+        <h3>Other</h3>
+        <img class="RightAlign" src="static/Other/CHENNAI.png" alt="Chennai-other" border="0">
+        <p>
+            Here we have analyzed other aspects of the houses in Chennai which are
+            <ol>
+              <li>Seller Type - The entity which is putting the property on rent - Can be of 3 types</li>
+              <ul>
+                <li>Agent - The real estate agent through which the owner would like to put the property on rent</li>
+                <li>Builder - The builder of the property who might put the property on rent</li>
+                <li>Owner - The owner may directly put the property on rent</li>
+              </ul>
+              <li>Layout Type - The layout of the property put on rent</li>
+              <ul>
+                <li>RK - The property contains only a Room and Kitchen where the bedroom and hall are combined</li>
+                <li>BHK - The property contains a Bedroom, Hall and a Kitchen</li>
+              </ul>
+              <li>Property Type - The type of property which is put on rent</li>
+              <ul>
+                <li>Apartment - A flat in a building which contains many flats</li>
+                <li>Studio Aparment - Contains only one room</li>
+                <li>Independent House - A single house with boundary walls on four sides</li>
+                <li>Independent Floor - An entire floor on a building isolated from the rest of the building</li>
+                <li>Villa</li>
+                <li>Penthouse</li>
+              </ul>
+              <li>Furnish Type</li>
+              <ul>
+                <li>Semi Furnished - Contains some furniture sufficient enough for the tennant to settle</li>
+                <li>Furnished - Contains all the necessary furniture for a tennant to settle</li>
+                <li>Unfurnished - Contains no furnitire</li>
+              </ul>
+            </ol>    
+        <p class="table-data">Seller types of various properties in Chennai</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>SELLER TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>OWNER</th>
+              <td>66.27%</td>
+            </tr>
+            <tr>
+              <th>AGENT</th>
+              <td>33.28%</td>
+            </tr>
+            <tr>
+              <th>BUILDER</th>
+              <td>0.45%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="table-data">Layout types of various properties in Chennai</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>LAYOUT TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>BHK</th>
+              <td>95.93%</td>
+            </tr>
+            <tr>
+              <th>RK</th>
+              <td>4.07%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="table-data">Property types of various properties in Chennai</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>PROPERTY TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Apartment</th>
+              <td>55.88%</td>
+            </tr>
+            <tr>
+              <th>Independent House</th>
+              <td>22.84%</td>
+            </tr>
+            <tr>
+              <th>Independent Floor</th>
+              <td>14.89%</td>
+            </tr>
+            <tr>
+              <th>Studio Apartment</th>
+              <td>4.07%</td>
+            </tr>
+            <tr>
+              <th>Villa</th>
+              <td>2.32%</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="table-data">Furnish types of various properties in Chennai</p>
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th></th>
+              <th>FURNISH TYPE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Semi-Furnished</th>
+              <td>62.69%</td>
+            </tr>
+            <tr>
+              <th>Unfurnished</th>
+              <td>28.15%</td>
+            </tr>
+            <tr>
+              <th>Furnished</th>
+              <td>9.17%</td>
+            </tr>
+          </tbody>
+        </table>
+        </p>
+    </div>
+</div>
+{% endblock body %}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Inputs</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sacramento&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/4231346c72.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">
+</head>
+<body>
+    <div class="city-row" id="predict">
+        <h2 class="mb-3">Predict the house price</h2>
+        <div class="container my-3">
+        <form method="POST" action="{{url_for('predict')}}">
+            <div class="mb-3">
+                <label for="city">Which city do you want to predict?</label>
+                <select class="form-select" name="city">
+                    <!-- <option selected>Open this select menu</option> -->
+                    <option value="AHEMDABAD">Ahemdabad</option>
+                    <option value="BANGALORE">Bangalore</option>
+                    <option value="CHENNAI">Chennai</option>
+                    <option value="DELHI">Delhi</option>
+                    <option value="HYDERABAD">Hyderabad</option>
+                    <option value="KOLKATA">Kolkata</option>
+                    <option value="MUMBAI">Mumbai</option>
+                    <option value="PUNE">Pune</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="seller_type">What would be your preferred seller type</label>
+                <select class="form-select" name="seller_type">
+                    <!-- <option selected>Open this select menu</option> -->
+                    <option value="BUILDER">Builder</option>
+                    <option value="OWNER">Owner</option>
+                    <option value="AGENT">Agent</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="bedroom" class="form-label">Enter the number of bedrooms</label>
+                <input type="number" class="form-control" name="bedroom">
+            </div>
+
+            <div class="mb-3">
+                <label for="layout_type" class="form-label">What would be the layout for the house</label>
+                <select name="layout_type" class="form-select">
+                    <option value="RK">RK</option>
+                    <option value="BHK">BHK</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="property_type" class="form-label">What would be the property type of the house</label>
+                <select name="property_type" class="form-select">
+                    <option value="Studio Apartment">Studio Apartment</option>
+                    <option value="Independent House">Independent House</option>
+                    <option value="Penthouse">Penthouse</option>
+                    <option value="Apartment">Apartment</option>
+                    <option value="Independent Floor">Independent Floor</option>
+                    <option value="Villa">Villa</option>
+                </select>
+            </div>
+
+
+            <div class="mb-3">
+                <label for="locality">Enter the location</label>
+                <input type="text" class="form-control" name="locality">
+            </div>
+
+            <div class="mb-3">
+                <label for="area" class="form-label">Enter the area of the house</label>
+                <input type="number" class="form-control" name="area">
+            </div>
+
+            <div class="mb-3">
+                <label for="furnish_type" class="form-label">What would be the furnish type of the house</label>
+                <select name="furnish_type" class="form-select">
+                    <option value="Unfurnished">Unfurnished</option>
+                    <option value="Semi-Furnished">Semi-Furnished</option>
+                    <option value="Furnished">Furnished</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="bathroom">How many bathrooms do you expect to have</label>
+                <input type="number" class="form-control" name="bathroom">
+            </div>
+            <button type="submit" class="btn btn-dark predictButton">SUBMIT</button>
+        
+        </form>
+        </div>
+</body>
+</html>
