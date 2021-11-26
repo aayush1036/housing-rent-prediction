@@ -105,7 +105,7 @@ Predict Page
 * Takes the input from the user
 * Submit button to display the results
 <br>
-<img src="https://i.ibb.co/RzD8mVH/result.png" alt="result" border="0"><br>
+<img src="https://i.ibb.co/hWFvZMq/result.png" alt="result" border="0"><br>
 Results Page
 
 * Displays the result for the particular set of inputs
