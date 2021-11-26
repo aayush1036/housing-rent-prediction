@@ -1,4 +1,3 @@
-from threading import local
 from flask import Flask, render_template,request
 import joblib
 import numpy as np
@@ -13,7 +12,6 @@ LAYOUT_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/layout_type/'
 PROPERTY_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/property_type/'
 SELLER_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/seller_type/'
 
-# Loading the encoders 
 model_dict = {}
 locality_encoder_dict = {}
 furniture_encoder_dict = {}
@@ -113,7 +111,7 @@ def predict():
             ],dtype='object').reshape(-1,1).T)
             preds=preds[0]
             preds = np.round(preds)
-            return render_template('predict.html',message=f'The prediction is {preds:,}',city=city) # return the predictions
+            return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
         except:
             return render_template('predict.html',message='Please enter a valid location',city=city) # return error message for wrong location
 
