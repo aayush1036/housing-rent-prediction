@@ -1,20 +1,16 @@
-seller_type,bedroom,layout_type,property_type,locality,price,area,furnish_type,bathroom
+SELLER TYPE,BEDROOM,LAYOUT TYPE,PROPERTY TYPE,LOCALITY,PRICE,AREA,FURNISH TYPE,BATHROOM
 OWNER,1.0,RK,Studio Apartment,Serilingampally,6720.0,320.0,Furnished,1.0
 OWNER,5.0,BHK,Villa,Sri Nagar Colony,36000.0,3000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Shaikpet,11000.0,900.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,45000.0,2165.0,Unfurnished,3.0
 OWNER,3.0,BHK,Apartment,Kondapur,20000.0,1600.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,manneguda,5000.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Manikonda,12000.0,1165.0,Furnished,2.0
-OWNER,3.0,BHK,Independent House,Jubilee Hills,60000.0,3000.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Kondapur,17000.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kondapur,22000.0,1400.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Gajularamaram,6500.0,1000.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Villa,Narsingi,49000.0,3431.0,Semi-Furnished,4.0
 OWNER,3.0,BHK,Apartment,Begumpet,13000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Begumpet,20000.0,1000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Kukatpally,6500.0,160.0,Unfurnished,1.0
-OWNER,5.0,BHK,Independent House,LB Nagar,45000.0,3500.0,Furnished,4.0
 OWNER,1.0,RK,Studio Apartment,Banjara Hills,7500.0,1500.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Begumpet,15000.0,1100.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Nallagandla Gachibowli,23000.0,1600.0,Semi-Furnished,3.0
@@ -68,7 +64,6 @@ OWNER,2.0,BHK,Apartment,Kukatpally,18000.0,1195.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Chandanagar,20000.0,1555.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Old Bowenpally,18000.0,1300.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Apartment,Nizampet,10000.0,1232.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Gachibowli,50000.0,2100.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Attapur,27000.0,1635.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Abids,16500.0,1785.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Manikonda,29500.0,1380.0,Semi-Furnished,3.0
@@ -102,8 +97,6 @@ OWNER,3.0,BHK,Apartment,Begumpet,13000.0,1000.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Gachibowli,8000.0,200.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Manikonda,15500.0,1100.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Banjara Hills,11000.0,1100.0,Unfurnished,1.0
-OWNER,5.0,BHK,Independent House,Banjara Hills,60000.0,1500.0,Furnished,4.0
-OWNER,5.0,BHK,Independent House,Banjara Hills,60000.0,1500.0,Furnished,1.0
 OWNER,1.0,BHK,Independent House,Aminpur,7000.0,550.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Manikonda,19000.0,1400.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Kukatpally,7700.0,600.0,Semi-Furnished,1.0
@@ -170,9 +163,7 @@ OWNER,2.0,BHK,Independent House,Bandlaguda Jagir,10000.0,1350.0,Semi-Furnished,2
 OWNER,2.0,BHK,Apartment,Masab Tank,20000.0,1500.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Gachibowli,17500.0,550.0,Furnished,1.0
 OWNER,3.0,BHK,Apartment,Nizampet,19000.0,1550.0,Semi-Furnished,2.0
-OWNER,6.0,BHK,Apartment,Banjara Hills,80000.0,2300.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Qutub Shahi Tombs,9000.0,1100.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Kukatpally,65000.0,2000.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Bolarum,14000.0,842.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Dilsukh Nagar,12500.0,950.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Dilsukh Nagar,12500.0,950.0,Semi-Furnished,2.0
@@ -243,11 +234,9 @@ AGENT,1.0,BHK,Apartment,Madhapur,22000.0,1375.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Madhapur,22000.0,1375.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Madhapur,16500.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kondapur,26000.0,1200.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,41000.0,2400.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Kondapur,6499.0,800.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,12500.0,1100.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,14000.0,1150.0,Furnished,1.0
-AGENT,3.0,BHK,Independent Floor,Gachibowli,100000.0,2700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Gachibowli,34000.0,928.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,11000.0,400.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,15000.0,1080.0,Unfurnished,2.0
@@ -330,13 +319,11 @@ AGENT,2.0,BHK,Apartment,Hitech City,16000.0,560.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Gachibowli,11000.0,560.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Narayanguda,37000.0,1280.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gachibowli,18000.0,800.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Madhapur,44000.0,1320.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Punjagutta,39000.0,1440.0,Furnished,3.0
 AGENT,1.0,RK,Studio Apartment,Saroor Nagar,24000.0,880.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Hitech City,37000.0,1240.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Nizampet,10000.0,980.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Manikonda,22200.0,1200.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,44000.0,1360.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Madhapur,34000.0,1440.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Kondapur,8000.0,360.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Miyapur,15000.0,600.0,Unfurnished,2.0
@@ -384,7 +371,6 @@ AGENT,1.0,RK,Studio Apartment,Gachibowli,6000.0,520.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Mehdipatnam,17000.0,880.0,Semi-Furnished,2.0
 AGENT,1.0,RK,Studio Apartment,Gachibowli,19000.0,520.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Madhapur,19000.0,520.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Manikonda,49000.0,1554.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,36000.0,1440.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kothaguda,25000.0,1240.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gachibowli,29000.0,1240.0,Semi-Furnished,3.0
@@ -399,7 +385,6 @@ AGENT,3.0,BHK,Apartment,Manikonda,24000.0,2120.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,31000.0,1280.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Nizampet,19000.0,880.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gowlidody,14000.0,560.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Madhapur,44000.0,2032.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,29000.0,1280.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gowlidody,24000.0,1160.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,16000.0,800.0,Semi-Furnished,2.0
@@ -434,7 +419,6 @@ AGENT,2.0,BHK,Apartment,Kondapur,14001.0,1250.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,9111.0,1000.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,5502.0,800.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,5995.0,800.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Kukatpally,44000.0,1454.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Patancheru,9000.0,1080.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Gachibowli,11000.0,760.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,16000.0,840.0,Semi-Furnished,2.0
@@ -454,7 +438,6 @@ AGENT,1.0,BHK,Apartment,Kondapur,15000.0,700.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,13000.0,500.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Independent House,Gachibowli,28500.0,2000.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,10200.0,600.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Osman Nagar,71000.0,2200.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,raidurgam,19000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,raidurgam,21900.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,raidurgam,18000.0,1500.0,Semi-Furnished,2.0
@@ -668,7 +651,6 @@ AGENT,2.0,BHK,Independent House,Sanath Nagar,15700.0,1200.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent House,Erragadda,13560.0,800.0,Unfurnished,1.0
 AGENT,1.0,RK,Studio Apartment,Kothaguda,9000.0,200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Bollaram Industrial Area,27500.0,1450.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Toli Chowki,42000.0,1400.0,Furnished,1.0
 AGENT,4.0,BHK,Apartment,Nizampet,30000.0,2800.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent House,Bollaram Industrial Area,12500.0,1240.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Bahadurpally,12800.0,1200.0,Unfurnished,2.0
@@ -680,8 +662,6 @@ AGENT,2.0,BHK,Independent House,Kukatpally,15000.0,1100.0,Unfurnished,2.0
 AGENT,1.0,RK,Studio Apartment,Madhapur,12300.0,200.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Madhapur,11200.0,200.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent House,Madhapur,20000.0,800.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Independent House,raidurgam,43500.0,1700.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ameerpet,65700.0,2200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Independent House,Manikonda,37000.0,2500.0,Furnished,1.0
 AGENT,3.0,BHK,Independent House,Qutub Shahi Tombs,16800.0,1700.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Lakdikapul,27800.0,2000.0,Furnished,3.0
@@ -704,19 +684,15 @@ AGENT,3.0,BHK,Apartment,Pocharam,15600.0,1500.0,Furnished,1.0
 AGENT,2.0,BHK,Independent House,Bandlaguda Jagir,11500.0,1200.0,Unfurnished,1.0
 AGENT,3.0,BHK,Independent House,Shaikpet,15000.0,1700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Gowlidody,23200.0,1200.0,Furnished,1.0
-AGENT,3.0,BHK,Independent House,Madhapur,42000.0,2148.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent House,Ramachandra Puram,16500.0,1150.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Narsingi,35000.0,1600.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Alwal,7020.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Kondapur,26600.0,1200.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Gowlidody,15000.0,1240.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent House,Bahadurpally,12800.0,1202.0,Unfurnished,2.0
-AGENT,3.0,BHK,Independent House,Miyapur,52000.0,1400.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Upparpally,22500.0,1600.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Gachibowli,19100.0,950.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Bollaram Industrial Area,9300.0,600.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Toli Chowki,42000.0,1400.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Independent House,Gachibowli,42000.0,1000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Badesahebguda,14500.0,1495.0,Furnished,3.0
 AGENT,2.0,BHK,Independent House,Nallagandla Gachibowli,23500.0,900.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Gachibowli,20000.0,1100.0,Semi-Furnished,2.0
@@ -751,12 +727,6 @@ AGENT,2.0,BHK,Apartment,Madhapur,17000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,30000.0,1600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,14000.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Hitech City,38000.0,1355.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Hitech City,48000.0,1740.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,49000.0,1740.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,47000.0,1800.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,51000.0,1740.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Hitech City,50000.0,1355.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Narayanguda,55000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Himayat Nagar,25000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Himayat Nagar,26000.0,1650.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Himayat Nagar,28000.0,1700.0,Semi-Furnished,3.0
@@ -781,35 +751,10 @@ AGENT,1.0,BHK,Independent House,Hyder Nagar,9500.0,600.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent House,Hyder Nagar,7500.0,400.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent House,Hyder Nagar,8000.0,400.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Hyder Nagar,20000.0,1050.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Kukatpally,135000.0,4500.0,Semi-Furnished,6.0
-AGENT,3.0,BHK,Apartment,Hitech City,60000.0,2051.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Hitech City,138000.0,4500.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Jubilee Hills,100000.0,3200.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Hitech City,80000.0,3500.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Hitech City,39999.0,1355.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Hitech City,80000.0,3400.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Madhapur,120000.0,3430.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Hitech City,110000.0,3050.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Madhapur,110000.0,3430.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Hitech City,125000.0,4320.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Madhapur,100000.0,3430.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Hitech City,110000.0,3705.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Hitech City,54000.0,1738.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Hitech City,36000.0,1346.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Villa,Narsingi,225000.0,4639.0,Furnished,6.0
-AGENT,5.0,BHK,Villa,Narsingi,250000.0,4639.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Hitech City,39999.0,1346.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Madhapur,95000.0,2680.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,120000.0,3430.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,90000.0,2860.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Hitech City,40000.0,1355.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Hitech City,90000.0,3500.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Madhapur,125000.0,4320.0,Semi-Furnished,6.0
-AGENT,4.0,BHK,Apartment,Hitech City,120000.0,4320.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Hitech City,110000.0,4320.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Madhapur,125000.0,4165.0,Semi-Furnished,5.0
-AGENT,5.0,BHK,Villa,Narsingi,200000.0,4639.0,Furnished,7.0
-AGENT,4.0,BHK,Villa,Hitech City,125000.0,4500.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Attapur,8500.0,840.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Mehdipatnam,14950.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Mehdipatnam,24000.0,1450.0,Semi-Furnished,2.0
@@ -837,7 +782,6 @@ AGENT,2.0,BHK,Apartment,Chandanagar,20000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Villa,West Marredpally,32000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,22000.0,1600.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Independent Floor,Serilingampally,6000.0,800.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Hitech City,85000.0,2000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandanagar,24000.0,1590.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent House,Adikmet,12000.0,900.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Villa,Nizampet,30000.0,2600.0,Semi-Furnished,3.0
@@ -983,7 +927,6 @@ AGENT,3.0,BHK,Apartment,Madhura Nagar,30000.0,1400.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Madhura Nagar,26000.0,1350.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Yousufguda,8000.0,680.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Begumpet,8000.0,300.0,Furnished,1.0
-AGENT,5.0,BHK,Independent House,Mahendra Hills,60000.0,7000.0,Semi-Furnished,5.0
 AGENT,1.0,BHK,Apartment,Sanjeeva Reddy Nagar,7800.0,689.0,Semi-Furnished,1.0
 OWNER,4.0,BHK,Villa,Chandanagar,30000.0,4000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Officers Colony,15000.0,1120.0,Semi-Furnished,2.0
@@ -1176,7 +1119,6 @@ AGENT,1.0,BHK,Apartment,Balkampet,7500.0,575.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Somajiguda,7500.0,600.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Begumpet,7500.0,567.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Ramanthapur,7500.0,560.0,Unfurnished,1.0
-AGENT,5.0,BHK,Independent House,West Marredpally,85000.0,5000.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Banjara Hills,15000.0,1100.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Banjara Hills,8000.0,510.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Somajiguda,7001.0,650.0,Semi-Furnished,1.0
@@ -1193,7 +1135,6 @@ AGENT,2.0,BHK,Apartment,Begumpet,16000.0,1050.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Begumpet,25000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Padmarao Nagar,16000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Begumpet,15500.0,950.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Hitech City,45000.0,1885.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Nacharam,25000.0,1050.0,Furnished,2.0
 AGENT,1.0,BHK,Independent Floor,Banjara Hills,10000.0,540.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Yellareddy Guda,22000.0,1156.0,Semi-Furnished,2.0
@@ -1206,7 +1147,6 @@ AGENT,1.0,BHK,Apartment,Begumpet,14000.0,600.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Begumpet,7500.0,560.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,7000.0,700.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,8000.0,700.0,Semi-Furnished,1.0
-AGENT,6.0,BHK,Villa,Mahendra Hills,45000.0,4200.0,Semi-Furnished,7.0
 AGENT,1.0,BHK,Apartment,Begumpet,7500.0,565.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Ameerpet,7500.0,550.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Sanath Nagar,7500.0,585.0,Unfurnished,1.0
@@ -1222,7 +1162,6 @@ AGENT,1.0,BHK,Apartment,Kukatpally,11500.0,850.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Puppalaguda,14000.0,980.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Puppalaguda,12000.0,950.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Begumpet,25000.0,1620.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,55000.0,1728.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Begumpet,9000.0,600.0,Unfurnished,1.0
 AGENT,3.0,BHK,Independent House,Nacharam,20900.0,1510.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sanjeeva Reddy Nagar,18000.0,1100.0,Semi-Furnished,2.0
@@ -1273,7 +1212,6 @@ AGENT,1.0,RK,Studio Apartment,Kondapur,8500.0,600.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,18000.0,1351.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,12000.0,700.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,8000.0,600.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Kondapur,43000.0,1690.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gachibowli,37000.0,2000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kukatpally,40000.0,2000.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Moosarambagh Road,5500.0,700.0,Unfurnished,1.0
@@ -1375,8 +1313,6 @@ AGENT,3.0,BHK,Apartment,Kondapur,30000.0,1800.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Kondapur,13000.0,750.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Sanath Nagar,16000.0,1046.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kondapur,21000.0,1200.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Banjara Hills,52000.0,2500.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Banjara Hills,130000.0,4000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,24000.0,1250.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,11000.0,750.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Madhapur,12000.0,800.0,Semi-Furnished,1.0
@@ -1395,9 +1331,7 @@ AGENT,1.0,RK,Studio Apartment,Begumpet,4500.0,550.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Begumpet,7000.0,650.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Somajiguda,7500.0,650.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Somajiguda,7000.0,670.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Villa,Kondapur,120000.0,4500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Manikonda,30000.0,1300.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Independent House,Moosapet,150000.0,4000.0,Semi-Furnished,5.0
 AGENT,1.0,BHK,Apartment,Begumpet,7500.0,700.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Begumpet,11000.0,1010.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Begumpet,14000.0,1100.0,Semi-Furnished,2.0
@@ -1406,7 +1340,6 @@ AGENT,1.0,BHK,Apartment,Begumpet,15000.0,700.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Begumpet,7000.0,600.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Ameerpet,7500.0,700.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Ameerpet,4500.0,550.0,Semi-Furnished,1.0
-AGENT,6.0,BHK,Independent House,AS Rao Nagar,60000.0,6500.0,Semi-Furnished,6.0
 AGENT,2.0,BHK,Apartment,West Marredpally,17500.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,West Marredpally,18850.0,1450.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,East Marredpally,29000.0,1650.0,Semi-Furnished,3.0
@@ -1485,7 +1418,6 @@ AGENT,3.0,BHK,Apartment,Karwan,30000.0,1700.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Lakdikapul,17000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kondapur,15000.0,1200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Kachiguda,30000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,45000.0,2327.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Somajiguda,17000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,West Marredpally,20000.0,1350.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Independent Floor,Mahendra Hills,20000.0,1550.0,Semi-Furnished,3.0
@@ -1497,9 +1429,7 @@ AGENT,1.0,BHK,Apartment,Somajiguda,7000.0,700.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Somajiguda,7500.0,750.0,Unfurnished,1.0
 AGENT,4.0,BHK,Villa,Mahendra Hills,40000.0,3400.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Kondapur,13000.0,1300.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Mahendra Hills,50000.0,1900.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,18000.0,1100.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent Floor,Mahendra Hills,50000.0,2800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent House,Nallakunta,16000.0,1000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent House,Nallakunta,25000.0,1600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Amberpet,20000.0,1100.0,Semi-Furnished,2.0
@@ -1512,14 +1442,12 @@ AGENT,4.0,BHK,Apartment,Toli Chowki,20000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Uppal,8500.0,900.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Amberpet,4000.0,430.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,11000.0,784.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Independent House,Mahendra Hills,70000.0,3400.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Begumpet,28000.0,1750.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Begumpet,20000.0,1100.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Nallakunta,6000.0,450.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,8600.0,700.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Habsiguda,30000.0,2000.0,Unfurnished,3.0
 AGENT,1.0,BHK,Independent Floor,Nagole,6000.0,550.0,Unfurnished,1.0
-AGENT,10.0,BHK,Independent House,Tarnaka,360000.0,12000.0,Unfurnished,10.0
 AGENT,3.0,BHK,Apartment,Habsiguda,18000.0,1500.0,Unfurnished,3.0
 AGENT,1.0,BHK,Independent House,Begumpet,7500.0,530.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Somajiguda,17000.0,1050.0,Semi-Furnished,2.0
@@ -1579,7 +1507,6 @@ AGENT,2.0,BHK,Independent Floor,Sanjeeva Reddy Nagar,17000.0,1250.0,Semi-Furnish
 AGENT,1.0,BHK,Independent Floor,Ameerpet,10000.0,650.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent Floor,Sanath Nagar,11000.0,650.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Independent Floor,Sanath Nagar,22000.0,1500.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,45000.0,1710.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Sanath Nagar,8000.0,595.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Begumpet,14000.0,1100.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Begumpet,15000.0,1150.0,Semi-Furnished,2.0
@@ -1617,8 +1544,6 @@ AGENT,2.0,BHK,Apartment,East Marredpally,30000.0,2400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,West Marredpally,18000.0,1650.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,East Marredpally,30000.0,2820.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,East Marredpally,30000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,West Marredpally,60000.0,3000.0,Furnished,5.0
-AGENT,4.0,BHK,Independent House,West Marredpally,60000.0,5000.0,Furnished,5.0
 AGENT,2.0,BHK,Independent Floor,Ameerpet,14000.0,1110.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Trimalgherry,22000.0,1600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Sainikpuri,15000.0,1100.0,Semi-Furnished,2.0
@@ -1633,8 +1558,6 @@ AGENT,2.0,BHK,Apartment,Madhapur,24000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Uppal,8000.0,825.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Begumpet,7000.0,510.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent House,Ameerpet,7000.0,550.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Madhapur,45000.0,1850.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,46000.0,2405.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Kondapur,13000.0,750.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,9000.0,700.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,10000.0,750.0,Semi-Furnished,1.0
@@ -1760,9 +1683,7 @@ AGENT,1.0,BHK,Apartment,Begumpet,7600.0,550.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Somajiguda,7500.0,520.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Kondapur,21000.0,1470.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Mahendra Hills,15000.0,1050.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Banjara Hills,50000.0,3000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Masab Tank,26000.0,1625.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Banjara Hills,50000.0,2200.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,20000.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Madhapur,20000.0,1600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,17500.0,1300.0,Semi-Furnished,2.0
@@ -1831,9 +1752,6 @@ AGENT,2.0,BHK,Apartment,Nallakunta,14500.0,890.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Nallakunta,15000.0,975.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Madhapur,12500.0,750.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,16000.0,503.0,Semi-Furnished,1.0
-AGENT,2.0,BHK,Apartment,Hitech City,45000.0,1350.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Gachibowli,55000.0,2430.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,70000.0,2595.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Puppalaguda,9100.0,700.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Kondapur,26000.0,1800.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kondapur,24000.0,1750.0,Semi-Furnished,3.0
@@ -1841,52 +1759,22 @@ AGENT,2.0,BHK,Apartment,Kachiguda,15000.0,1060.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kachiguda,7000.0,650.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,18000.0,502.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Narayanguda,7500.0,600.0,Semi-Furnished,1.0
-BUILDER,10.0,BHK,Apartment,Ayyappa Society,600000.0,10000.0,Unfurnished,10.0
-AGENT,3.0,BHK,Apartment,Hitech City,60000.0,2713.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,60000.0,2645.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Kondapur,60000.0,2400.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Narsingi,45000.0,1834.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kokapet,55000.0,2800.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Nanakramguda,50000.0,1855.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,42000.0,1908.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Miyapur,34000.0,1400.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Nanakramguda,55000.0,1925.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,70000.0,1756.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,69000.0,2200.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,50000.0,2405.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Hitech City,120000.0,3100.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Serilingampally,45000.0,2050.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,44000.0,2160.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,45000.0,1756.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Appa Junction Peerancheru,25000.0,1590.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Gachibowli,53000.0,2410.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Gachibowli,40000.0,2150.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,50000.0,2050.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,55000.0,2410.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Miyapur,34000.0,1350.0,Semi-Furnished,3.0
-AGENT,6.0,BHK,Independent House,Gachibowli,100000.0,4000.0,Semi-Furnished,6.0
-AGENT,3.0,BHK,Apartment,Manikonda,60000.0,2800.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Gachibowli,50000.0,3200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,18000.0,1450.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,11000.0,1000.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,10000.0,1000.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Kondapur,23000.0,1750.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Kondapur,7000.0,800.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Kondapur,23000.0,1700.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,45000.0,1615.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kukatpally,17500.0,1100.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Hitech City,35000.0,1600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,35000.0,1850.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,21000.0,1140.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Hitech City,29000.0,1295.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Nanakramguda,70000.0,2525.0,Furnished,5.0
-AGENT,4.0,BHK,Villa,Appa Junction Peerancheru,60000.0,3430.0,Semi-Furnished,4.0
-AGENT,10.0,BHK,Independent Floor,Gachibowli,480000.0,10000.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Kondapur,32000.0,1400.0,Furnished,2.0
-AGENT,4.0,BHK,Villa,Hitech City,150000.0,4000.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Serilingampally,45000.0,1908.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,60000.0,1738.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Kokapet,85000.0,3880.0,Semi-Furnished,6.0
 AGENT,2.0,BHK,Apartment,Kondapur,22000.0,1006.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kondapur,18000.0,1024.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,16300.0,501.0,Furnished,1.0
@@ -1920,22 +1808,8 @@ AGENT,1.0,BHK,Apartment,Gachibowli,10000.0,502.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,PJR Nagar,18000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gachibowli,25000.0,1002.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Telecom Nagar,35000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Nanakramguda,60000.0,3230.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Madhapur,85000.0,2900.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Serilingampally,50000.0,5400.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Serilingampally,50000.0,3440.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jubilee Hills,75000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Nizampet,30000.0,1426.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Nizampet,60000.0,2600.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jubilee Hills,35000.0,1400.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Nizampet,42000.0,1997.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Kondapur,55000.0,2800.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Kondapur,43000.0,2095.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Kokapet,125000.0,4500.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Villa,Serilingampally,65000.0,3300.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Kukatpally,100000.0,4761.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,Madhapur,45000.0,2500.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Jubilee Hills,150000.0,4100.0,Semi-Furnished,4.0
 OWNER,1.0,BHK,Independent Floor,Kondapur,12000.0,500.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Malaysian Township Hyderabad,15000.0,1500.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Uppal Kalan,12500.0,1560.0,Semi-Furnished,2.0
@@ -1951,7 +1825,6 @@ AGENT,1.0,BHK,Apartment,Kondapur,14000.0,502.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Miyapur,22000.0,1150.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Villa,Kompally,34000.0,2700.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Kompally,25000.0,2200.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Hitech City,130000.0,4320.0,Semi-Furnished,5.0
 AGENT,1.0,BHK,Apartment,Malkajgiri,6000.0,600.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Gachibowli,12000.0,550.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Madhapur,8000.0,900.0,Furnished,4.0
@@ -2117,9 +1990,7 @@ OWNER,2.0,BHK,Apartment,Manikonda,25000.0,1260.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Saroor Nagar,22000.0,1600.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Trimalgherry,5000.0,800.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Jai Suryapatnam,4500.0,650.0,Unfurnished,1.0
-OWNER,2.0,BHK,Apartment,Gandi Maisamma,150000.0,2500.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Kokapet,31000.0,1735.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Kokapet,45000.0,2540.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,20000.0,1002.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Telecom Nagar,28000.0,1200.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,13000.0,502.0,Semi-Furnished,1.0
@@ -2163,9 +2034,7 @@ AGENT,1.0,BHK,Apartment,Telecom Nagar,15000.0,502.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Chinthal,14000.0,1090.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Banjara Hills Road Number 10,25000.0,1500.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Banjara Hills,25000.0,1700.0,Semi-Furnished,3.0
-OWNER,4.0,BHK,Apartment,7 Tombs Road,50000.0,3500.0,Furnished,4.0
 AGENT,2.0,BHK,Independent Floor,Chandanagar,13000.0,1150.0,Unfurnished,2.0
-OWNER,4.0,BHK,Villa,Kismatpur,88800.0,4500.0,Semi-Furnished,4.0
 OWNER,1.0,RK,Studio Apartment,Nagole,4500.0,500.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Lingampally,7000.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Banjara Hills,20000.0,1000.0,Semi-Furnished,2.0
@@ -2194,7 +2063,6 @@ OWNER,2.0,BHK,Independent Floor,Kapra,10000.0,1450.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Hafeezpet,7000.0,320.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Lingampally,15500.0,1440.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Miyapur,27000.0,1905.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Independent Floor,Ramnas Pura,300000.0,1440.0,Unfurnished,3.0
 OWNER,2.0,BHK,Apartment,Manikonda,12500.0,1100.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Banjara Hills,20000.0,1050.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Aminpur,8500.0,800.0,Unfurnished,1.0
@@ -2202,7 +2070,6 @@ OWNER,3.0,BHK,Apartment,Himayat Nagar,32000.0,1950.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,23000.0,1002.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Hyderguda,20000.0,1250.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Patel Guda,8000.0,1350.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,60000.0,1953.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Manikonda,32000.0,1314.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kukatpally,35000.0,1342.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gachibowli,29000.0,1275.0,Semi-Furnished,2.0
@@ -2239,8 +2106,6 @@ AGENT,2.0,BHK,Apartment,Telecom Nagar,22000.0,1002.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Telecom Nagar Extension,28000.0,1024.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jubilee Hills,40000.0,1890.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Madhapur,40000.0,2033.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Gachibowli,150000.0,4012.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Madhapur,60000.0,2310.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,East Marredpally,19000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,West Marredpally,20000.0,1100.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Gachibowli,10000.0,506.0,Semi-Furnished,1.0
@@ -2270,18 +2135,14 @@ OWNER,2.0,BHK,Independent Floor,Uppal,12000.0,750.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Falaknuma,11000.0,780.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Kukatpally,8500.0,780.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Nizampet,12500.0,1651.0,Unfurnished,2.0
-OWNER,4.0,BHK,Villa,Gachibowli,90000.0,3500.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Kukatpally,16000.0,1050.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Khairatabad Road,8000.0,594.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Manikonda,35000.0,1817.0,Semi-Furnished,3.0
-OWNER,4.0,BHK,Villa,Kismatpur,88000.0,4659.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Malakpet,8000.0,1150.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Bachupally,14000.0,1210.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Pragathi Nagar Kukatpally,13500.0,1150.0,Furnished,2.0
 AGENT,4.0,BHK,Villa,Kompally,35000.0,3300.0,Semi-Furnished,4.0
-BUILDER,5.0,BHK,Independent House,Banjara Hills,300000.0,7500.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Hitech City,35000.0,2204.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,50000.0,2430.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Madhapur,12500.0,598.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Puppalaguda,7500.0,600.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Gachibowli,18000.0,1400.0,Semi-Furnished,2.0
@@ -2300,7 +2161,6 @@ OWNER,2.0,BHK,Apartment,Nallakunta,16000.0,1050.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Erragadda,8000.0,1500.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Hyder Nagar,9500.0,950.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Narayanguda,3000.0,150.0,Unfurnished,1.0
-OWNER,3.0,BHK,Independent Floor,Venkataramana Colony,45000.0,1700.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Patancheru,9000.0,1100.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Kukatpally,25000.0,1600.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Falaknuma,10000.0,900.0,Unfurnished,2.0
@@ -2318,14 +2178,11 @@ OWNER,1.0,RK,Studio Apartment,Kachiguda,8000.0,700.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Venkatagiri,20000.0,1000.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kokapet,40000.0,1945.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Manikonda,22000.0,1650.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Villa,Manikonda,50000.0,1000.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Yapral,20000.0,1500.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kompally,28000.0,1660.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Kondapur,45000.0,2000.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Tarnaka,17000.0,550.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Kismatpur,9000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Hayathnagar,9000.0,1400.0,Semi-Furnished,3.0
-OWNER,1.0,RK,Studio Apartment,Balanagar,60000.0,1500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Boduppal,7500.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,raidurgam,16000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Aminpur,8000.0,800.0,Unfurnished,2.0
@@ -2354,18 +2211,14 @@ OWNER,2.0,BHK,Independent Floor,Skandagiri,18000.0,1300.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Narsingi,13000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Tatianaram,10000.0,1200.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Kompally,15000.0,1395.0,Semi-Furnished,3.0
-OWNER,4.0,BHK,Independent House,Kartik Enclave New Bowenpally,45000.0,4600.0,Semi-Furnished,4.0
 OWNER,3.0,BHK,Independent Floor,Ramnas Pura,12000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Meerpet,8000.0,750.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Aminpur,8800.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Dilsukh Nagar,10000.0,800.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Nagole,15000.0,1000.0,Unfurnished,3.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,50000.0,1938.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Pocharam South Hyderabad,5500.0,520.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,New Bowenpally X Road,8000.0,750.0,Furnished,1.0
 OWNER,1.0,BHK,Independent House,Nagole,7000.0,650.0,Semi-Furnished,1.0
-OWNER,4.0,BHK,Villa,Gopanapalli,200000.0,4000.0,Furnished,4.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,60000.0,2098.0,Furnished,3.0
 OWNER,1.0,BHK,Independent House,Hayathnagar,5500.0,500.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Narayanguda,9500.0,650.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Moosapet,8000.0,652.0,Unfurnished,1.0
@@ -2377,7 +2230,6 @@ AGENT,3.0,BHK,Apartment,East Marredpally,28000.0,1700.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Kokapet,25000.0,1215.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Gachibowli,16000.0,506.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,14000.0,506.0,Furnished,1.0
-OWNER,11.0,BHK,Independent House,Madhapur,160000.0,5400.0,Unfurnished,12.0
 OWNER,3.0,BHK,Apartment,Hafeezpet,19500.0,1470.0,Semi-Furnished,5.0
 OWNER,2.0,BHK,Apartment,East Marredpally,20000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kompally,17000.0,1265.0,Furnished,2.0
@@ -2404,10 +2256,8 @@ OWNER,2.0,BHK,Apartment,Puppalaguda,18500.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Puppalaguda,17500.0,1100.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Gajularamaram,6000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Puppalaguda,18000.0,1100.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Madhapur,110000.0,3333.0,Furnished,4.0
 AGENT,2.0,BHK,Independent Floor,Anjaiah Nagar,16500.0,1050.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent House,sriram nagar kondapur,12000.0,502.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Madhapur,70000.0,2310.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,West Marredpally,35000.0,2000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Vediri Township,15000.0,1200.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,10000.0,502.0,Semi-Furnished,1.0
@@ -2415,7 +2265,6 @@ OWNER,2.0,BHK,Apartment,Miyapur,9500.0,605.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Jubilee Hills,30000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Jillelguda,11000.0,1100.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Banjara Hills,10000.0,400.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Independent Floor,Jubilee Hills,50000.0,2250.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Rajendra Nagar,15000.0,1275.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,Jeedimetla,6500.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Gachibowli,19500.0,950.0,Furnished,2.0
@@ -2429,7 +2278,6 @@ OWNER,1.0,BHK,Independent Floor,Ghatkesar,5000.0,1250.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Serilingampally,15000.0,1250.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Khajiguda,11000.0,500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Villa,Kompally,30000.0,2600.0,Furnished,5.0
-OWNER,3.0,BHK,Apartment,Gachibowli,58400.0,1900.0,Furnished,3.0
 OWNER,2.0,BHK,Penthouse,Dilsukh Nagar,10000.0,1200.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Ghatkesar,4500.0,400.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Ameerpet,8000.0,550.0,Furnished,1.0
@@ -2471,7 +2319,6 @@ AGENT,3.0,BHK,Apartment,Vinayak Nagar Colony Hyderabad,35300.0,1650.0,Furnished,
 OWNER,3.0,BHK,Apartment,Kondapur,23000.0,1500.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Manikonda,20000.0,1505.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Puppalaguda,19000.0,1200.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Independent House,Banjara Hills,140000.0,5000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Borabanda,16000.0,1050.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,Borabanda,7000.0,500.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Mallapur,3000.0,150.0,Unfurnished,1.0
@@ -2483,10 +2330,8 @@ OWNER,2.0,BHK,Apartment,Kompally,22000.0,930.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Rajendra Nagar,25000.0,1316.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Manikonda,20000.0,1340.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Ramachandra Puram,6500.0,750.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,MLA Colony Road Number 12,170000.0,2200.0,Furnished,4.0
 OWNER,2.0,BHK,Independent House,HS Darga Hyderabad,10000.0,1190.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Sanath Nagar,8000.0,550.0,Furnished,1.0
-AGENT,4.0,BHK,Villa,Madhapur,150000.0,4630.0,Semi-Furnished,5.0
 OWNER,2.0,BHK,Independent House,Erragadda,10000.0,1200.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Erragadda,12000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,West Marredpally,12000.0,900.0,Unfurnished,2.0
@@ -2515,7 +2360,6 @@ AGENT,2.0,BHK,Apartment,Himayat Nagar,22000.0,1150.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Himayat Nagar,24000.0,1200.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent House,Domalguda,14000.0,600.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Golden Heights Road,13000.0,1200.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Komatikunta,44500.0,1700.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Aparna Hill Park,13000.0,1400.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent House,Sathya Colony,15000.0,1700.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Sathya Colony,16000.0,1700.0,Unfurnished,2.0
@@ -2527,7 +2371,6 @@ AGENT,2.0,BHK,Apartment,Khizra Enclave,16000.0,1400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,kondapur jankshan,21600.0,1100.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,100 Feet Road,32000.0,1100.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,Balram Nagar,7000.0,680.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Gachibowli,130000.0,4701.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vinayak Nagar Colony Hyderabad,24800.0,1600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Madhava Hills Estates,26700.0,1600.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Defence Colony,29800.0,1600.0,Semi-Furnished,3.0
@@ -2550,8 +2393,6 @@ AGENT,1.0,BHK,Apartment,Kondapur,9000.0,750.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Hitech City,10000.0,750.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,18000.0,1500.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Hitech City,32000.0,1700.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Jubilee Hills,55000.0,2400.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Punjagutta,43000.0,1800.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Hastinapuram,12000.0,1150.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Hitech City,25000.0,1750.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Bowenpally,14000.0,1100.0,Semi-Furnished,2.0
@@ -2576,7 +2417,6 @@ AGENT,1.0,BHK,Apartment,Bagath Singh Nagar Phase 2,7800.0,200.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,BK Guda Road,14000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Hafeezpet Hyderabad,15000.0,2000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Hafeezpet Hyderabad,15200.0,2000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Narsingi,50000.0,1550.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,10500.0,502.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Domalguda,30000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent House,Ameenpur Plots,26320.0,1350.0,Semi-Furnished,4.0
@@ -2646,10 +2486,6 @@ AGENT,2.0,BHK,Independent House,Gopalnagar Society,21150.0,3.0,Semi-Furnished,2.
 AGENT,2.0,BHK,Independent House,Gopalnagar Society,21150.0,1050.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent House,Weaker Section Colony,11100.0,700.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Moosarambagh Road,15700.0,500.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Nanakramguda,120000.0,3300.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Gachibowli,75000.0,2700.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Manikonda,60000.0,2605.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Madhapur,55000.0,2700.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Gopal Reddy Nagar,10500.0,1200.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Pragathi Nagar Main,14500.0,1150.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,BHEL,9500.0,350.0,Furnished,1.0
@@ -2696,11 +2532,9 @@ OWNER,3.0,BHK,Independent House,Jubilee Hills,35000.0,2000.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Kompally,30000.0,2500.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Trimalgherry,16000.0,2000.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Telecom Nagar,17500.0,506.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Gopal Reddy Nagar,44500.0,1500.0,Furnished,3.0
 AGENT,2.0,BHK,Independent Floor,Banjara Hills Main Road,25000.0,1400.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Gopal Reddy Nagar,13500.0,600.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Gopal Reddy Nagar,14000.0,600.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,kukatpally housing board,45000.0,2259.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,15500.0,502.0,Furnished,1.0
 AGENT,2.0,BHK,Independent House,Alluri Seetaramaraju Nagar,16000.0,200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,ISB Ring Road,23700.0,1500.0,Semi-Furnished,2.0
@@ -2712,16 +2546,13 @@ OWNER,2.0,BHK,Villa,Karkhana,10000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Toli Chowki,13000.0,1300.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Kompally,16000.0,1050.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kokapet,27000.0,1275.0,Semi-Furnished,2.0
-OWNER,2.0,BHK,Apartment,Gachibowli,50000.0,1690.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kukatpally,25000.0,1380.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Abids,17500.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Hastinapuram,10000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Ramachandra Puram,11000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Saroornagar,5000.0,550.0,Unfurnished,1.0
-OWNER,4.0,BHK,Independent Floor,Madhura Nagar,90000.0,2000.0,Unfurnished,4.0
 OWNER,4.0,BHK,Independent Floor,Jam Bagh,40000.0,2000.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent House,Kamalaprasad Nagar,8000.0,1500.0,Unfurnished,1.0
-OWNER,3.0,BHK,Independent House,Kondapur,45000.0,1750.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Nagaram,7800.0,950.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Kothapet,8000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Karmanghat,12000.0,1000.0,Semi-Furnished,2.0
@@ -2751,16 +2582,13 @@ OWNER,1.0,BHK,Independent Floor,Attapur,9000.0,700.0,Unfurnished,1.0
 AGENT,3.0,BHK,Villa,Medak,22300.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kompally,23000.0,1680.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kompally,15000.0,1050.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Apartment,Madhapur,123000.0,2750.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent Floor,Attapur,8500.0,900.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Madhapur,150000.0,4070.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Golden Heights Road,13000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kondapur,19500.0,1250.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Aminpur,8500.0,850.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nizampet,12000.0,1075.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Meerpet,5000.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Karwan,15000.0,1024.0,Furnished,2.0
-OWNER,8.0,BHK,Independent House,Kondapur,120000.0,8000.0,Semi-Furnished,8.0
 OWNER,2.0,BHK,Independent House,Meerpet,8000.0,1300.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Kondapur,12000.0,700.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Gajulramaram Kukatpally,28000.0,1620.0,Furnished,3.0
@@ -2790,11 +2618,8 @@ AGENT,1.0,BHK,Independent House,Gajulramaram Kukatpally,7300.0,900.0,Unfurnished
 AGENT,1.0,RK,Studio Apartment,VIP Hills,15200.0,200.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Venkataramana Colony,37400.0,1650.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,ISB Ring Road,27000.0,1500.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Kukatpally,45000.0,1870.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Manikonda,60000.0,2390.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Hitex,19500.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Somajiguda,35000.0,1250.0,Furnished,2.0
-AGENT,4.0,BHK,Independent Floor,Jubilee Hills,65000.0,3500.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,14000.0,480.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,11000.0,502.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Chandanagar,28000.0,1245.0,Furnished,2.0
@@ -2894,11 +2719,8 @@ AGENT,2.0,BHK,Apartment,Ameerpet,17000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ameerpet,16000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ameerpet,18000.0,1250.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Telecom Nagar,14000.0,502.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Banjara Hills Road Number 12,50000.0,2500.0,Furnished,3.0
 AGENT,1.0,BHK,Independent Floor,Kundan Bagh Road,10000.0,1000.0,Unfurnished,1.0
-AGENT,3.0,BHK,Independent Floor,Methodist Colony,47000.0,4000.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Methodist Colony,26000.0,3000.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ameerpet,45000.0,4000.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Kundan Bagh Road,12000.0,1200.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Methodist Colony,25000.0,2500.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Begumpet,20000.0,1800.0,Semi-Furnished,3.0
@@ -2910,9 +2732,7 @@ AGENT,1.0,BHK,Independent Floor,Methodist Colony,10000.0,800.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Begumpet,20000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Begumpet,37000.0,2000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Begumpet,20000.0,1300.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Begumpet,45000.0,3000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Begumpet,18000.0,1500.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Begumpet,46000.0,3500.0,Unfurnished,3.0
 OWNER,3.0,BHK,Independent House,Warasiguda,20000.0,1300.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Kothapet,10000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Toopran,15000.0,1643.0,Unfurnished,2.0
@@ -2939,7 +2759,6 @@ OWNER,3.0,BHK,Apartment,Gachibowli,38000.0,1900.0,Furnished,2.0
 OWNER,3.0,BHK,Independent House,Rasoolpura,15000.0,1400.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Kondapur,15000.0,1100.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Hyder Nagar,9000.0,700.0,Semi-Furnished,1.0
-OWNER,8.0,BHK,Independent House,Manikonda,90000.0,6500.0,Semi-Furnished,8.0
 OWNER,3.0,BHK,Independent House,Ramachandra Puram,15000.0,1800.0,Semi-Furnished,3.0
 OWNER,1.0,RK,Studio Apartment,LB Nagar,6000.0,650.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Neredmet X Road Vayupuri Sainikpuri X Road,18000.0,1800.0,Furnished,2.0
@@ -2968,7 +2787,6 @@ OWNER,2.0,BHK,Apartment,Moosarambagh Road,18000.0,1000.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Kistareddypet,3200.0,300.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Nizampet,7000.0,600.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Hastinapuram,6500.0,850.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Apartment,Gachibowli,42000.0,1750.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Gachibowli,18500.0,1100.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,Balapur,4000.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Yousufguda,15500.0,950.0,Semi-Furnished,2.0
@@ -2978,10 +2796,8 @@ OWNER,1.0,BHK,Independent Floor,Bairagiguda,7500.0,1250.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,6th Phase KPHB,15000.0,1025.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Nallagandla Gachibowli,18000.0,1250.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nanakramguda,15000.0,980.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,50000.0,1745.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Aminpur,8000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Madhapur,25000.0,1200.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Gachibowli,60000.0,1717.0,Furnished,2.0
 OWNER,2.0,BHK,Villa,Osman Nagar,12000.0,1200.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Independent House,Suchitra,30000.0,1350.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Miyapur,13000.0,1600.0,Furnished,2.0
@@ -3037,7 +2853,6 @@ OWNER,2.0,BHK,Apartment,Gopanpally,20000.0,1220.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Pragathi Nagar Kukatpally,28000.0,1668.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Nallakunta,16000.0,1100.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,Deen Dayal Nagar,5500.0,600.0,Unfurnished,1.0
-OWNER,8.0,BHK,Independent Floor,Mayuri Nagar,75000.0,4500.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,West Marredpally,22000.0,1600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,West Marredpally,26000.0,1650.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,West Marredpally,8000.0,600.0,Unfurnished,1.0
@@ -3144,7 +2959,6 @@ OWNER,2.0,BHK,Apartment,Pragathi Nagar Kukatpally,13000.0,1152.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Begumpet,26000.0,1800.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kothapet,16100.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Attapur,7000.0,500.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Madhapur,90000.0,2670.0,Unfurnished,3.0
 OWNER,3.0,BHK,Independent Floor,Moosarambagh Road,18000.0,1400.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Shaikpet,32000.0,1575.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Dilsukh Nagar,16000.0,1200.0,Semi-Furnished,3.0
@@ -3154,7 +2968,6 @@ OWNER,2.0,BHK,Apartment,Gachibowli,24000.0,1300.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Nizampet,17000.0,1150.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Hayathnagar,6000.0,550.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Ameerpet,29000.0,1900.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Banjara Hills,45000.0,2650.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Chandanagar,16500.0,3000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Chinthal Basthi,12500.0,900.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,8500.0,800.0,Unfurnished,2.0
@@ -3163,7 +2976,6 @@ OWNER,2.0,BHK,Apartment,Manikonda,25000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Moosapet,10000.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Dilsukh Nagar,10000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Malkajgiri,6500.0,750.0,Unfurnished,1.0
-OWNER,4.0,BHK,Villa,Serilingampally,50000.0,2300.0,Furnished,4.0
 OWNER,3.0,BHK,Apartment,Ameerpet,29000.0,1635.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Sanjeeva Reddy Nagar,5500.0,450.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Somajiguda,30000.0,2100.0,Semi-Furnished,3.0
@@ -3182,13 +2994,11 @@ OWNER,2.0,BHK,Independent House,Sainikpuri,12500.0,2400.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Sainikpuri,12000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Boduppal,7000.0,1175.0,Unfurnished,3.0
 OWNER,1.0,BHK,Independent House,Laxmiguda,5499.0,500.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Gachibowli,45000.0,1550.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Begumpet,16000.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Boduppal,8000.0,1150.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nizampet,12000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Ramachandra Puram,11000.0,800.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Yamnampet,10000.0,1150.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,45000.0,1925.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Nagaram,7000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Kushaiguda,7000.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Serilingampally,21000.0,1250.0,Semi-Furnished,2.0
@@ -3247,7 +3057,6 @@ OWNER,3.0,BHK,Apartment,Nizampet,17000.0,1630.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Chengicherla,10000.0,1300.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Bapu Nagar,7000.0,1000.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Independent Floor,Moosarambagh Road,18000.0,1600.0,Unfurnished,3.0
-OWNER,5.0,BHK,Independent House,Banjara Hills,150000.0,5000.0,Furnished,6.0
 OWNER,2.0,BHK,Independent House,Aminpur,12000.0,1250.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Jeedimetla,17500.0,1750.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Jeedimetla,10500.0,1900.0,Unfurnished,2.0
@@ -3267,7 +3076,6 @@ OWNER,2.0,BHK,Independent House,Kothapet,8500.0,1400.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,LB Nagar,12500.0,800.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,LB Nagar,6000.0,380.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Nacharam,11000.0,550.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Mehdipatnam,60000.0,1610.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Malakpet,25000.0,1100.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,LB Nagar,5800.0,600.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,LB Nagar,2800.0,600.0,Unfurnished,1.0
@@ -3299,8 +3107,6 @@ OWNER,3.0,BHK,Apartment,Kukatpally,17500.0,1450.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Kukatpally,19000.0,1600.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nizampet,14000.0,1275.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kukatpally,16000.0,1350.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Villa,Kokapet,180000.0,4720.0,Semi-Furnished,5.0
-OWNER,4.0,BHK,Villa,Gachibowli,117000.0,4500.0,Furnished,5.0
 OWNER,2.0,BHK,Apartment,Kukatpally,20000.0,1100.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Badangpet,8500.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Moti Nagar,14500.0,1035.0,Semi-Furnished,2.0
@@ -3318,7 +3124,6 @@ OWNER,1.0,BHK,Independent House,Hastinapuram,6000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Chandanagar,13000.0,1085.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Hanamkonda,9000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Laxmiguda,8000.0,900.0,Unfurnished,2.0
-OWNER,5.0,BHK,Independent House,Jubilee Hills,120000.0,7000.0,Furnished,6.0
 OWNER,2.0,BHK,Independent Floor,Old Bowenpally,11500.0,1400.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Kukatpally,25000.0,1225.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Bowenpally,4000.0,450.0,Unfurnished,1.0
@@ -3330,8 +3135,6 @@ OWNER,3.0,BHK,Villa,Kowkur,19000.0,1820.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent Floor,Nagole,22000.0,2000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,35000.0,1850.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,33000.0,1156.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Madhapur,75000.0,2595.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Hitech City,110000.0,3000.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Kondapur,13000.0,506.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Himayat Nagar,15000.0,700.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Manikonda,15000.0,1000.0,Semi-Furnished,2.0
@@ -3342,7 +3145,6 @@ OWNER,2.0,BHK,Independent House,Ramachandra Puram,15000.0,1200.0,Semi-Furnished,
 OWNER,2.0,BHK,Independent House,Madhapur,18000.0,900.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Mehdipatnam,6500.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Madhapur,18000.0,1100.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Villa,Kokapet,180000.0,4720.0,Semi-Furnished,4.0
 OWNER,1.0,BHK,Independent Floor,Nanakramguda,10000.0,1100.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Kismatpur,8600.0,1180.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Venkat Nagar Colony,16000.0,1300.0,Semi-Furnished,2.0
@@ -3365,11 +3167,9 @@ AGENT,2.0,BHK,Apartment,Kondapur,18000.0,1002.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,10500.0,426.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent Floor,Ameerpet,5000.0,150.0,Furnished,2.0
 OWNER,2.0,BHK,Penthouse,Gandhinagar,13000.0,600.0,Unfurnished,1.0
-AGENT,5.0,BHK,Villa,Jubille Hills Road,200000.0,5000.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Kondapur,20000.0,1140.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Anjaiah Nagar,16500.0,902.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Gachibowli,23000.0,1400.0,Semi-Furnished,2.0
-OWNER,10.0,BHK,Independent House,Manikonda,300000.0,7500.0,Furnished,8.0
 OWNER,3.0,BHK,Apartment,Alwal,20000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kondapur,24000.0,1150.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kondapur,23500.0,1150.0,Furnished,2.0
@@ -3406,7 +3206,6 @@ OWNER,2.0,BHK,Apartment,Chandanagar,15000.0,900.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Vanasthalipuram,9500.0,1660.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Suchitra,11000.0,1350.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Bhagyanagar Colony Kukatpally,16000.0,1350.0,Semi-Furnished,2.0
-OWNER,2.0,BHK,Independent House,Shadnagar,76000.0,1130.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kukatpally,20000.0,2000.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Kondapur,11000.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,24000.0,1250.0,Furnished,1.0
@@ -3416,7 +3215,6 @@ OWNER,2.0,BHK,Apartment,Appa Junction Peerancheru,24500.0,1134.0,Semi-Furnished,
 OWNER,2.0,BHK,Apartment,Kothapet,13000.0,1300.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Jeedimetla,6000.0,650.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Puppalaguda,15000.0,1200.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Villa,Tellapur,55000.0,3815.0,Semi-Furnished,5.0
 OWNER,2.0,BHK,Independent House,Meerpet,7500.0,1500.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Mallapur,22000.0,1625.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Toli Chowki,25000.0,1200.0,Furnished,2.0
@@ -3486,9 +3284,6 @@ OWNER,3.0,BHK,Apartment,Miyapur,20000.0,1327.0,Furnished,2.0
 AGENT,1.0,BHK,Independent House,Domalguda,10000.0,600.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Sri Nagar Colony,30000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,40000.0,2250.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Narsingi,55000.0,3380.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Narsingi,50000.0,2650.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Kokapet,55000.0,3380.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Kondapur,12650.0,1150.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,25000.0,1500.0,Semi-Furnished,2.0
 AGENT,1.0,RK,Studio Apartment,Kondapur,7500.0,550.0,Semi-Furnished,1.0
@@ -3513,22 +3308,17 @@ AGENT,2.0,BHK,Apartment,Kondapur,17000.0,1120.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kondapur,14000.0,1150.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Kondapur,12000.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kondapur,15000.0,1200.0,Unfurnished,2.0
-AGENT,5.0,BHK,Independent House,Habsiguda,65000.0,4000.0,Unfurnished,5.0
 AGENT,4.0,BHK,Independent Floor,Uppal Kalan,25000.0,1500.0,Unfurnished,4.0
 AGENT,4.0,BHK,Independent Floor,Uppal Kalan,25000.0,2100.0,Unfurnished,4.0
 AGENT,1.0,BHK,Apartment,Habsiguda,5000.0,500.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Habsiguda,8000.0,800.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Habsiguda,20000.0,2100.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Lakdikapul,20000.0,1233.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Banjara Hills Road Number 10,43000.0,1900.0,Furnished,3.0
 AGENT,2.0,BHK,Independent House,Habsiguda,35000.0,2500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Habsiguda,15000.0,1550.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Kondapur,55000.0,1908.0,Unfurnished,3.0
 AGENT,3.0,BHK,Independent Floor,Habsiguda,30000.0,1650.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Habsiguda,30000.0,2000.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Habsiguda,25000.0,1900.0,Unfurnished,3.0
-AGENT,4.0,BHK,Independent House,Habsiguda,45000.0,3500.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,150000.0,2595.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,14500.0,506.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Anjaiah Nagar,16500.0,860.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Saroornagar,22000.0,1250.0,Semi-Furnished,2.0
@@ -3559,7 +3349,6 @@ OWNER,2.0,BHK,Independent Floor,Meerpet,8500.0,1500.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Boduppal,5500.0,550.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent House,Yousufguda,8000.0,1150.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Nagaram Hyderabad South,8500.0,2100.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Manikonda,44000.0,2000.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Meerpet,9000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Kothapet,30000.0,2500.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Madhura Nagar,15000.0,1100.0,Unfurnished,2.0
@@ -3595,7 +3384,6 @@ OWNER,2.0,BHK,Independent House,Bairagiguda,9000.0,1000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Green Hills Road,11000.0,700.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Kukatpally,11000.0,1000.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Chandanagar,25000.0,1620.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Gachibowli,49000.0,1717.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kondapur,30000.0,1900.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Manikonda,15000.0,1395.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Kondapur,24000.0,1400.0,Semi-Furnished,2.0
@@ -3622,17 +3410,11 @@ AGENT,2.0,BHK,Apartment,Neknampur,20000.0,1200.0,Furnished,2.0
 AGENT,1.0,BHK,Independent Floor,Kondapur,24000.0,540.0,Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Kondapur,18500.0,952.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Manikonda,25000.0,1600.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Banjara Hills,60000.0,3000.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jubilee Hills,80000.0,3000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Tarnaka,15000.0,900.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sri Nagar Colony,20000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jubilee Hills,25000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Yousufguda,25000.0,1100.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent House,Tarnaka,9000.0,900.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Banjara Hills,50000.0,3000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Banjara Hills,50000.0,2500.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Banjara Hills,60000.0,2800.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Shaikpet,45000.0,1820.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Anjaiah Nagar,14500.0,501.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Kondapur,22000.0,1480.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Independent Floor,Anjaiah Nagar,12500.0,506.0,Furnished,1.0
@@ -3644,17 +3426,14 @@ OWNER,1.0,BHK,Independent House,Jeedimetla,6000.0,560.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Uppal,4500.0,350.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Hyderguda,12999.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kondapur,25000.0,1100.0,Furnished,2.0
-OWNER,3.0,BHK,Apartment,Gachibowli,55000.0,2400.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kukatpally,20000.0,1450.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Hafeezpet,15000.0,1215.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Sanjeeva Reddy Nagar,7700.0,200.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Manikonda,60000.0,2400.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Nallagandla Gachibowli,25000.0,1560.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Madhapur,16000.0,650.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Trimalgherry,10000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Neeladri Nagar,6500.0,700.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Aminpur,10000.0,870.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Kondapur,55000.0,2670.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Jagadgiri Gutta,18000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Pocharam,4500.0,450.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Manikonda,13000.0,1200.0,Semi-Furnished,2.0
@@ -3691,13 +3470,8 @@ AGENT,2.0,BHK,Apartment,P Janardhan Reddy Nagar,18000.0,1002.0,Semi-Furnished,2.
 AGENT,2.0,BHK,Apartment,Telecom Nagar,19800.0,1005.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Telecom Nagar,21000.0,1026.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Telecom Nagar,14500.0,506.0,Furnished,1.0
-AGENT,5.0,BHK,Independent House,Kondapur,70000.0,4500.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Raghavendra Colony Manikonda,27000.0,1800.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kondapur,45000.0,1840.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Independent Floor,Kondapur,68000.0,2000.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kondapur,12000.0,700.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Nizampet,75000.0,3300.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Villa,Jubilee Hills,90000.0,6000.0,Furnished,6.0
 AGENT,3.0,BHK,Apartment,Madhapur,36000.0,1800.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Miyapur,20000.0,1488.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Independent House,Manikonda,40000.0,2600.0,Semi-Furnished,4.0
@@ -3711,7 +3485,6 @@ OWNER,3.0,BHK,Apartment,Manikonda,15000.0,1400.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Bandlaguda Jagir,9000.0,900.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Chandanagar,9000.0,850.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Kukatpally,15000.0,1240.0,Semi-Furnished,2.0
-OWNER,2.0,BHK,Apartment,Gachibowli,46000.0,1400.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,LB Nagar,25000.0,1430.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Kukatpally,18500.0,1010.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Attapur,6500.0,1500.0,Semi-Furnished,1.0
@@ -3728,7 +3501,6 @@ OWNER,2.0,BHK,Apartment,Manikonda,17000.0,1155.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Aminpur,10000.0,1350.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Toli Chowki,25000.0,1205.0,Furnished,2.0
 OWNER,1.0,BHK,Independent House,Amberpet,4000.0,350.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Nanakramguda,70000.0,3310.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Hitex,22000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Hitech City,26000.0,1600.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Hitech City,25000.0,1500.0,Semi-Furnished,2.0
@@ -3737,10 +3509,7 @@ AGENT,3.0,BHK,Apartment,Kondapur,39000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Hitex,30000.0,1600.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Hitech City,25000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Hitech City,38000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,45000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Hitech City,25000.0,1150.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Hitech City,95000.0,4000.0,Furnished,4.0
-AGENT,2.0,BHK,Apartment,Hitech City,45000.0,1900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gachibowli,39000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Kondapur,40000.0,2070.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,23000.0,1200.0,Furnished,2.0
@@ -3758,7 +3527,6 @@ OWNER,1.0,RK,Studio Apartment,Balapur,3800.0,150.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Moosapet,14000.0,1200.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Nanakramguda,40000.0,1600.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Talab Katta,12000.0,1650.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,50000.0,2850.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Bandlaguda Jagir,15000.0,1271.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kokapet,26000.0,1260.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Serilingampally,8000.0,600.0,Unfurnished,1.0
@@ -3775,7 +3543,6 @@ OWNER,1.0,BHK,Apartment,Kukatpally,10500.0,850.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Kothapet,12000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Malkajgiri,20000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Madhapur,11000.0,650.0,Semi-Furnished,1.0
-OWNER,1.0,BHK,Independent Floor,Ramnas Pura,65000.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Hitech City,33000.0,1265.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Rampally,4500.0,850.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Pragathi Nagar Kukatpally,17000.0,2000.0,Furnished,2.0
@@ -3908,7 +3675,6 @@ OWNER,1.0,BHK,Independent Floor,Ramanthapur,5000.0,280.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Nagole,13000.0,1400.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Tellapur,14000.0,1188.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,14500.0,1200.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Gachibowli,65000.0,1989.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Saroor Nagar,25000.0,1585.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Saroor Nagar,23000.0,1585.0,Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Bachupally,8000.0,1200.0,Semi-Furnished,2.0
@@ -3930,7 +3696,6 @@ OWNER,2.0,BHK,Apartment,Toli Chowki,18000.0,1150.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Begumpet,10000.0,600.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Gachibowli,27000.0,1756.0,Semi-Furnished,3.0
 OWNER,1.0,RK,Studio Apartment,Medchal,5000.0,900.0,Unfurnished,1.0
-OWNER,4.0,BHK,Apartment,Gachibowli,45000.0,2906.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Chandanagar,18000.0,1225.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gopanpally,23000.0,1601.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gopanpally,17000.0,1130.0,Semi-Furnished,2.0
@@ -3943,31 +3708,21 @@ AGENT,3.0,BHK,Apartment,Kondapur,37000.0,1505.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kondapur,36500.0,1490.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kondapur,37000.0,1619.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gachibowli,27000.0,1756.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madhapur,90000.0,3200.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Hitech City,120000.0,4761.0,Semi-Furnished,7.0
-AGENT,3.0,BHK,Apartment,Whitefield,70000.0,2600.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Whitefield,65000.0,2600.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Hitech City,130000.0,5000.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Hitech City,100000.0,3050.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Independent Floor,Banjara Hills Road Number 10,18000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Banjara Hills Main Road,25000.0,1600.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent House,Road No 10 Banjara Hills,20000.0,1800.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Madhapur,32000.0,1360.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Madhapur,160000.0,4070.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Banjara Hills,16000.0,1400.0,Unfurnished,2.0
 AGENT,3.0,BHK,Villa,Kokapet,40000.0,2000.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hitech City,45000.0,1820.0,Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Kukatpally,11000.0,500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Villa,Bachupally,20000.0,1700.0,Furnished,3.0
 OWNER,2.0,BHK,Independent House,Hastinapuram,14200.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Anjaiah Nagar,21000.0,1106.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Banjara Hills Road Number 12,65000.0,3000.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Madhapur,9500.0,600.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Madhapur,11500.0,650.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Madhapur,20000.0,700.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Madhapur,23000.0,1200.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Madhapur,32000.0,650.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Madhapur,45000.0,1750.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,36000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Madhapur,30000.0,1450.0,Semi-Furnished,2.0
 AGENT,1.0,RK,Studio Apartment,Madhapur,18000.0,650.0,Furnished,1.0
@@ -3976,7 +3731,6 @@ OWNER,2.0,BHK,Apartment,Gachibowli,19000.0,1036.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Kondapur,12000.0,820.0,Furnished,1.0
 OWNER,3.0,BHK,Apartment,Kukatpally,24000.0,1525.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Jeedimetla,6000.0,540.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Manikonda,70000.0,2450.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Rajendra Nagar,15000.0,1350.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Serilingampally,20000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Pragathi Nagar Kukatpally,9000.0,800.0,Semi-Furnished,2.0
@@ -4081,14 +3835,12 @@ OWNER,3.0,BHK,Apartment,Manikonda,29000.0,1380.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent House,Vanasthalipuram,15000.0,1200.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Golconda Qila,9000.0,1000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Ameenpur Village Patancheru,6500.0,700.0,Unfurnished,1.0
-OWNER,3.0,BHK,Independent House,Old Bowenpally,45000.0,3000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Malkajgiri,18000.0,3000.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Saroornagar,4200.0,350.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Attapur,8500.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Banjara Hills,18000.0,700.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Azamabad,18000.0,500.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Upparpally,15000.0,1395.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Apartment,Manikonda,45000.0,2346.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Golconda Qila,12000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Manikonda,16000.0,1000.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,West Marredpally,18500.0,1100.0,Semi-Furnished,2.0
@@ -4160,9 +3912,6 @@ AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,26000.0,1802.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,25000.0,1585.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,26000.0,1660.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Hitech City,35000.0,1730.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,44000.0,2369.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,45000.0,2367.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gachibowli,45000.0,2562.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,27000.0,1807.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,28000.0,1805.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Nallagandla Gachibowli,27000.0,1804.0,Semi-Furnished,3.0
@@ -4218,7 +3967,6 @@ OWNER,1.0,RK,Studio Apartment,Alwal,5000.0,1100.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Nallagandla Gachibowli,20000.0,1350.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Boiguda,8300.0,1000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Balanagar,7000.0,650.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Manikonda,45000.0,1834.0,Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Balanagar,7000.0,660.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Kurmaguda,12000.0,1080.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Kondapur,23000.0,1650.0,Furnished,3.0
@@ -4238,7 +3986,6 @@ OWNER,3.0,BHK,Apartment,Kondapur,24000.0,1555.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Borabanda,14500.0,612.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Shadnagar,12000.0,1500.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Hafeezpet,7500.0,150.0,Semi-Furnished,1.0
-OWNER,4.0,BHK,Villa,Kompally,55000.0,4900.0,Furnished,5.0
 OWNER,2.0,BHK,Apartment,New Mallepally,20000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Upperpally,16000.0,1150.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Nizampet,7500.0,750.0,Unfurnished,1.0
@@ -4289,7 +4036,6 @@ OWNER,1.0,BHK,Independent Floor,Punjagutta,13000.0,500.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Upparpally,13000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Bowenpally,15000.0,1400.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,raidurgam,9500.0,500.0,Semi-Furnished,1.0
-OWNER,4.0,BHK,Villa,Puppalaguda,45000.0,4000.0,Semi-Furnished,4.0
 OWNER,3.0,BHK,Independent Floor,Malkajgiri,22000.0,1200.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,BHEL,12000.0,1500.0,Unfurnished,3.0
 OWNER,3.0,BHK,Apartment,New Mallepally,20000.0,2000.0,Semi-Furnished,2.0
@@ -4349,7 +4095,6 @@ OWNER,1.0,BHK,Independent House,Bowenpally,6500.0,650.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Pragathi Nagar Kukatpally,8000.0,600.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Apartment,Miyapur,16000.0,1145.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,12000.0,3000.0,Unfurnished,2.0
-OWNER,4.0,BHK,Villa,Tellapur,75000.0,3500.0,Furnished,5.0
 OWNER,2.0,BHK,Apartment,Miyapur,16000.0,1145.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Chinthal,15000.0,950.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Bandlaguda Jagir,24000.0,1350.0,Semi-Furnished,2.0
@@ -4388,7 +4133,6 @@ OWNER,2.0,BHK,Apartment,Manikonda,21000.0,1090.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,6000.0,1400.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Padmarao Nagar,5000.0,700.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Manikonda,8500.0,500.0,Unfurnished,1.0
-OWNER,2.0,BHK,Independent Floor,Jubilee Hills,70000.0,1750.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Chandanagar,15000.0,930.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Bandlaguda Jagir,12500.0,1500.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Puppalaguda,12000.0,800.0,Semi-Furnished,1.0
@@ -4428,7 +4172,6 @@ OWNER,2.0,BHK,Independent Floor,LB Nagar,12500.0,950.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Ramachandra Puram,9000.0,1600.0,Unfurnished,3.0
 OWNER,1.0,BHK,Independent House,Manikonda,10500.0,750.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Pathar Gatti,25000.0,1700.0,Semi-Furnished,3.0
-OWNER,4.0,BHK,Apartment,Gachibowli,100000.0,3500.0,Semi-Furnished,5.0
 OWNER,3.0,BHK,Independent House,Alkapur township,17000.0,2200.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Chandanagar,24000.0,1295.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kukatpally,13500.0,1500.0,Unfurnished,2.0
@@ -4446,9 +4189,7 @@ OWNER,3.0,BHK,Apartment,Puppalaguda,16500.0,1550.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent House,Nallakunta,15000.0,1900.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Bandlaguda Jagir,10500.0,1050.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Serilingampally,22000.0,1100.0,Furnished,2.0
-OWNER,4.0,BHK,Independent House,Hitech City,60000.0,3000.0,Semi-Furnished,3.0
 OWNER,6.0,BHK,Independent Floor,chandrayangutta,25000.0,2700.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Manikonda,48000.0,2075.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Quthbullapur,7000.0,550.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Nanakramguda,25000.0,1295.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Chandanagar,20000.0,2000.0,Unfurnished,2.0
@@ -4458,11 +4199,8 @@ OWNER,2.0,BHK,Apartment,Serilingampally,30000.0,1250.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Ameerpet,20000.0,1300.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,West Marredpally,40000.0,200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Chandanagar,12500.0,1050.0,Furnished,2.0
-OWNER,3.0,BHK,Apartment,Madhapur,42000.0,2840.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kukatpally,15000.0,1512.0,Unfurnished,3.0
 OWNER,3.0,BHK,Independent Floor,Kondapur,15000.0,1350.0,Unfurnished,3.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,53000.0,1925.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Hyderguda,50025.0,5000.0,Furnished,3.0
 OWNER,2.0,BHK,Independent House,Bollaram,12000.0,1150.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent House,Hafiz Baba Nagar,10000.0,720.0,Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bandlaguda Jagir,9500.0,1000.0,Unfurnished,2.0
@@ -4508,7 +4246,6 @@ OWNER,2.0,BHK,Apartment,Somajiguda,26000.0,1035.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Bachupally,8000.0,650.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Madhapur,12000.0,200.0,Furnished,1.0
 OWNER,4.0,BHK,Villa,Miyapur,32000.0,2250.0,Semi-Furnished,5.0
-OWNER,4.0,BHK,Independent House,Banjara Hills,45000.0,2800.0,Semi-Furnished,4.0
 OWNER,3.0,BHK,Independent Floor,Toli Chowki,11500.0,1200.0,Unfurnished,3.0
 OWNER,3.0,BHK,Independent House,Beeramguda,30000.0,1040.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Somajiguda,22000.0,1350.0,Semi-Furnished,2.0
@@ -4525,7 +4262,6 @@ OWNER,1.0,RK,Studio Apartment,Ramachandra Puram,7000.0,800.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Kokapet,37000.0,1800.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Bairagiguda,7000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Madhapur,18000.0,1100.0,Semi-Furnished,2.0
-OWNER,1.0,RK,Studio Apartment,Nizampet,50000.0,1400.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Hitech City,30000.0,1835.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent House,Kapra,13000.0,1300.0,Unfurnished,3.0
 OWNER,2.0,BHK,Independent Floor,Nizampet,10000.0,1100.0,Semi-Furnished,2.0
@@ -4549,16 +4285,12 @@ OWNER,1.0,BHK,Villa,Mehdipatnam,11000.0,1000.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Khajiguda,15000.0,2000.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Mehdipatnam,12500.0,1500.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kushaiguda,18000.0,1887.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Independent House,Boiguda,70000.0,4500.0,Unfurnished,5.0
 OWNER,1.0,RK,Studio Apartment,Chengicherla,4500.0,710.0,Unfurnished,1.0
-OWNER,4.0,BHK,Villa,Hafeezpet,120000.0,3600.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Pathar Gatti,17000.0,1300.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Malakpet,9000.0,650.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bapu Nagar,12500.0,1000.0,Unfurnished,2.0
-OWNER,2.0,BHK,Apartment,Gachibowli,45000.0,1100.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Hastinapuram,7500.0,1000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Madhapur,9000.0,550.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Shaikpet,50000.0,1850.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Villa,manneguda,18000.0,2250.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Hafeezpet,7500.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Manikonda,24000.0,1250.0,Semi-Furnished,2.0
@@ -4582,7 +4314,6 @@ OWNER,2.0,BHK,Apartment,Bandlaguda Jagir,11000.0,820.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Karwan,10500.0,1000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Madhapur,7500.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Kothapet,12000.0,1400.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Independent House,Miyapur,45000.0,4200.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Penthouse,BHEL Vidyut Nagar,9000.0,400.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Ramachandra Puram,8000.0,1600.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,BHEL Vidyut Nagar,9000.0,400.0,Unfurnished,2.0
@@ -4592,7 +4323,6 @@ OWNER,2.0,BHK,Apartment,Miyapur,13500.0,1212.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,15000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kondapur,16000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Vanasthalipuram,10000.0,1100.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,75000.0,2445.0,Furnished,3.0
 OWNER,3.0,BHK,Independent House,Gachibowli,18000.0,1200.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Hyder Nagar,10000.0,1250.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Maheshwaram,4000.0,1000.0,Semi-Furnished,1.0
@@ -4624,7 +4354,6 @@ OWNER,2.0,BHK,Independent Floor,Bowenpally,18000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Narsingi,21000.0,1420.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Gachibowli,25000.0,1276.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Karkhana,20000.0,1200.0,Furnished,2.0
-OWNER,10.0,BHK,Independent Floor,Nagaram,600000.0,15000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Gopanpally,18000.0,1300.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Madhapur,8000.0,150.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Alwal,9000.0,1700.0,Semi-Furnished,2.0
@@ -4673,7 +4402,6 @@ OWNER,2.0,BHK,Apartment,Chandanagar,21000.0,1340.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Hastinapuram,7500.0,750.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Malkajgiri,23000.0,1750.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Chinthal Basthi,5000.0,400.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Gachibowli,50000.0,1762.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Gachibowli,16500.0,950.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Serilingampally,20000.0,1410.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Manikonda,18000.0,1100.0,Furnished,2.0
@@ -4734,9 +4462,7 @@ OWNER,3.0,BHK,Apartment,Bolarum,20000.0,1550.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Janachaitanya Colony,17000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Gachibowli,8500.0,380.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent House,Jillelguda,8500.0,950.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Manikonda,45000.0,1600.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Tatianaram,10000.0,1200.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Madhapur,75000.0,2595.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kondapur,25000.0,1650.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Neknampur,13500.0,500.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Hitech City,24000.0,1650.0,Unfurnished,3.0
@@ -4792,7 +4518,6 @@ OWNER,2.0,BHK,Independent Floor,Puppalaguda,20000.0,1750.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Buddha Nagar,11500.0,1400.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Saidabad,8000.0,1350.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Kukatpally,23000.0,1500.0,Semi-Furnished,1.0
-OWNER,5.0,BHK,Villa,Kondapur,95000.0,3800.0,Furnished,5.0
 OWNER,2.0,BHK,Independent Floor,Boduppal,8000.0,1400.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Gachibowli,19000.0,1800.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Apartment,Kompally,25000.0,2080.0,Semi-Furnished,3.0
@@ -4822,7 +4547,6 @@ OWNER,1.0,BHK,Apartment,Toli Chowki,9000.0,150.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bandlaguda Jagir,8500.0,1080.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Kapra,9000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Bandlaguda Jagir,6000.0,500.0,Semi-Furnished,1.0
-OWNER,2.0,BHK,Independent House,Malkajgiri,80000.0,2250.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Begumpet,15000.0,1200.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Kukatpally,15000.0,360.0,Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Shivaji Nagar,8000.0,800.0,Semi-Furnished,1.0
@@ -4834,7 +4558,6 @@ OWNER,3.0,BHK,Independent Floor,Hitech City,25000.0,1300.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Madhapur,27000.0,1600.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent House,Jeedimetla,13000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Bapu Nagar,14000.0,1350.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Independent House,Banjara Hills,175000.0,4400.0,Furnished,6.0
 OWNER,3.0,BHK,Apartment,Chintalmet,18000.0,1250.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Sainikpuri,15000.0,1500.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Chandanagar,16000.0,1262.0,Furnished,2.0
@@ -4850,7 +4573,6 @@ OWNER,4.0,BHK,Villa,Nallagandla Gachibowli,30000.0,2250.0,Semi-Furnished,6.0
 OWNER,3.0,BHK,Apartment,Mettakanigudem,13500.0,1933.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kukatpally,25000.0,1695.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Happy Homes Colony,6500.0,550.0,Semi-Furnished,1.0
-OWNER,5.0,BHK,Villa,Nallagandla Gachibowli,90000.0,4000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Gopanpally,18000.0,1250.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Chandanagar,16000.0,1100.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Nacharam,4500.0,300.0,Unfurnished,1.0
@@ -4880,7 +4602,6 @@ OWNER,2.0,BHK,Independent Floor,Serilingampally,12500.0,1100.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Attapur,17600.0,1180.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Asif Nagar North,16000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nallakunta,15000.0,900.0,Furnished,2.0
-OWNER,4.0,BHK,Apartment,Gachibowli,55000.0,1240.0,Furnished,4.0
 OWNER,2.0,BHK,Independent House,Pragathi Nagar Kukatpally,12000.0,1100.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Manikonda,27000.0,1850.0,Furnished,3.0
 OWNER,3.0,BHK,Independent Floor,Rakshapuram,10000.0,2000.0,Semi-Furnished,2.0
@@ -4906,7 +4627,6 @@ OWNER,2.0,BHK,Independent House,Huda Colony,11000.0,650.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Banjara Hills,15000.0,1300.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Almasguda,12000.0,1500.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Narayanguda,21000.0,1100.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Apartment,Qutub Shahi Tombs,50000.0,3500.0,Furnished,4.0
 OWNER,3.0,BHK,Apartment,Upparpally,18000.0,2000.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Kukatpally,9000.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Serilingampally,15000.0,2250.0,Semi-Furnished,2.0
@@ -4933,7 +4653,6 @@ OWNER,1.0,BHK,Independent House,Ramachandrapuram,6500.0,700.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Rampally,3000.0,150.0,Unfurnished,1.0
 OWNER,3.0,BHK,Villa,Nizampet,25000.0,1800.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Sainikpuri,10000.0,960.0,Unfurnished,2.0
-OWNER,4.0,BHK,Independent Floor,Ferozguda,100000.0,4000.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Uppal Bus Stop Road,8000.0,850.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Kukatpally,21000.0,1070.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Sri Krishna Nagar,12500.0,1020.0,Semi-Furnished,2.0
@@ -4950,14 +4669,11 @@ OWNER,1.0,BHK,Independent Floor,Madhapur,9000.0,650.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent House,Sitaphalmandi,6000.0,150.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Nanakramguda,25000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kompally,14000.0,1152.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Villa,Kapra,300000.0,3200.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Adikmet,9000.0,600.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent Floor,Almasguda,12000.0,1500.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Bachupally,8000.0,1200.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent House,Upparpally,25000.0,4000.0,Semi-Furnished,4.0
-OWNER,5.0,BHK,Villa,Kondapur,58000.0,5200.0,Unfurnished,5.0
 OWNER,3.0,BHK,Independent House,Dammaiguda,13000.0,1900.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Apartment,Kukatpally,60000.0,2600.0,Furnished,5.0
 OWNER,3.0,BHK,Apartment,Serilingampally,18000.0,1510.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Nagaram,5000.0,550.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Yapral,16600.0,1359.0,Semi-Furnished,2.0
@@ -4982,7 +4698,6 @@ OWNER,2.0,BHK,Independent House,Karkhana,10000.0,1000.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Alwal,8000.0,950.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Hitech City,24999.0,1250.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Puppalaguda,17000.0,1280.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Manikonda,41000.0,1852.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Bahadurpura,6500.0,550.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Malakpet,8500.0,900.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Chandanagar,12000.0,1000.0,Unfurnished,2.0
@@ -4997,7 +4712,6 @@ OWNER,2.0,BHK,Apartment,Qutub Shahi Tombs,14500.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Aminpur,8800.0,1400.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Amberpet,14000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Karkhana,14000.0,1000.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Independent House,Madhapur,120000.0,4000.0,Unfurnished,3.0
 OWNER,2.0,BHK,Apartment,Appa Junction Peerancheru,20000.0,1274.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,Pragathi Nagar Kukatpally,17000.0,1450.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Hitech City,28000.0,1565.0,Semi-Furnished,3.0
@@ -5007,7 +4721,6 @@ OWNER,2.0,BHK,Independent House,Padmarao Nagar,9000.0,850.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Alwal,10000.0,1200.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Manikonda,23000.0,1600.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Miyapur,16000.0,1200.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent House,Jubilee Hills,48000.0,2500.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Jubilee Hills,28000.0,2500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Kismatpur,13500.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Malkajgiri,9500.0,1200.0,Semi-Furnished,2.0
@@ -5046,7 +4759,6 @@ OWNER,2.0,BHK,Apartment,Moti Nagar,24000.0,1087.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Nampally,12000.0,750.0,Unfurnished,1.0
 OWNER,3.0,BHK,Villa,Sainikpuri,22000.0,2500.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Chandanagar,30000.0,1500.0,Furnished,2.0
-OWNER,3.0,BHK,Apartment,Banjara Hills,130000.0,2670.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Kowkur,10000.0,1500.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Kukatpally,6000.0,400.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Chengicherla,3500.0,400.0,Unfurnished,1.0
@@ -5060,7 +4772,6 @@ OWNER,3.0,BHK,Apartment,Hakimpet,16000.0,1300.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Shaikpet,40000.0,1900.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Chandanagar,11000.0,1000.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Bachupally Road,12000.0,1540.0,Unfurnished,3.0
-OWNER,5.0,BHK,Villa,Kondapur,150000.0,7800.0,Semi-Furnished,5.0
 OWNER,1.0,BHK,Apartment,Zaheerabad,3900.0,260.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Bachupally,13000.0,1150.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent House,Miyapur,35000.0,2385.0,Semi-Furnished,3.0
@@ -5089,7 +4800,6 @@ OWNER,2.0,BHK,Independent House,Uppal,8000.0,1200.0,Unfurnished,2.0
 OWNER,3.0,BHK,Villa,Yapral,25000.0,2200.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Gachibowli,16000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Vanasthalipuram,10000.0,1200.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Gachibowli,50000.0,2430.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent House,Gachibowli,20000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Gajularamaram,12500.0,1100.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent House,Patancheru Mandal,8500.0,1200.0,Semi-Furnished,3.0
@@ -5102,7 +4812,6 @@ OWNER,1.0,BHK,Independent Floor,Bahadurpura,6500.0,750.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Gachibowli Miyapur Road,18000.0,1600.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Banjara Hills,9000.0,1000.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Serilingampally,20000.0,950.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Kondapur,43000.0,2100.0,Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Nacharam,7000.0,1150.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Kondapur,21500.0,1420.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Bolarum,9000.0,900.0,Semi-Furnished,2.0
@@ -5131,7 +4840,6 @@ OWNER,2.0,BHK,Independent Floor,NEW MALAKPET,25000.0,1800.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nizampet,18500.0,1205.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,Manikonda,17000.0,1450.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Dammaiguda,6500.0,720.0,Semi-Furnished,2.0
-OWNER,2.0,BHK,Apartment,Hitech City,50000.0,1500.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Hayathnagar,23000.0,1260.0,Semi-Furnished,3.0
 OWNER,1.0,RK,Studio Apartment,Amberpet,5000.0,800.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent House,BHEL OLD MIG,6500.0,800.0,Unfurnished,1.0
@@ -5155,7 +4863,6 @@ OWNER,3.0,BHK,Apartment,Kokapet,33000.0,1565.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Manikonda,22800.0,1300.0,Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Nacharam,5500.0,600.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Mallampet,10000.0,1030.0,Unfurnished,2.0
-OWNER,4.0,BHK,Villa,Gandipet,70000.0,4050.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Boduppal,10999.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Peerzadiguda,4500.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Sanjeeva Reddy Nagar,13000.0,1000.0,Furnished,2.0
@@ -5187,7 +4894,6 @@ OWNER,1.0,BHK,Apartment,Borabanda,7500.0,630.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,B N reddy nagar,15000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Padmarao Nagar,12500.0,850.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Bapu Nagar,9000.0,700.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Villa,Kismatpur,80000.0,3380.0,Semi-Furnished,5.0
 OWNER,1.0,BHK,Apartment,Gachibowli,5000.0,250.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Pragathi Nagar Kukatpally,11500.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Gopanpally,15000.0,1260.0,Semi-Furnished,2.0
@@ -5197,7 +4903,6 @@ OWNER,2.0,BHK,Independent Floor,Hakimpet,20000.0,3000.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Borabanda,8000.0,1100.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Moula Ali,12500.0,1350.0,Unfurnished,3.0
 OWNER,3.0,BHK,Apartment,Chandanagar Vill,20000.0,1500.0,Unfurnished,3.0
-OWNER,10.0,BHK,Apartment,Nagole,400000.0,9000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Miyapur,13000.0,1000.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Nallagandla Gachibowli,32000.0,1700.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Kukatpally,20000.0,2000.0,Semi-Furnished,2.0
@@ -5231,7 +4936,6 @@ OWNER,2.0,BHK,Independent House,Beeramguda,8000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Beeramguda,11000.0,900.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Chinthal Basthi,10000.0,1050.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Malkajgiri,15000.0,1700.0,Unfurnished,2.0
-OWNER,4.0,BHK,Independent House,Maheshwaram,45000.0,3295.0,Furnished,5.0
 OWNER,3.0,BHK,Apartment,Nanakramguda,30000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Manikonda,28000.0,1314.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Bandlaguda Jagir,15000.0,1200.0,Semi-Furnished,2.0
@@ -5247,7 +4951,6 @@ OWNER,3.0,BHK,Apartment,Yousufguda,23000.0,1408.0,Unfurnished,4.0
 OWNER,2.0,BHK,Independent Floor,Q City Road,14000.0,1100.0,Unfurnished,2.0
 OWNER,4.0,BHK,Apartment,Kavadiguda,20000.0,2200.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Kondapur,16500.0,1150.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Villa,Manikonda,50000.0,3800.0,Semi-Furnished,4.0
 OWNER,1.0,RK,Studio Apartment,Ramachandra Puram,5000.0,300.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Bapu Nagar,15000.0,1200.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nagole,13000.0,1250.0,Furnished,2.0
@@ -5262,7 +4965,6 @@ OWNER,2.0,BHK,Independent House,Malkajgiri,10000.0,850.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Hafeezpet,16000.0,1125.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Serilingampally,15000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,8500.0,1200.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,45000.0,1600.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Rampally,6500.0,1350.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Nagaram,12000.0,1325.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Manikonda,26000.0,1385.0,Furnished,3.0
@@ -5296,7 +4998,6 @@ OWNER,2.0,BHK,Apartment,Nampally,9000.0,680.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Nampally,5000.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,LB Nagar,13000.0,1350.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Chandanagar,14000.0,1674.0,Unfurnished,2.0
-OWNER,5.0,BHK,Independent House,Madinaguda,45000.0,4800.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Independent House,Jayanagar Colony,14000.0,1200.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Padmarao Nagar,12000.0,952.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Old Bowenpally,6000.0,500.0,Semi-Furnished,1.0
@@ -5320,13 +5021,11 @@ OWNER,3.0,BHK,Apartment,Appa Junction Peerancheru,28000.0,1568.0,Semi-Furnished,
 OWNER,2.0,BHK,Apartment,Hafeezpet,12000.0,1100.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Kukatpally,10000.0,1050.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Attapur,14000.0,1100.0,Semi-Furnished,2.0
-OWNER,10.0,BHK,Independent House,Saroornagar,60000.0,4000.0,Unfurnished,6.0
 OWNER,2.0,BHK,Apartment,Kukatpally,13000.0,2006.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kondapur,21500.0,1100.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Nizampet,25000.0,1530.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Shamshabad,7000.0,999.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Regimental Bazaar,35000.0,1950.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Manikonda,41000.0,1834.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Malkajgiri,14000.0,900.0,Furnished,1.0
 OWNER,1.0,BHK,Independent House,Rampally,4000.0,550.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Nanakramguda,38000.0,1198.0,Furnished,2.0
@@ -5361,7 +5060,6 @@ OWNER,1.0,BHK,Apartment,Serilingampally,9000.0,860.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Mallapur,16000.0,1400.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Villa,Dammaiguda,30000.0,2600.0,Furnished,3.0
 OWNER,1.0,BHK,Independent House,Hafeezpet,9000.0,650.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Hitech City,57813.0,2753.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Hafeezpet,10000.0,650.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Banjara Hills,25000.0,1500.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Gachibowli,39000.0,1428.0,Furnished,2.0
@@ -5381,7 +5079,6 @@ OWNER,3.0,BHK,Apartment,Kondapur,25000.0,1384.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Nanakramguda,23000.0,1198.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Begumpet,17000.0,963.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Gopanpally,22000.0,1220.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Naveen Nagar,50000.0,2200.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Ramachandra Puram,9500.0,1600.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Attapur,28000.0,1685.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,West Marredpally,13000.0,900.0,Semi-Furnished,2.0
@@ -5390,7 +5087,6 @@ OWNER,1.0,BHK,Apartment,Sri Nagar Colony,2650.0,250.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,manneguda,7000.0,800.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Boduppal,12000.0,1300.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kondapur,30000.0,1350.0,Furnished,3.0
-OWNER,4.0,BHK,Independent House,Banjara Hills,50000.0,2160.0,Semi-Furnished,5.0
 OWNER,3.0,BHK,Apartment,Kompally,16000.0,1400.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Miyapur,23500.0,1540.0,Semi-Furnished,3.0
 OWNER,1.0,RK,Studio Apartment,Sanath Nagar,6000.0,1450.0,Unfurnished,1.0
@@ -5467,7 +5163,6 @@ OWNER,2.0,BHK,Apartment,Manikonda Road,17000.0,1080.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Nallakunta,32000.0,1850.0,Furnished,3.0
 OWNER,1.0,BHK,Apartment,Kapra,6500.0,650.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Kondapur,15000.0,900.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Somajiguda,135000.0,3500.0,Furnished,4.0
 OWNER,2.0,BHK,Independent House,Old Bowenpally,12500.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Alwal,15000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Villa,Miyapur,8500.0,597.0,Unfurnished,1.0
@@ -5483,9 +5178,7 @@ OWNER,2.0,BHK,Independent House,Isnapur,7000.0,1600.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Miyapur,25000.0,1600.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Madhapur,16000.0,950.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Toli Chowki,25000.0,1800.0,Unfurnished,3.0
-OWNER,10.0,BHK,Apartment,Shamshabad,200000.0,12000.0,Semi-Furnished,9.0
 OWNER,2.0,BHK,Independent House,Padmarao Nagar,10000.0,750.0,Semi-Furnished,2.0
-OWNER,1.0,RK,Studio Apartment,Kukatpally,70000.0,1500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Neredmet,12000.0,1150.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,Kompally,16000.0,1500.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Chandanagar,20000.0,1150.0,Semi-Furnished,2.0
@@ -5500,7 +5193,6 @@ OWNER,2.0,BHK,Apartment,Bowrampet,12000.0,1122.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Puppalaguda,40000.0,2400.0,Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Jubilee Hills,10000.0,400.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Villa,Bachupally,20000.0,2002.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Kondapur,70000.0,2500.0,Semi-Furnished,4.0
 OWNER,3.0,BHK,Apartment,Kukatpally,26000.0,1780.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent House,Moti Nagar,18000.0,1700.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Secretariat Colony,15000.0,1560.0,Semi-Furnished,3.0
@@ -5530,8 +5222,6 @@ OWNER,2.0,BHK,Apartment,Nallagandla Gachibowli,20000.0,1270.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Meerpet,11000.0,900.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Madhapur,25000.0,980.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Attapur,10000.0,1000.0,Semi-Furnished,2.0
-OWNER,7.0,BHK,Apartment,Jubilee Hills,150000.0,2500.0,Unfurnished,7.0
-OWNER,3.0,BHK,Villa,Kondapur,45000.0,3100.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Quthbullapur,13000.0,1170.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Banjara Hills,26000.0,1376.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Moula Ali,3500.0,500.0,Unfurnished,1.0
@@ -5553,10 +5243,8 @@ OWNER,2.0,BHK,Apartment,Kukatpally,14000.0,1280.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Sindhi Colony Road,25000.0,1050.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,LB Nagar,8000.0,1000.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Independent Floor,Karkhana,35000.0,2300.0,Furnished,3.0
-OWNER,3.0,BHK,Independent House,Malkajgiri,50000.0,2000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Gajularamaram,9000.0,1050.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Alwal,18000.0,2000.0,Unfurnished,2.0
-OWNER,2.0,BHK,Apartment,Gachibowli,55000.0,1717.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Hakimpet,7000.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Manikonda,10000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Uppal,14000.0,950.0,Semi-Furnished,2.0
@@ -5596,7 +5284,6 @@ OWNER,2.0,BHK,Apartment,Kukatpally,16000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,West Marredpally,17000.0,1080.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Venkat Nagar Colony,13000.0,850.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Rajendra Nagar,7000.0,600.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Gachibowli,65000.0,1985.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Miyapur,20000.0,1640.0,Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Narsingi,10500.0,700.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Amberpet,7000.0,1000.0,Unfurnished,1.0
@@ -5612,14 +5299,12 @@ OWNER,2.0,BHK,Independent House,Hastinapuram,10000.0,1800.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Bandlaguda Jagir,8000.0,500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Malkajgiri,15000.0,1350.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Punjagutta Market,35000.0,2000.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Independent Floor,Bapu Nagar,65000.0,1750.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Alwal,8000.0,800.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Almasguda,7500.0,850.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kondapur,25000.0,1200.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Suraram,8000.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Saroor Nagar,15000.0,1050.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Manikonda,12000.0,1600.0,Unfurnished,2.0
-OWNER,4.0,BHK,Apartment,Madhapur,60000.0,2500.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Penthouse,BHEL,7500.0,1500.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Nanakramguda,21500.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Umdanagar,15000.0,1450.0,Furnished,2.0
@@ -5631,7 +5316,6 @@ OWNER,2.0,BHK,Independent Floor,Medipally,11000.0,1100.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Kukatpally,26000.0,2150.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Miyapur,13000.0,1100.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Gachibowli,16000.0,1800.0,Furnished,2.0
-OWNER,3.0,BHK,Apartment,Nanakramguda,48000.0,1600.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Sanjeeva Reddy Nagar,13000.0,1000.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Kukatpally,35000.0,1300.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,Alwal,18500.0,1650.0,Semi-Furnished,3.0
@@ -5677,8 +5361,6 @@ OWNER,1.0,BHK,Independent House,Banjara Hills,8000.0,450.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Beeramguda,5500.0,600.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Kapra,5500.0,600.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent House,Amberpet,11000.0,180.0,Unfurnished,1.0
-OWNER,4.0,BHK,Apartment,Madhapur,75000.0,2985.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Gachibowli,50000.0,2650.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Independent House,Dwarakapuri,30000.0,1300.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Puppalaguda,18500.0,1250.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Manikonda,18500.0,1250.0,Semi-Furnished,2.0
@@ -5693,7 +5375,6 @@ OWNER,1.0,RK,Studio Apartment,raidurgam,7000.0,150.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Kondapur,18000.0,1215.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Patancheru,8000.0,1200.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Kukatpally,10000.0,180.0,Unfurnished,1.0
-OWNER,3.0,BHK,Villa,Madhapur,60300.0,2500.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Amberpet,6500.0,1000.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Gachibowli,23250.0,1550.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Rajendra Nagar,22000.0,1047.0,Semi-Furnished,2.0
@@ -5703,7 +5384,6 @@ OWNER,2.0,BHK,Independent House,Pragathi Nagar Kukatpally,10000.0,2430.0,Unfurni
 OWNER,3.0,BHK,Apartment,Madhapur,25000.0,1572.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Kapra,4000.0,500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Begumpet,22000.0,1050.0,Unfurnished,2.0
-OWNER,1.0,RK,Studio Apartment,Shamshabad,50000.0,1000.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Puppalaguda,20000.0,1450.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Neredmet,12000.0,1050.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Sanjeeva Reddy Nagar,9500.0,800.0,Unfurnished,1.0
@@ -5714,7 +5394,6 @@ OWNER,2.0,BHK,Apartment,Kondapur,16000.0,1155.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nizampet,30000.0,1200.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Hastinapuram,5500.0,600.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Manikonda,22000.0,1550.0,Semi-Furnished,3.0
-OWNER,3.0,BHK,Apartment,Kondapur,42000.0,2425.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Medchal,6000.0,700.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Serilingampally,20000.0,1245.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Gajularamaram,9000.0,1150.0,Semi-Furnished,2.0
@@ -5757,12 +5436,10 @@ OWNER,1.0,BHK,Apartment,Moti Nagar,7000.0,570.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Gajulramaram Kukatpally,16000.0,1600.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Sainikpuri,18000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Narayanguda,25000.0,1200.0,Furnished,2.0
-OWNER,1.0,BHK,Apartment,Sri Nagar Colony,50000.0,800.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Attapur,12000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Chandanagar,15500.0,1200.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Kismatpur,11000.0,1300.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Attapur,20000.0,1800.0,Semi-Furnished,4.0
-OWNER,3.0,BHK,Villa,Toli Chowki,45000.0,3300.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Kokapet,30000.0,1710.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Hastinapuram,7000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Kachiguda,13000.0,1100.0,Semi-Furnished,2.0
@@ -5821,7 +5498,6 @@ OWNER,2.0,BHK,Independent House,Pocharam,7500.0,1250.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Miyapur,19000.0,1140.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Erragadda,9000.0,1100.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Bapu Nagar,18000.0,950.0,Furnished,2.0
-OWNER,6.0,BHK,Independent House,Jubilee Hills,150000.0,5000.0,Furnished,6.0
 OWNER,2.0,BHK,Independent House,Beeramguda,11000.0,1150.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Manikonda,13000.0,1234.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Gajularamaram,5500.0,1100.0,Unfurnished,1.0

@@ -1,4 +1,4 @@
-seller_type,bedroom,layout_type,property_type,locality,price,area,furnish_type,bathroom
+SELLER TYPE,BEDROOM,LAYOUT TYPE,PROPERTY TYPE,LOCALITY,PRICE,AREA,FURNISH TYPE,BATHROOM
 OWNER,2.0,BHK,Apartment,Bodakdev,20000.0,1450.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,CG Road,7350.0,210.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Jodhpur,22000.0,1900.0,Unfurnished,3.0
@@ -21,7 +21,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,12500.0,1044.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,12000.0,810.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,38000.0,1985.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,14000.0,1256.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Satellite,110000.0,3375.0,Furnished,4.0
 OWNER,1.0,BHK,Independent House,Ghatlodiya,5000.0,200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Vasna,40000.0,2100.0,Furnished,4.0
 OWNER,2.0,BHK,Independent Floor,Maninagar,16000.0,1300.0,Unfurnished,2.0
@@ -42,12 +41,9 @@ OWNER,3.0,BHK,Independent House,Chandkheda,17000.0,1575.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Vasna,15000.0,400.0,Furnished,1.0
 OWNER,3.0,BHK,Apartment,Memnagar,18000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Nehru Nagar,18500.0,990.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Jodhpur,60000.0,2500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Keshav Nagar,13000.0,1225.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,9000.0,649.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,50000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Science City,32000.0,2178.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,90000.0,3350.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,23000.0,1404.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1650.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Vastrapur,32000.0,1845.0,Unfurnished,3.0
@@ -72,7 +68,6 @@ AGENT,3.0,BHK,Villa,Bopal,20000.0,2300.0,Unfurnished,3.0
 AGENT,2.0,BHK,Independent House,Makarba,20000.0,2700.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Science City,30000.0,2115.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Satlasana,22000.0,1100.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Thaltej,56000.0,2300.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Bopal,30000.0,2070.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1820.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1600.0,Semi-Furnished,3.0
@@ -87,7 +82,6 @@ AGENT,2.0,BHK,Independent House,Satellite,15000.0,1355.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Makarba,18000.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Juhapura,8000.0,1000.0,Unfurnished,2.0
 AGENT,4.0,BHK,Apartment,Shela,45000.0,2300.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Thaltej,70000.0,3000.0,Furnished,4.0
 AGENT,5.0,BHK,Independent House,Shela,35000.0,3600.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Villa,Paldi,35000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,15000.0,1200.0,Semi-Furnished,2.0
@@ -105,10 +99,8 @@ AGENT,3.0,BHK,Apartment,Memnagar,31000.0,1508.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,20000.0,2250.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16500.0,1296.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Bopal,45000.0,2300.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,60000.0,3200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,36000.0,1201.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1433.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,60000.0,2905.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,18000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gota,19000.0,1800.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,2025.0,Furnished,3.0
@@ -122,13 +114,10 @@ AGENT,3.0,BHK,Apartment,Jodhpur,25000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,16000.0,1140.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,17500.0,1250.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1440.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur,55000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16500.0,1180.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Vatva,13000.0,1200.0,Furnished,2.0
-AGENT,5.0,BHK,Apartment,Science City,70000.0,2700.0,Semi-Furnished,5.0
 AGENT,4.0,BHK,Independent House,Thaltej,45000.0,2250.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Satellite,25000.0,1450.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2700.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,16500.0,1450.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Thaltej,16000.0,1170.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,25000.0,2250.0,Semi-Furnished,3.0
@@ -164,15 +153,12 @@ AGENT,2.0,BHK,Apartment,Prahlad Nagar,13500.0,1260.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,13000.0,1255.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,14000.0,1243.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1376.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bopal,50000.0,1985.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,15000.0,1250.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,30000.0,1435.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,14000.0,1425.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,50000.0,2771.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,2800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent House,Jodhpur,35000.0,2250.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,25000.0,1551.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Thaltej,55500.0,2100.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,23000.0,1368.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gota,20000.0,1800.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,22500.0,1575.0,Semi-Furnished,3.0
@@ -181,7 +167,6 @@ AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,28000.0,1305.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gota,21000.0,1850.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,14000.0,1285.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,77000.0,2400.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Paldi,40000.0,2100.0,Furnished,4.0
 OWNER,1.0,RK,Studio Apartment,Jodhpur,8500.0,350.0,Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Jodhpur,12500.0,1000.0,Semi-Furnished,1.0
@@ -193,7 +178,6 @@ AGENT,2.0,BHK,Apartment,Satellite,18000.0,1100.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,16000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1985.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,649.0,Furnished,1.0
-AGENT,2.0,BHK,Villa,Godhavi,50000.0,4000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Science City,28000.0,2025.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,21000.0,1435.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,1800.0,Furnished,3.0
@@ -202,7 +186,6 @@ AGENT,3.0,BHK,Apartment,Bopal,25000.0,1400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1725.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,24000.0,1440.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Science City,28500.0,1620.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,50000.0,2525.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,24000.0,1260.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,32000.0,1665.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,40000.0,2411.0,Unfurnished,3.0
@@ -235,7 +218,6 @@ AGENT,2.0,BHK,Independent House,Chandkheda,13000.0,1215.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Science City,35000.0,1998.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1620.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Zundal,20000.0,1008.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bopal,60000.0,2415.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Sola,27000.0,2313.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,9000.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1050.0,Semi-Furnished,2.0
@@ -359,9 +341,7 @@ AGENT,4.0,BHK,Independent House,Naranpuraa,22000.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Naryanpura,20000.0,1080.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Naranpuraa,30000.0,1700.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Naranpuraa,28900.0,1700.0,Furnished,2.0
-AGENT,5.0,BHK,Independent House,Sanand,100000.0,3600.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,65000.0,4500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Satellite,33000.0,1875.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,17000.0,1440.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,25000.0,1000.0,Furnished,2.0
@@ -370,9 +350,6 @@ AGENT,3.0,BHK,Apartment,Bopal,18500.0,1376.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,16000.0,1440.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,21000.0,1435.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,31000.0,1435.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bodakdev,50000.0,1850.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,105000.0,3600.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,110000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,40000.0,1850.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,23000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1305.0,Furnished,2.0
@@ -381,8 +358,6 @@ AGENT,2.0,BHK,Apartment,Shrinand Nagar,14000.0,980.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shrinand Nagar,16000.0,835.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shrinand Nagar,12000.0,870.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent Floor,Chandkheda,12000.0,2250.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Villa,Thaltej,60000.0,4212.0,Unfurnished,5.0
-AGENT,4.0,BHK,Villa,Bodakdev,90000.0,3213.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,22000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,1783.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1780.0,Furnished,3.0
@@ -412,29 +387,22 @@ AGENT,2.0,BHK,Apartment,Makarba,26000.0,1150.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,1450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1965.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,16500.0,1150.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,60000.0,1965.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,18000.0,1150.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,16000.0,1450.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,60000.0,2450.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,16000.0,1250.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,27000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vastrapur,18000.0,1150.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Vastrapur,35000.0,2160.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,47000.0,3123.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2100.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,22000.0,1000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2100.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gurukul,21000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambavadi,35000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,25000.0,1500.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ambli,100000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,45000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Villa,Gurukul,34000.0,2500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,30000.0,1500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bodakdev,60000.0,2500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,32000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,2200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Makarba,40000.0,1800.0,Furnished,3.0
@@ -443,10 +411,7 @@ AGENT,3.0,BHK,Apartment,Jodhpur,35000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1435.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,23000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Ghuma,35000.0,2200.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Bopal,60000.0,2500.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Satellite,80000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Satellite,40000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,120000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,45000.0,1900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,45000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,30000.0,1700.0,Unfurnished,3.0
@@ -460,55 +425,34 @@ AGENT,3.0,BHK,Apartment,Memnagar,25000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,26000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Usman Pura,35000.0,2500.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Shela,45000.0,2500.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,60000.0,3000.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,100000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambavadi,30000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,25000.0,1250.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,55000.0,2500.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,55000.0,3000.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,32000.0,2000.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,46000.0,1900.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,48000.0,1900.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,65000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,30000.0,1600.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,1500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,35000.0,1500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,21000.0,1500.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Satellite,125000.0,3200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur,22000.0,1500.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur,60000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,24000.0,1500.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,65000.0,2500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,28000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,30000.0,2000.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,150000.0,3500.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,125000.0,3500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bodakdev,45000.0,1900.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Bodakdev,140000.0,3500.0,Furnished,4.0
 AGENT,4.0,BHK,Villa,Bodakdev,40000.0,2500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bodakdev,30000.0,2000.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,45000.0,1800.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,75000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,1500.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Bodakdev,90000.0,3000.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Bodakdev,65000.0,2500.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bodakdev,40000.0,2000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,21000.0,1830.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Bopal,75000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1560.0,Furnished,3.0
-AGENT,3.0,BHK,Villa,Bopal,55000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,1500.0,Unfurnished,3.0
-AGENT,5.0,BHK,Apartment,Bopal,150000.0,3000.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Bopal,80000.0,2500.0,Furnished,4.0
 AGENT,4.0,BHK,Villa,Bopal,30000.0,2500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,34000.0,1500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,25000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,22000.0,1500.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Bopal,50000.0,3200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,25000.0,1800.0,Semi-Furnished,3.0
@@ -517,20 +461,9 @@ AGENT,3.0,BHK,Apartment,CG Road,32000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,36000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,30000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,25000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Navrangpura,50000.0,2500.0,Furnished,4.0
 AGENT,3.0,BHK,Villa,Ghuma,40000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Villa,Shilaj,60000.0,2500.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Thaltej,80000.0,3000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Thaltej,50000.0,2500.0,Furnished,4.0
-AGENT,4.0,BHK,Independent Floor,Thaltej,52000.0,2500.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Thaltej,60000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,30000.0,2000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,35000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2000.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,47000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,110000.0,4400.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Bodakdev,125000.0,4000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,65000.0,3195.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shela,29000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ranip,23000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambavadi,17000.0,1050.0,Furnished,2.0
@@ -539,12 +472,7 @@ AGENT,3.0,BHK,Apartment,Ambavadi,21000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,30000.0,2100.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,17000.0,1250.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,150000.0,4500.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,80000.0,3510.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,75000.0,3500.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Shilaj,50000.0,5760.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,25000.0,1800.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,50000.0,2700.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,26000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Nana Chiloda,26000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,30000.0,1350.0,Semi-Furnished,3.0
@@ -560,9 +488,7 @@ AGENT,2.0,BHK,Apartment,Bopal,17000.0,1075.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,17500.0,1450.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1025.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,28000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,90000.0,4400.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1075.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Apartment,Bopal,55000.0,5700.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,2000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,32000.0,1450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,30000.0,2225.0,Semi-Furnished,3.0
@@ -577,7 +503,6 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,28000.0,2250.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,18000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ghuma,17000.0,1450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,2215.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,2750.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bopal,35000.0,2750.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,26000.0,1175.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,17000.0,1275.0,Semi-Furnished,1.0
@@ -596,41 +521,30 @@ AGENT,2.0,BHK,Apartment,Bopal,17000.0,1126.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Villa,Sanathal,23000.0,2250.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1330.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Naranpuraa,30000.0,1280.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,90000.0,4500.0,Furnished,4.0
 AGENT,1.0,BHK,Apartment,Ambavadi,11000.0,1000.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,20000.0,1280.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Khodiar Nagar,15000.0,1068.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Anand Nagar,15000.0,1068.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Vastrapur,28000.0,1260.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vastrapur,22000.0,1000.0,Furnished,2.0
-AGENT,5.0,BHK,Apartment,Ambavadi,65000.0,5000.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,1965.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bodakdev,55000.0,3000.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,25000.0,1575.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Memnagar,60000.0,3618.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Satellite Society,22000.0,2100.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Independent House,Thaltej,45000.0,2585.0,Furnished,4.0
 AGENT,2.0,BHK,Independent House,Ambavadi,40000.0,1170.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambli,30000.0,1850.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,26000.0,1960.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,48500.0,3123.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1530.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,38000.0,2010.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Paldi,35000.0,2010.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Isanpur,32000.0,1665.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1650.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Apartment,Bopal,60000.0,5800.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Vastrapur,35000.0,1251.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,26000.0,1850.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,26000.0,1080.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ramdev Nagar,90000.0,3500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,27000.0,1305.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Makarba,40000.0,2500.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,40000.0,2585.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Bopal,75000.0,2415.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1710.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,60000.0,2905.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Satellite,65000.0,3080.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vastrapur,34500.0,1845.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,3450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,43000.0,2750.0,Semi-Furnished,3.0
@@ -638,15 +552,12 @@ AGENT,3.0,BHK,Apartment,Bopal,25000.0,2050.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,30000.0,1425.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Memnagar,25500.0,1755.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Makarba,35000.0,1970.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,30000.0,1875.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,45000.0,2165.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,34000.0,2050.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1550.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,25000.0,1985.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Bopal,42000.0,3000.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,51000.0,3000.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,55000.0,3250.0,Furnished,3.0
 AGENT,1.0,RK,Studio Apartment,Vejalpur,6500.0,450.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,30000.0,1080.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,34999.0,2383.0,Furnished,3.0
@@ -655,10 +566,7 @@ AGENT,3.0,BHK,Apartment,Jodhpur,33000.0,1530.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,27000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,999.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Independent House,Prahlad Nagar,70000.0,3000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Ranip,16000.0,1100.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,80000.0,4734.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,75000.0,4745.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vejalpur,16000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Ranip,16000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,45000.0,1710.0,Furnished,3.0
@@ -668,9 +576,6 @@ AGENT,1.0,BHK,Apartment,Bodakdev,12500.0,900.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Ambavadi,17000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Navrangpura,29000.0,1850.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Ambavadi,12000.0,1250.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,47000.0,2100.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,55000.0,3600.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,70100.0,2280.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,22000.0,1700.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,23000.0,1180.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,27500.0,1600.0,Furnished,3.0
@@ -689,7 +594,6 @@ AGENT,3.0,BHK,Apartment,Jodhpur,30000.0,2350.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1200.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Vastrapur,18000.0,770.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,2000.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bopal,55000.0,2280.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1890.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,25000.0,1273.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,21000.0,1600.0,Unfurnished,3.0
@@ -700,7 +604,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,954.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,27000.0,1424.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,25000.0,1305.0,Furnished,2.0
 AGENT,5.0,BHK,Villa,Bopal,45001.0,4950.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Jodhpur,50000.0,4000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,19001.0,1215.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,22000.0,1295.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,27000.0,1330.0,Semi-Furnished,3.0
@@ -708,10 +611,6 @@ AGENT,3.0,BHK,Apartment,Bopal,34000.0,2050.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,32000.0,1150.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,27000.0,2000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,21000.0,1359.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Satellite,90000.0,3500.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,60000.0,3200.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2050.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bodakdev,55000.0,3000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,18000.0,1530.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1215.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,23500.0,1548.0,Semi-Furnished,3.0
@@ -778,7 +677,6 @@ AGENT,3.0,BHK,Apartment,Shela,22000.0,1960.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,18000.0,1170.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Memnagar,18000.0,1000.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Shela,60000.0,4050.0,Unfurnished,6.0
 AGENT,3.0,BHK,Apartment,Shela,18000.0,1440.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,30000.0,1850.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,32000.0,2240.0,Unfurnished,3.0
@@ -797,16 +695,8 @@ AGENT,2.0,BHK,Apartment,Bodakdev,18000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1250.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Navrangpura,35000.0,1900.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ramdev Nagar,75100.0,3600.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2520.0,Furnished,4.0
-AGENT,3.0,BHK,Independent House,Jodhpur,100000.0,4500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,28000.0,1710.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,45100.0,2300.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Bodakdev,125000.0,3600.0,Furnished,3.0
-AGENT,3.0,BHK,Independent House,Jodhpur,55100.0,1620.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,90000.0,4060.0,Unfurnished,4.0
-AGENT,3.0,BHK,Independent House,Memnagar,50100.0,2250.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambavadi,110000.0,2900.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Paldi,27000.0,1600.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Paldi,19000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Paldi,18000.0,1300.0,Unfurnished,2.0
@@ -830,7 +720,6 @@ AGENT,3.0,BHK,Apartment,Jodhpur,25000.0,2250.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,23000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gota,25000.0,1950.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,20000.0,1450.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Prahlad Nagar,55000.0,1700.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,24000.0,1350.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Memnagar,35000.0,1700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,36000.0,2100.0,Furnished,3.0
@@ -848,20 +737,13 @@ AGENT,3.0,BHK,Apartment,Jodhpur,32000.0,2070.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur,35005.0,1791.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,32500.0,1678.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Nava Vadaj,20000.0,2000.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Bodakdev,80000.0,5000.0,Unfurnished,4.0
-AGENT,3.0,BHK,Villa,Shilaj,50000.0,1200.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,25000.0,2200.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Villa,Ambli,50000.0,4000.0,Unfurnished,5.0
-AGENT,5.0,BHK,Villa,Satellite,50000.0,4000.0,Unfurnished,5.0
 AGENT,3.0,BHK,Apartment,Satellite,26000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shilaj,10000.0,1064.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,15000.0,1665.0,Unfurnished,3.0
-AGENT,2.0,BHK,Apartment,Ellisbridge,60000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1800.0,Unfurnished,3.0
 AGENT,4.0,BHK,Independent House,Thaltej,40000.0,2160.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur,30000.0,2100.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,70000.0,2800.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ellisbridge,65000.0,3486.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Memnagar,20000.0,1080.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,21000.0,1450.0,Semi-Furnished,2.0
@@ -883,10 +765,6 @@ AGENT,3.0,BHK,Apartment,Jodhpur Village,23500.0,1650.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ambavadi,18000.0,1530.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,22000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,23000.0,1500.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Navrangpura,60000.0,2880.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,85000.0,3600.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,110000.0,3500.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Chanakyapuri,90000.0,3150.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shilaj,22000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,18000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1100.0,Semi-Furnished,2.0
@@ -894,9 +772,6 @@ AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,2250.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,25000.0,1100.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,26000.0,1400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,25000.0,1325.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,1975.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Memnagar,60000.0,2394.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,150000.0,3700.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,1332.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent House,Gurukul,40000.0,1300.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,30000.0,1600.0,Semi-Furnished,2.0
@@ -937,8 +812,6 @@ AGENT,3.0,BHK,Apartment,Bopal,16000.0,1450.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1376.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1105.0,Unfurnished,2.0
 AGENT,4.0,BHK,Apartment,Bopal,40000.0,2775.0,Unfurnished,4.0
-AGENT,4.0,BHK,Villa,Shela,55000.0,4500.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Villa,Shela,55000.0,4200.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Ambli,34000.0,1700.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vastrapur,20000.0,1163.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vastrapur,25000.0,1080.0,Furnished,1.0
@@ -949,7 +822,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,25000.0,1251.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,1851.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1251.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,32000.0,2151.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2151.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,24000.0,1751.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Vastrapur,19000.0,1150.0,Furnished,2.0
 AGENT,4.0,BHK,Villa,Sola,22000.0,2088.0,Furnished,4.0
@@ -1070,67 +942,30 @@ AGENT,3.0,BHK,Apartment,Ambavadi,40000.0,1575.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,25000.0,1710.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,20000.0,1800.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1800.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Ellisbridge,50000.0,1360.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,55000.0,3600.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,80000.0,2700.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Thaltej,90001.0,4060.0,Unfurnished,4.0
-AGENT,3.0,BHK,Independent House,Jodhpur,55000.0,1620.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,45000.0,2300.0,Unfurnished,3.0
-AGENT,3.0,BHK,Independent House,Bodakdev,90001.0,3150.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,70000.0,2280.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,40000.0,1710.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,35000.0,2700.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,43000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Jodhpur,125000.0,2700.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,80000.0,2650.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,25100.0,1755.0,Unfurnished,3.0
-AGENT,4.0,BHK,Independent House,Prahlad Nagar,80000.0,1980.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,44001.0,2100.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,65001.0,2800.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,125000.0,2518.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ramdev Nagar,75000.0,3600.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur,20000.0,1620.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1500.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,85000.0,2700.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Ambli,45000.0,2280.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,2850.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Ellisbridge,60001.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,34001.0,2100.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,60000.0,2925.0,Furnished,4.0
-AGENT,3.0,BHK,Independent House,Memnagar,50000.0,2250.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,35001.0,1900.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,2750.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,50001.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Independent House,Thaltej,110000.0,2700.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Bopal,80001.0,4500.0,Furnished,4.0
-AGENT,5.0,BHK,Independent House,Shilaj,150000.0,4500.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,Thaltej,60001.0,2400.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Vastrapur,50000.0,2300.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,70001.0,2800.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ellisbridge,65001.0,3486.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Independent House,Memnagar,65001.0,3150.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,52920.0,2520.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Paldi,35000.0,2350.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,26000.0,2160.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,28000.0,1076.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,45000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,23000.0,1000.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,45000.0,2100.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,70000.0,3600.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Navrangpura,50000.0,2100.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ambavadi,20000.0,1050.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Dani Limda,35000.0,2060.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur,75000.0,3100.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Vastrapur,50000.0,2025.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Vastrapur,52000.0,1845.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,100000.0,3400.0,Furnished,4.0
-AGENT,3.0,BHK,Independent House,Satellite,75000.0,2250.0,Semi-Furnished,3.0
-AGENT,6.0,BHK,Independent House,Thaltej,150000.0,3600.0,Unfurnished,6.0
 AGENT,3.0,BHK,Apartment,Bodakdev,40000.0,1850.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,40001.0,1850.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,30100.0,2250.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,30000.0,2250.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Memnagar,60000.0,2345.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Satellite,30000.0,1170.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,25000.0,1700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent House,Jodhpur,27000.0,1530.0,Semi-Furnished,3.0
@@ -1138,14 +973,10 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,37000.0,2010.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,2010.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Narolgam,23000.0,900.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Vastrapur,25000.0,1800.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Ambavadi,55000.0,2400.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vejalpur,14000.0,1300.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Koteshwar,20000.0,1332.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,20000.0,1120.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Memnagar,24000.0,1625.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,53200.0,2800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,60000.0,2800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,30000.0,1900.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,25000.0,1860.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,30000.0,1900.0,Semi-Furnished,2.0
@@ -1156,7 +987,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,16000.0,1350.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1416.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18500.0,1650.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Sola,28000.0,2385.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,60000.0,2985.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Vejalpur,27000.0,1770.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,16000.0,1500.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shilaj,16000.0,1557.0,Semi-Furnished,3.0
@@ -1192,19 +1022,15 @@ AGENT,3.0,BHK,Apartment,Jodhpur Village,25000.0,1685.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,17000.0,1325.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,20000.0,1355.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,16500.0,1325.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ambavadi,55000.0,3800.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,20000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Mithakhali,40000.0,2400.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Vastrapur,55000.0,2110.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,20000.0,1350.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Memnagar,25000.0,2120.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,19500.0,1590.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1600.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19500.0,1330.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,85000.0,6500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Paldi,18000.0,1200.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,48000.0,3200.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,15500.0,1180.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,25000.0,1485.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Thaltej,12500.0,1250.0,Semi-Furnished,2.0
@@ -1243,47 +1069,22 @@ AGENT,3.0,BHK,Apartment,Ambavadi,26000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Navrangpura,40000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,45000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,42000.0,2310.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,60000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,41000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vejalpur,30000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur,90000.0,3420.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Satellite,51000.0,2800.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Ambavadi,32000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Villa,Prahlad Nagar,50000.0,2700.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Makarba,38000.0,1850.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,40000.0,1800.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,30000.0,2300.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Villa,Ambli,165000.0,6300.0,Furnished,5.0
-AGENT,5.0,BHK,Villa,Jodhpur,250000.0,9500.0,Furnished,5.0
-AGENT,4.0,BHK,Villa,Jodhpur,100000.0,3600.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Villa,Satellite,125000.0,4050.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Thaltej,110000.0,2800.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,90000.0,2858.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,100000.0,3700.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,90000.0,3000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,105000.0,3400.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Satellite,135000.0,4000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,140000.0,4400.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Ambavadi,25000.0,1500.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Vastrapur,60000.0,2000.0,Furnished,3.0
 AGENT,4.0,BHK,Villa,Shela,35000.0,3402.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Shela,50000.0,2450.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,25000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Villa,Thaltej,60000.0,4000.0,Semi-Furnished,5.0
-AGENT,5.0,BHK,Apartment,Shela,60000.0,3808.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Ambavadi,37000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,26000.0,1430.0,Furnished,3.0
-AGENT,5.0,BHK,Villa,Bodakdev,225000.0,5400.0,Furnished,6.0
 AGENT,3.0,BHK,Apartment,Bodakdev,45000.0,1755.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,25500.0,1080.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Bopal,45000.0,2905.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,65000.0,2905.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,80000.0,2775.0,Furnished,4.0
-AGENT,5.0,BHK,Villa,Shela,100000.0,4900.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1330.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Shela,50000.0,1719.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,32000.0,1905.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,1413.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Gota,35000.0,1600.0,Furnished,5.0
@@ -1320,7 +1121,6 @@ AGENT,3.0,BHK,Apartment,Navrangpura,17000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Zundal,21000.0,1548.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1650.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,2100.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,60000.0,3500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shilaj,22000.0,1800.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,25000.0,1876.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bopal,39000.0,3500.0,Semi-Furnished,4.0
@@ -1328,7 +1128,6 @@ AGENT,2.0,BHK,Apartment,Ambavadi,28000.0,1600.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1370.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Science City,25000.0,1140.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ghatlodiya,35000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,50000.0,1655.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,25000.0,1845.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Science City,17000.0,1395.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Science City,17000.0,1800.0,Semi-Furnished,3.0
@@ -1383,8 +1182,6 @@ AGENT,3.0,BHK,Apartment,Bopal,18001.0,1485.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1490.0,Furnished,2.0
 AGENT,3.0,BHK,Independent House,New Ranip,20000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gota,16000.0,1700.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,225000.0,5800.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Ambli,70000.0,2800.0,Furnished,4.0
 AGENT,4.0,BHK,Independent Floor,Bopal,43000.0,4500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1886.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1880.0,Semi-Furnished,3.0
@@ -1409,12 +1206,10 @@ AGENT,2.0,BHK,Apartment,Bopal,18000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vastrapur,20000.0,1269.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,45000.0,1989.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,60000.0,2654.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1138.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,25000.0,1782.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,30000.0,1985.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,40000.0,2475.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,85000.0,3087.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vastrapur,25000.0,1258.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,23000.0,1285.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,32000.0,1989.0,Semi-Furnished,3.0
@@ -1537,17 +1332,13 @@ AGENT,2.0,BHK,Apartment,Jodhpur Village,16000.0,1255.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,25000.0,1305.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Prahlad Nagar,11000.0,998.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Ramdev Nagar,10500.0,989.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Ambli,179000.0,4450.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Bopal,17001.0,1170.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bopal,70000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,34000.0,1820.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1560.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Gota,28000.0,2700.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,34000.0,1985.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bopal,45000.0,2610.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,20001.0,1532.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,1965.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,95001.0,2400.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,16000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shilaj,15000.0,800.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,18000.0,1322.0,Unfurnished,2.0
@@ -1569,7 +1360,6 @@ AGENT,3.0,BHK,Apartment,Ayojan Nagar,16000.0,1750.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,17000.0,1255.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Jodhpur,25000.0,1455.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Satellite,30000.0,2200.0,Semi-Furnished,5.0
-AGENT,10.0,BHK,Apartment,Jivraj Park,180000.0,7000.0,Furnished,12.0
 AGENT,2.0,BHK,Apartment,Satellite,16000.0,989.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambavadi,38000.0,2200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,2200.0,Furnished,4.0
@@ -1588,11 +1378,8 @@ AGENT,1.0,BHK,Apartment,Jodhpur,12000.0,998.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,20000.0,1325.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Jodhpur,15500.0,998.0,Furnished,1.0
 AGENT,2.0,BHK,Independent House,Satellite,14500.0,1365.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,50000.0,3500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Satellite,21000.0,1350.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ranip,51000.0,3500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,26000.0,1885.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,95000.0,3700.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Thaltej,30000.0,2700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,2025.0,Unfurnished,3.0
 AGENT,4.0,BHK,Apartment,Memnagar,40000.0,3950.0,Semi-Furnished,5.0
@@ -1626,21 +1413,13 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,35000.0,1881.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,24000.0,945.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,975.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,55000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,45000.0,1400.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Ambli,32000.0,1819.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,1800.0,Furnished,2.0
 AGENT,4.0,BHK,Villa,Shilaj,35000.0,2200.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Sanathal,55000.0,2250.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,70000.0,1350.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Sanathal,100000.0,1500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,25000.0,2100.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,95000.0,3400.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Bopal,55000.0,4275.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1230.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Memnagar,60000.0,4000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vejalpur,30000.0,1832.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Sanand,97000.0,6500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,30000.0,2500.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,25000.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,21000.0,1985.0,Semi-Furnished,3.0
@@ -1665,7 +1444,6 @@ AGENT,3.0,BHK,Apartment,Bopal,20000.0,1430.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,1425.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1435.0,Furnished,3.0
 AGENT,4.0,BHK,Independent Floor,Thaltej,45000.0,3393.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Villa,Ambli,140000.0,4500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Khodiyar,18000.0,1905.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent Floor,Satellite,40000.0,2150.0,Furnished,3.0
 AGENT,4.0,BHK,Villa,Sanathal,38000.0,2700.0,Furnished,5.0
@@ -1673,19 +1451,15 @@ AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,13500.0,1425.0,Semi-
 AGENT,2.0,BHK,Apartment,Makarba,17000.0,1295.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,16000.0,1225.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,15000.0,1325.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bodakdev,50000.0,1700.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,15000.0,891.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,15000.0,1600.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Villa,Shela,55000.0,2526.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,Shilaj,20000.0,1143.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shilaj,16000.0,976.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1055.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1435.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,26000.0,1430.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bopal,55000.0,2214.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1400.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1170.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,60000.0,3600.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1430.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1425.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1500.0,Semi-Furnished,3.0
@@ -1699,13 +1473,9 @@ AGENT,3.0,BHK,Apartment,Bopal,17000.0,1440.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,17500.0,1430.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,2115.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1995.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Apartment,Bopal,95000.0,5470.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Satellite,55000.0,3200.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Navrangpura,50000.0,3200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,45000.0,2895.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent House,Prahlad Nagar,25000.0,1550.0,Furnished,2.0
 AGENT,3.0,BHK,Independent House,Jodhpur,30000.0,1500.0,Furnished,3.0
-AGENT,3.0,BHK,Independent Floor,Sanathal,65000.0,4000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,45000.0,2280.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,40000.0,2165.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,1985.0,Semi-Furnished,3.0
@@ -1716,7 +1486,6 @@ AGENT,3.0,BHK,Apartment,Gota,25000.0,2165.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,13500.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,15000.0,1435.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1620.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Sanathal,50000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Maninagar,14000.0,900.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Independent House,Bopal,30000.0,2500.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Independent House,Bopal,30000.0,3500.0,Semi-Furnished,4.0
@@ -1736,18 +1505,10 @@ AGENT,2.0,BHK,Apartment,Makarba,22000.0,1350.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,35000.0,1698.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,36000.0,2000.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,50000.0,2450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,45000.0,2450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,44000.0,2250.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,40000.0,2150.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,60000.0,2550.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,74000.0,2650.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bopal,65000.0,2150.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,55000.0,2250.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,55000.0,2450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,32000.0,2150.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,85000.0,2150.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2136.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,26000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1900.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent House,Science City,35000.0,1690.0,Furnished,3.0
@@ -1763,11 +1524,8 @@ AGENT,3.0,BHK,Apartment,Satellite,32000.0,2250.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vejalpur,33000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,27000.0,2150.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,28000.0,1850.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,90000.0,2950.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,50000.0,2250.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,26000.0,2150.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,41000.0,2200.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,55000.0,2100.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,30000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,32000.0,1250.0,Furnished,3.0
@@ -1779,16 +1537,13 @@ AGENT,3.0,BHK,Apartment,Satellite,35000.0,2500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jagatpur,16000.0,1372.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Chandkheda,40000.0,2600.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Thaltej,25000.0,1385.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Science City,65000.0,3000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,35000.0,2200.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Gurukul,75000.0,4305.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Independent House,Gurukul,20000.0,2000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gurukul,16000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vastrapur,35000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gurukul,15000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Villa,Thaltej,30000.0,4500.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1350.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Thaltej,50000.0,2007.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,34500.0,1845.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,2250.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,2000.0,Furnished,3.0
@@ -1796,9 +1551,6 @@ AGENT,3.0,BHK,Apartment,Sola,30000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Independent House,Gurukul,15000.0,1100.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,720.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,26000.0,1600.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Villa,Memnagar,60000.0,2000.0,Furnished,3.0
-AGENT,6.0,BHK,Villa,Near Nirma University On SG Highway,80000.0,4000.0,Furnished,6.0
-AGENT,5.0,BHK,Independent House,Navrangpura,150000.0,3000.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Memnagar,25000.0,1710.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Memnagar,18000.0,1240.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,17000.0,1350.0,Semi-Furnished,2.0
@@ -1820,34 +1572,17 @@ AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1300.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,16500.0,1500.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Sanathal,40000.0,2900.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,125000.0,2000.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Bopal,65000.0,5700.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,34000.0,3000.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,30000.0,3000.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,175000.0,5400.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,200000.0,4400.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1800.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Apartment,Bopal,68000.0,5400.0,Semi-Furnished,5.0
 AGENT,4.0,BHK,Villa,Shela,40000.0,4100.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,145000.0,4000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,86000.0,4500.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,150000.0,4800.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,135000.0,3500.0,Furnished,5.0
-AGENT,4.0,BHK,Villa,Shela,169000.0,6800.0,Semi-Furnished,6.0
-AGENT,4.0,BHK,Villa,Shela,87000.0,3859.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,2100.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,65000.0,2200.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Bopal,40000.0,4500.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,3200.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shela,22000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,55000.0,3200.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,65000.0,2651.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,55000.0,2700.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Apartment,Shela,38000.0,2300.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bopal,45000.0,2700.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bopal,45000.0,3800.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,17000.0,1200.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Sanathal,99000.0,3750.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,2050.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1195.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,30000.0,2200.0,Semi-Furnished,3.0
@@ -1877,7 +1612,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,20000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,16000.0,1230.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Bodakdev,18000.0,1260.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Nehru Nagar,20000.0,1200.0,Furnished,2.0
-AGENT,5.0,BHK,Villa,Ambavadi,60000.0,3400.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Sola,16000.0,1230.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Bodakdev,16000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ellisbridge,22000.0,2200.0,Furnished,3.0
@@ -1890,63 +1624,28 @@ AGENT,2.0,BHK,Apartment,Jodhpur,14000.0,1400.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Ambavadi,21000.0,1900.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ellisbridge,10000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Paldi,17000.0,1700.0,Furnished,2.0
-AGENT,4.0,BHK,Villa,Shela,50000.0,4500.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,45000.0,3500.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Apartment,Ambli,110000.0,4500.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1886.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,4300.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shilaj,25000.0,2200.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,30000.0,3600.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,25000.0,1800.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,55000.0,6000.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1800.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1250.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Apartment,Thaltej,380000.0,6500.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Bopal,100000.0,3500.0,Furnished,5.0
 AGENT,4.0,BHK,Apartment,Bodakdev,30000.0,2500.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Thaltej,124000.0,5200.0,Furnished,1.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,125000.0,3000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1500.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Satellite,75000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,1960.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,85000.0,3500.0,Furnished,3.0
-AGENT,5.0,BHK,Villa,Bodakdev,110000.0,4500.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,176000.0,5200.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1375.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,125000.0,3100.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,55000.0,3000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,4700.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,2000.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,65000.0,4200.0,Furnished,4.0
-AGENT,5.0,BHK,Apartment,Ambli,96000.0,6000.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1800.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Villa,Thaltej,125000.0,5000.0,Furnished,6.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1886.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,3800.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Villa,Bopal,45000.0,4000.0,Furnished,4.0
 AGENT,4.0,BHK,Villa,Shilaj,45000.0,7000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,2200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Thaltej,60000.0,7000.0,Furnished,4.0
 AGENT,3.0,BHK,Villa,Bopal,40000.0,3000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,45000.0,2250.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,50000.0,3000.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Sanathal,100000.0,4600.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Satellite,100000.0,3000.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Sola,65000.0,6000.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Villa,Bopal,50000.0,4200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,24500.0,1700.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Independent House,Thaltej,135000.0,5200.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,140000.0,5000.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,80000.0,4400.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,85000.0,4000.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Bodakdev,185000.0,5800.0,Semi-Furnished,5.0
-AGENT,5.0,BHK,Apartment,Jodhpur Village,90000.0,4000.0,Semi-Furnished,7.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,85000.0,4000.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,150000.0,4500.0,Furnished,5.0
-AGENT,5.0,BHK,Apartment,Ambli,125000.0,6000.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,85000.0,4000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,25000.0,1800.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Prahlad Nagar,35000.0,3375.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Vastrapur,42000.0,2727.0,Semi-Furnished,4.0
@@ -1956,7 +1655,6 @@ AGENT,3.0,BHK,Apartment,Science City,30000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,17000.0,1500.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shilaj,13500.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,38000.0,2115.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Prahlad Nagar,65000.0,3600.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,30000.0,2250.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gurukul,16000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Santej,18000.0,1200.0,Semi-Furnished,2.0
@@ -1988,7 +1686,6 @@ AGENT,2.0,BHK,Apartment,Shela,15000.0,1150.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,17500.0,1450.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shilaj,13000.0,1150.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shilaj,12500.0,1150.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,52000.0,4315.0,Unfurnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1450.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1250.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1150.0,Unfurnished,2.0
@@ -1998,7 +1695,6 @@ AGENT,3.0,BHK,Apartment,Bopal,19000.0,1450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,30000.0,1900.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,30000.0,3250.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,21000.0,1250.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bopal,50000.0,2248.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,33000.0,1905.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,2300.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1905.0,Furnished,3.0
@@ -2022,22 +1718,18 @@ AGENT,3.0,BHK,Apartment,Bopal,18000.0,1850.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,16500.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,2285.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1985.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Bopal,60000.0,2900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1900.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,17000.0,1512.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,27000.0,1150.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,34000.0,2400.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,36000.0,2010.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Memnagar,50000.0,4212.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,27000.0,1400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,32000.0,1385.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1900.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,70000.0,4500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,16000.0,1450.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,2115.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,17000.0,1350.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shilaj,13500.0,1092.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Thaltej,50000.0,2800.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1465.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Juhapura,20000.0,1700.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,17000.0,1230.0,Furnished,2.0
@@ -2075,18 +1767,13 @@ AGENT,2.0,BHK,Apartment,Prahlad Nagar,20000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1494.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,20000.0,1250.0,Unfurnished,3.0
 AGENT,3.0,BHK,Villa,Bopal,20000.0,1250.0,Unfurnished,3.0
-AGENT,4.0,BHK,Villa,Bodakdev,125000.0,3735.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Satellite,22500.0,1315.0,Furnished,2.0
-AGENT,4.0,BHK,Independent House,Jodhpur,65000.0,2250.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,40000.0,2300.0,Furnished,4.0
 AGENT,2.0,BHK,Villa,Jodhpur,25000.0,2520.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1120.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1233.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,14500.0,1280.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,14000.0,810.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Jodhpur,65000.0,2250.0,Furnished,4.0
-AGENT,6.0,BHK,Villa,Thaltej,75000.0,2520.0,Furnished,5.0
-AGENT,6.0,BHK,Independent House,Shilaj,75000.0,2010.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,30000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,28000.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1280.0,Furnished,2.0
@@ -2108,13 +1795,11 @@ AGENT,1.0,BHK,Apartment,Jodhpur,13000.0,700.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,16000.0,650.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Gota,14000.0,650.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,18000.0,1133.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Satellite,70000.0,3080.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,17000.0,1145.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Villa,Sanathal,32000.0,3420.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vasna,21000.0,2200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,2280.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,15000.0,1380.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,68000.0,3250.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Gota,13000.0,1116.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,15000.0,1400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,25000.0,1420.0,Furnished,2.0
@@ -2126,12 +1811,8 @@ AGENT,2.0,BHK,Apartment,Shilaj,12500.0,1242.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,12500.0,1510.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,10000.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Juhapura,9000.0,1000.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Ambavadi,75000.0,4050.0,Furnished,4.0
-AGENT,5.0,BHK,Villa,Ambli,100000.0,6210.0,Furnished,5.0
 AGENT,3.0,BHK,Villa,Thaltej,42500.0,2250.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Bopal,22000.0,4050.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Shilaj,65000.0,5400.0,Furnished,4.0
-AGENT,5.0,BHK,Villa,Near Nirma University On SG Highway,55000.0,5247.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Independent House,Paldi,30000.0,3600.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,25000.0,2295.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Juhapura,19000.0,1355.0,Furnished,2.0
@@ -2148,7 +1829,6 @@ AGENT,2.0,BHK,Apartment,Juhapura,10000.0,1350.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Juhapura,16000.0,1500.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Khanpur,25000.0,1620.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,22500.0,1250.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Satellite,130000.0,3700.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,26000.0,1100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Makarba,18500.0,1880.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1200.0,Semi-Furnished,2.0
@@ -2161,7 +1841,6 @@ AGENT,2.0,BHK,Apartment,Makarba,17000.0,1350.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,25000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Science City,16000.0,1215.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Science City,26500.0,2000.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Independent House,Naranpuraa,100000.0,2500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vastrapur,18000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Memnagar,25000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,32000.0,2000.0,Semi-Furnished,3.0
@@ -2181,11 +1860,8 @@ AGENT,3.0,BHK,Apartment,Gota,35000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chekhla,20000.0,1700.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Memnagar,16000.0,1200.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,4315.0,Unfurnished,5.0
 AGENT,2.0,BHK,Independent House,Memnagar,20000.0,1100.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Thaltej,60000.0,4500.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,Navrangpura,40000.0,2075.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Sanathal,60000.0,1560.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Memnagar,20000.0,1170.0,Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Satellite,25050.0,1521.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,22000.0,1135.0,Furnished,2.0
@@ -2198,14 +1874,7 @@ AGENT,2.0,BHK,Apartment,Jodhpur,16000.0,1200.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Jodhpur,11500.0,900.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Vejalpur,11500.0,900.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Vejalpur,12000.0,900.0,Furnished,1.0
-AGENT,5.0,BHK,Independent House,Ambli,150000.0,6750.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,120000.0,4475.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,150000.0,4385.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,50000.0,2925.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,150000.0,5400.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Villa,Bodakdev,130000.0,5166.0,Unfurnished,5.0
 AGENT,3.0,BHK,Apartment,Ambavadi,40000.0,2115.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,65000.0,3510.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bodakdev,36000.0,2000.0,Furnished,3.0
 AGENT,4.0,BHK,Independent House,Shela,38000.0,3000.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Memnagar,21000.0,1269.0,Semi-Furnished,2.0
@@ -2217,20 +1886,15 @@ AGENT,2.0,BHK,Apartment,Satellite,25000.0,1125.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,14000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vastrapur,20000.0,1125.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vejalpur,14000.0,1050.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Jodhpur,50000.0,1950.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,15000.0,1080.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,22000.0,1850.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,14000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,20000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,22000.0,1800.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Sola,30000.0,1800.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2007.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,3080.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,20000.0,1689.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,55000.0,2775.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,2180.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,48000.0,2885.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,30700.0,1350.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,2200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,30000.0,2050.0,Semi-Furnished,3.0
@@ -2242,10 +1906,7 @@ AGENT,3.0,BHK,Apartment,Memnagar,35000.0,1485.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,24000.0,1485.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Memnagar,29000.0,999.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Navrangpura,19000.0,999.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Memnagar,55000.0,3618.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Memnagar,57000.0,2394.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,35000.0,2394.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Vastrapur,70000.0,2727.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Vastrapur,46000.0,2727.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vastrapur,21000.0,1200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,30000.0,2000.0,Unfurnished,3.0
@@ -2253,25 +1914,17 @@ AGENT,3.0,BHK,Apartment,Thaltej,15000.0,1125.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,20000.0,2000.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Ambli,45000.0,2250.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vastrapur,30000.0,1845.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,75000.0,2727.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,20000.0,1070.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1880.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,55000.0,2280.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,52000.0,2350.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bopal,40000.0,2775.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1251.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,2115.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,25000.0,1876.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1140.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,75000.0,3075.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,70000.0,3800.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1950.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vejalpur,31000.0,1600.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1600.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1890.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,60000.0,2400.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,51000.0,2050.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,51000.0,2850.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,2106.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1170.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,40000.0,2150.0,Semi-Furnished,3.0
@@ -2321,7 +1974,6 @@ AGENT,2.0,BHK,Apartment,Prahlad Nagar,23000.0,1240.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gurukul,27000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,19000.0,1220.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Memnagar,19000.0,1210.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,25000.0,1240.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Makarba,26000.0,1440.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,26000.0,1240.0,Furnished,2.0
@@ -2376,7 +2028,6 @@ AGENT,3.0,BHK,Villa,Bopal,24000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Shela,18000.0,1550.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1450.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,60000.0,2700.0,Furnished,2.0
 AGENT,3.0,BHK,Villa,Bopal,22501.0,2025.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25500.0,1488.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Navrangpura,25001.0,1215.0,Unfurnished,1.0
@@ -2386,11 +2037,9 @@ AGENT,3.0,BHK,Apartment,Bopal,32000.0,1560.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1550.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16500.0,1080.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1800.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Villa,Bopal,50000.0,3000.0,Semi-Furnished,5.0
 AGENT,5.0,BHK,Villa,Ghuma,45000.0,2700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,35000.0,1485.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,32001.0,1510.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,95000.0,5470.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1510.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1470.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Hatkeshwar,40000.0,1580.0,Furnished,3.0
@@ -2407,9 +2056,7 @@ AGENT,5.0,BHK,Independent House,Shela,35000.0,3500.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,17500.0,1070.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Navrangpura,32000.0,1578.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,42000.0,1750.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Shela,50000.0,2800.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Shela,45000.0,2800.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Shela,55000.0,2800.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Memnagar,22000.0,1090.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Hatkeshwar,18000.0,1070.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambavadi,25000.0,1530.0,Furnished,3.0
@@ -2421,7 +2068,6 @@ AGENT,2.0,BHK,Apartment,Vastrapur,18000.0,1070.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,27000.0,1125.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,18000.0,1125.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,28000.0,2027.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,85000.0,3510.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Ambavadi,22000.0,1155.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,28000.0,1850.0,Unfurnished,3.0
 AGENT,3.0,BHK,Independent House,Shela,14000.0,1600.0,Unfurnished,3.0
@@ -2458,34 +2104,25 @@ AGENT,2.0,BHK,Apartment,Navrangpura,22000.0,1480.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ambavadi,18000.0,1480.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,14000.0,1250.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,20000.0,1280.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,80000.0,2800.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,50000.0,2800.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Naranpuraa,22000.0,1785.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Satellite,38000.0,2750.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Navrangpura,24000.0,1100.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Satellite,60000.0,3150.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,45001.0,2203.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,18500.0,1125.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Jodhpur,95000.0,3420.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,28000.0,1845.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,25000.0,1855.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Navrangpura,22000.0,1350.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,55000.0,3200.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vastrapur,23000.0,1125.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,CG Road,33000.0,2145.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Anand Nagar,25000.0,2025.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,27000.0,1550.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,100000.0,2699.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1050.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,40000.0,1850.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,2300.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,57000.0,3200.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Jodhpur,90000.0,3600.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,40000.0,1900.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,17000.0,1070.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent House,Chandkheda,22000.0,1400.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Shela,12000.0,646.0,Furnished,1.0
-AGENT,4.0,BHK,Apartment,Jodhpur,48000.0,2772.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bodakdev,26000.0,1820.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,1845.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Bodakdev,40000.0,2200.0,Furnished,3.0
@@ -2497,13 +2134,9 @@ AGENT,2.0,BHK,Independent House,Bodakdev,22000.0,1215.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,28000.0,1700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,25000.0,1700.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,26000.0,1170.0,Furnished,2.0
-AGENT,4.0,BHK,Villa,Shela,95000.0,6120.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,14000.0,1118.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,65000.0,2800.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,18500.0,1250.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Shela,55000.0,3842.0,Furnished,4.0
 AGENT,4.0,BHK,Villa,Shela,38000.0,2385.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,95000.0,4475.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,27000.0,1075.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Bopal,40000.0,3800.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,2125.0,Semi-Furnished,3.0
@@ -2541,11 +2174,9 @@ AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,17000.0,1100.0,Furni
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,18000.0,1650.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Nikol,25000.0,2880.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Gota,24000.0,1700.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,65000.0,3300.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,23000.0,2165.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,18500.0,1600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,31000.0,1700.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Memnagar,55000.0,2200.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14500.0,1300.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,13500.0,1300.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Khodiyar,15000.0,1450.0,Semi-Furnished,2.0
@@ -2564,7 +2195,6 @@ AGENT,3.0,BHK,Apartment,Bopal,23000.0,1400.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,16800.0,1400.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1400.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tragad,15000.0,1600.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Independent House,Thaltej,50000.0,2007.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,1900.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,40000.0,3340.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Gota,13000.0,1310.0,Semi-Furnished,2.0
@@ -2579,57 +2209,35 @@ AGENT,3.0,BHK,Apartment,Bopal,19000.0,1440.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1600.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,18000.0,1273.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,33000.0,1431.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,50000.0,2799.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,1890.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35001.0,2406.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,2050.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,125000.0,3938.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,55000.0,2436.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,40000.0,1960.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,85000.0,3640.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,3200.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Villa,Ambli,65000.0,3960.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,1700.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,35000.0,1200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Thaltej,30001.0,1800.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bodakdev,46000.0,1755.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2850.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,150000.0,5800.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Ambli,30000.0,2250.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,42000.0,1665.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,37000.0,2115.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,60000.0,3400.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,38000.0,2394.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,32000.0,1665.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2142.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,110000.0,3535.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Thaltej,60000.0,2007.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,40000.0,1999.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,30000.0,1905.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,35000.0,1575.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Shela,55000.0,2300.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur,30000.0,1845.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,42000.0,2050.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,36500.0,1300.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,40000.0,1705.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,2385.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,2115.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,50000.0,2750.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,34000.0,1900.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,38500.0,2250.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Villa,Santej,55001.0,3600.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,35001.0,1960.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Makarba,60001.0,3400.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35001.0,2250.0,Unfurnished,3.0
 AGENT,4.0,BHK,Villa,Bopal,30000.0,3132.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,120000.0,3350.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Shilaj,55000.0,4212.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,32000.0,2716.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,55000.0,2845.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Thaltej,82000.0,3525.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,42000.0,2010.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,30000.0,3400.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bopal,74000.0,2415.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,25000.0,2300.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1980.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,2115.0,Unfurnished,3.0
@@ -2691,31 +2299,17 @@ AGENT,2.0,BHK,Apartment,Gota,16500.0,1215.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,21000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,27000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Paldi,18000.0,1200.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Mumatpura,50000.0,3000.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Bodakdev,125000.0,3600.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,100000.0,4500.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Thaltej,125000.0,3900.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,155000.0,4500.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Thaltej,50000.0,2142.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,110000.0,4200.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Satellite,50000.0,2070.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,81000.0,4000.0,Furnished,4.0
-AGENT,5.0,BHK,Independent House,Thaltej,140000.0,3600.0,Furnished,5.0
-AGENT,4.0,BHK,Independent House,Bodakdev,105000.0,3600.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,22000.0,1355.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gota,32500.0,1850.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vejalpur,12000.0,990.0,Unfurnished,2.0
-AGENT,3.0,BHK,Independent House,Jodhpur,65000.0,2700.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Prahlad Nagar,9500.0,600.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Vejalpur,20000.0,1500.0,Furnished,3.0
-AGENT,7.0,BHK,Villa,Jivraj Park,65000.0,2700.0,Semi-Furnished,7.0
 AGENT,1.0,BHK,Apartment,Shela,10000.0,500.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Vejalpur,13000.0,990.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vejalpur,10500.0,666.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Jodhpur,8500.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Vejalpur,20000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vejalpur,14000.0,1080.0,Semi-Furnished,2.0
-AGENT,7.0,BHK,Independent House,Jodhpur,65000.0,2700.0,Semi-Furnished,7.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1985.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18500.0,1330.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent House,Thaltej,35000.0,1300.0,Furnished,2.0
@@ -2738,7 +2332,6 @@ AGENT,2.0,BHK,Apartment,Ambavadi,22000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,22000.0,1270.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,1250.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,30000.0,1450.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Navrangpura,50000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,12000.0,1250.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Navrangpura,30000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vastrapur,22000.0,1250.0,Furnished,1.0
@@ -2771,7 +2364,6 @@ AGENT,2.0,BHK,Apartment,Bopal,17000.0,927.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,17000.0,1500.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,25000.0,1230.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Science City,20000.0,2160.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Science City,60000.0,2160.0,Furnished,3.0
 AGENT,4.0,BHK,Villa,Science City,40000.0,4050.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Science City,18500.0,1890.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,21000.0,1305.0,Unfurnished,2.0
@@ -2801,7 +2393,6 @@ AGENT,3.0,BHK,Apartment,Jodhpur Village,30000.0,1999.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,28000.0,1485.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,32000.0,1836.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,2050.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,55000.0,2070.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,18000.0,1030.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,1030.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,18000.0,1025.0,Semi-Furnished,2.0
@@ -2824,11 +2415,8 @@ AGENT,3.0,BHK,Apartment,Satellite,21000.0,1700.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Satellite,27000.0,1500.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Jodhpur,25000.0,1100.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,29000.0,1700.0,Furnished,1.0
-AGENT,4.0,BHK,Independent House,Bopal,65000.0,3700.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Villa,Shela,65000.0,2400.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,30000.0,1989.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vejalpur,25000.0,1440.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,1665.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1980.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1985.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,27000.0,2300.0,Semi-Furnished,4.0
@@ -2841,8 +2429,6 @@ AGENT,1.0,BHK,Apartment,Makarba,22000.0,1200.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Jodhpur Village,20000.0,1050.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Prahlad Nagar,20000.0,1050.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1380.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,85000.0,2750.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,85000.0,3150.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,26000.0,1710.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,1700.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Makarba,25000.0,1050.0,Furnished,2.0
@@ -2857,7 +2443,6 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,27000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,24000.0,2100.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,25000.0,1700.0,Furnished,1.0
 AGENT,4.0,BHK,Apartment,Shela,45000.0,2400.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,100000.0,3078.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,17500.0,1850.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,17000.0,1690.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,25000.0,1650.0,Furnished,3.0
@@ -2884,12 +2469,10 @@ AGENT,3.0,BHK,Apartment,Bopal,23000.0,1895.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1360.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,16000.0,1560.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,14000.0,1050.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Villa,Shela,50000.0,4250.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,30000.0,2210.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,45000.0,3210.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Shela,25000.0,2290.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,22000.0,1890.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,3340.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1985.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,28000.0,2300.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,24000.0,1250.0,Furnished,2.0
@@ -2898,12 +2481,9 @@ AGENT,4.0,BHK,Villa,Shela,30000.0,3690.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,16500.0,1305.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,17000.0,1260.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Makarba,22000.0,1460.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,3260.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,32000.0,2290.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1865.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,90000.0,3460.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Ambli,45000.0,3310.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Apartment,Ambli,90000.0,5510.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Bopal,24000.0,1210.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,2036.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bopal,40000.0,3850.0,Semi-Furnished,4.0
@@ -2922,7 +2502,6 @@ AGENT,3.0,BHK,Apartment,Bopal,18000.0,1690.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,1810.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1590.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bopal,28000.0,2350.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Apartment,Bopal,80000.0,5000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,2089.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,1910.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,25000.0,2020.0,Semi-Furnished,3.0
@@ -3020,8 +2599,6 @@ AGENT,3.0,BHK,Apartment,Makarba,20000.0,1755.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,16500.0,1253.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,25000.0,1460.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,18000.0,1460.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Apartment,Prahlad Nagar,100000.0,8775.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2675.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,30000.0,2000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,30000.0,2000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,19000.0,1050.0,Semi-Furnished,2.0
@@ -3050,7 +2627,6 @@ AGENT,1.0,BHK,Apartment,Bopal,11100.0,750.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Shela,27500.0,1500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,19850.0,1280.0,Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Ambavadi,30000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Independent House,Bodakdev,150000.0,3700.0,Furnished,3.0
 AGENT,4.0,BHK,Independent House,Ghuma,27000.0,1700.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,21000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ambavadi,22000.0,1200.0,Furnished,2.0
@@ -3060,10 +2636,8 @@ AGENT,3.0,BHK,Apartment,Shela,27501.0,1500.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,45501.0,2700.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Satellite,21000.0,1700.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,18500.0,1200.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bodakdev,55501.0,3000.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Ambli,39000.0,2450.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur,35000.0,1451.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,95000.0,5616.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Vastrapur,45000.0,2801.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35000.0,1801.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1521.0,Semi-Furnished,3.0
@@ -3091,7 +2665,6 @@ AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1064.0,Furni
 AGENT,1.0,BHK,Apartment,Gota,9000.0,650.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Gota,11000.0,1100.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,35000.0,3650.0,Semi-Furnished,5.0
-AGENT,6.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,175000.0,6600.0,Semi-Furnished,7.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,15000.0,1200.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,30000.0,2700.0,Semi-Furnished,4.0
@@ -3129,12 +2702,10 @@ AGENT,3.0,BHK,Apartment,Bopal,16500.0,1455.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1255.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,15000.0,1235.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,12500.0,1250.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,70000.0,2550.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1230.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,18000.0,1785.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,15000.0,1350.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shilaj,13000.0,1250.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,65000.0,2705.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,14000.0,1350.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1485.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Shela,11000.0,690.0,Semi-Furnished,2.0
@@ -3180,14 +2751,12 @@ AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,13000.0,1100.0,Unfur
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,12700.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,1262.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,16000.0,1550.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,150000.0,4500.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,33000.0,1550.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,15000.0,600.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Gota,15500.0,1862.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,12500.0,1260.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gota,13000.0,1278.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,22000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,100000.0,4500.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,21000.0,1100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gota,21000.0,1980.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,11000.0,900.0,Semi-Furnished,2.0
@@ -3222,12 +2791,10 @@ AGENT,2.0,BHK,Apartment,Paldi,18000.0,990.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Navrangpura,25000.0,1080.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Navrangpura,27000.0,1350.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,8000.0,675.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Jodhpur,50000.0,1575.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,19000.0,1152.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Jodhpur,40000.0,4000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Memnagar,20000.0,1205.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Memnagar,18500.0,1400.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Vastrapur,80000.0,3000.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Vastrapur,30000.0,2160.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Memnagar,25000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Memnagar,31000.0,1107.0,Furnished,2.0
@@ -3253,8 +2820,6 @@ AGENT,3.0,BHK,Apartment,Shela,15000.0,1425.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent House,Shela,20000.0,1400.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1440.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent House,Shela,14000.0,2025.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Independent House,Shela,60000.0,3798.0,Unfurnished,3.0
-AGENT,5.0,BHK,Independent House,Shela,50000.0,4500.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,14500.0,1233.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1709.0,Semi-Furnished,3.0
@@ -3264,8 +2829,6 @@ AGENT,2.0,BHK,Apartment,Prahlad Nagar,17000.0,1305.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Makarba,23000.0,1260.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,45000.0,2050.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,42000.0,2000.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,65000.0,1962.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,65000.0,1800.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Juhapura,22000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1903.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,22000.0,1523.0,Furnished,2.0
@@ -3335,15 +2898,10 @@ AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1355.0,Furni
 AGENT,3.0,BHK,Apartment,Thaltej,27000.0,2300.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,25000.0,1600.0,Furnished,2.0
 AGENT,4.0,BHK,Villa,Vastrapur,45000.0,3060.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Satellite,65000.0,3150.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,40000.0,1980.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur,90000.0,3600.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,22000.0,2050.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,22000.0,1187.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,22000.0,2100.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bodakdev,65000.0,3150.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,70000.0,3700.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Satellite,95000.0,3000.0,Furnished,3.0
 AGENT,3.0,BHK,Villa,Vastrapur,25000.0,3000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ghuma,10000.0,1026.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,14000.0,1125.0,Semi-Furnished,2.0
@@ -3374,7 +2932,6 @@ AGENT,3.0,BHK,Apartment,Jodhpur Village,45000.0,2300.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,23000.0,1650.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,20000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,15000.0,1100.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,65000.0,3537.0,Unfurnished,4.0
 AGENT,1.0,BHK,Independent House,Asarwa,8500.0,900.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Shahibuag,12000.0,1200.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Shahibuag,7000.0,900.0,Semi-Furnished,1.0
@@ -3383,10 +2940,7 @@ AGENT,1.0,BHK,Apartment,Shahibuag,10000.0,900.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Shahibuag,15000.0,1520.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shahibuag,17000.0,1600.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Shahibuag,12500.0,1200.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Shela,52000.0,4050.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Satellite,65000.0,3000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Thaltej,16000.0,1010.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ambli,80000.0,2675.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1885.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1548.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,27000.0,1500.0,Semi-Furnished,3.0
@@ -3395,25 +2949,18 @@ AGENT,3.0,BHK,Apartment,Thaltej,16000.0,1500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,25000.0,2106.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,26000.0,1960.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,27000.0,1220.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ambli,100000.0,5200.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,25000.0,2106.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,17000.0,1550.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,110000.0,5100.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1273.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,25000.0,1215.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Vasna,38000.0,2000.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Vastrapur,50000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1330.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,75000.0,3400.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,30000.0,1416.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Shela,40000.0,2313.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,95000.0,3480.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Apartment,Thaltej,45000.0,2585.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vastrapur,29000.0,1250.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,61000.0,3500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1434.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,35000.0,2150.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Sanathal,50000.0,3500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,26000.0,1863.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vejalpur,26000.0,1260.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,22000.0,3375.0,Semi-Furnished,3.0
@@ -3424,14 +2971,12 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,29000.0,1950.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,29000.0,1985.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1410.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1425.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Jodhpur,65000.0,3600.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Bopal,16000.0,1434.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,25000.0,1709.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,1900.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1440.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,31000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,26000.0,2350.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,145000.0,4500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,26000.0,1260.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambli,28000.0,1975.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,25000.0,2165.0,Furnished,3.0
@@ -3472,12 +3017,10 @@ AGENT,2.0,BHK,Apartment,Jivraj Park,22500.0,1080.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,20000.0,927.0,Furnished,2.0
 AGENT,2.0,BHK,Independent House,Thaltej,19000.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,20000.0,1080.0,Furnished,2.0
-AGENT,4.0,BHK,Independent House,Vastrapur,48000.0,2700.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Thaltej,38000.0,1980.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Thaltej,14500.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,25000.0,915.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1250.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Shela,50000.0,4300.0,Semi-Furnished,3.0
 AGENT,1.0,RK,Studio Apartment,Odhav,8000.0,450.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1125.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,30000.0,2080.0,Furnished,3.0
@@ -3492,7 +3035,6 @@ AGENT,3.0,BHK,Independent House,Thaltej,22000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,1800.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,1800.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Villa,Jodhpur,65000.0,2835.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent House,Thaltej,26000.0,1485.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1629.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent House,Thaltej,22000.0,1350.0,Furnished,3.0
@@ -3526,7 +3068,6 @@ AGENT,2.0,BHK,Apartment,Shilaj,12000.0,1050.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shilaj,11000.0,1050.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,17500.0,1180.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,40000.0,1620.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Satellite,90000.0,4500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,2350.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur,27000.0,1200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,25000.0,1900.0,Unfurnished,3.0
@@ -3543,11 +3084,9 @@ AGENT,3.0,BHK,Apartment,Satellite,26000.0,1845.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1490.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,27000.0,1999.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,14500.0,1250.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,65000.0,2520.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bopal,42000.0,2770.0,Unfurnished,4.0
 AGENT,4.0,BHK,Apartment,Shela,25000.0,2300.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,24000.0,1876.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bodakdev,50000.0,1755.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,15000.0,1480.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Shilaj,16000.0,1460.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,15000.0,925.0,Unfurnished,2.0
@@ -3573,7 +3112,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,17000.0,1050.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,17000.0,1150.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,17000.0,972.0,Unfurnished,2.0
 AGENT,4.0,BHK,Independent House,Bopal,28000.0,2475.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Jodhpur Village,55000.0,3078.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Anand Nagar,20000.0,1600.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,16000.0,1305.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,15500.0,900.0,Unfurnished,2.0
@@ -3615,7 +3153,6 @@ AGENT,1.0,RK,Studio Apartment,Vejalpur,8500.0,600.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Makarba,26000.0,1500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,27000.0,1575.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent Floor,Prahlad Nagar,16000.0,1500.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Bopal,55000.0,3492.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,22000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1700.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Anand Nagar,19500.0,1150.0,Furnished,2.0
@@ -3692,7 +3229,6 @@ AGENT,3.0,BHK,Apartment,Gota,19000.0,1700.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vejalpur,16000.0,1080.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,35001.0,1440.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Naranpuraa,17000.0,1000.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,65001.0,2610.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,35000.0,2500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,35002.0,2160.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Thaltej,30000.0,1800.0,Unfurnished,3.0
@@ -3844,7 +3380,6 @@ AGENT,4.0,BHK,Independent House,Bodakdev,40000.0,3285.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,21000.0,420.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vejalpur,18000.0,400.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,14000.0,1250.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Independent House,Prahlad Nagar,65000.0,2250.0,Furnished,3.0
 AGENT,2.0,BHK,Independent House,Jivraj Park,15000.0,400.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Jodhpur,17500.0,800.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,14500.0,1250.0,Unfurnished,2.0
@@ -3894,7 +3429,6 @@ AGENT,1.0,BHK,Apartment,Shela,12000.0,714.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,13000.0,925.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,12000.0,915.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Shela,14000.0,925.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,60000.0,3640.0,Furnished,5.0
 AGENT,1.0,BHK,Apartment,Makarba,10000.0,650.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Shilaj,15000.0,1500.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,16000.0,1500.0,Unfurnished,3.0
@@ -4039,7 +3573,6 @@ AGENT,3.0,BHK,Apartment,Gota,16000.0,1710.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,14000.0,1260.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gota,13000.0,1179.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gota,16500.0,1233.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,60000.0,3250.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,22000.0,1300.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,15000.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,18000.0,1850.0,Unfurnished,3.0
@@ -4054,7 +3587,6 @@ AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,25000.0,1600.0,Furni
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,30000.0,1850.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,22000.0,1425.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,20000.0,1270.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,70000.0,3650.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,45000.0,2510.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,13500.0,1287.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Ambavadi,20000.0,1200.0,Furnished,2.0
@@ -4113,7 +3645,6 @@ AGENT,3.0,BHK,Apartment,Makarba,21000.0,1575.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vastrapur,13000.0,1500.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Vejalpur,9500.0,950.0,Unfurnished,1.0
 AGENT,1.0,RK,Studio Apartment,Jodhpur,12000.0,1000.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Satellite,58000.0,2500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bodakdev,18000.0,2000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Naranpuraa,22000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gurukul,15000.0,1200.0,Semi-Furnished,2.0
@@ -4244,7 +3775,6 @@ AGENT,3.0,BHK,Apartment,Gota,13000.0,1809.0,Unfurnished,3.0
 AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,40000.0,3780.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,37000.0,3650.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Chandkheda,25500.0,2215.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,80000.0,6750.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,23500.0,2165.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gota,15000.0,1890.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,12000.0,1341.0,Unfurnished,2.0
@@ -4255,7 +3785,6 @@ AGENT,2.0,BHK,Apartment,Gota,11800.0,1359.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,11500.0,1179.0,Unfurnished,2.0
 AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,29500.0,3650.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,11500.0,850.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,65000.0,6750.0,Unfurnished,4.0
 AGENT,4.0,BHK,Apartment,Near Nirma University On SG Highway,23500.0,2550.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,15000.0,1730.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Gota,17000.0,1730.0,Unfurnished,3.0
@@ -4401,7 +3930,6 @@ AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,27000.0,1656.0,Furni
 AGENT,2.0,BHK,Apartment,Ambavadi,22000.0,1300.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Independent House,Jodhpur,45000.0,6000.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Independent House,Jodhpur,14000.0,2000.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,55000.0,5000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Jodhpur,18000.0,3000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,2500.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Jodhpur,9000.0,1000.0,Semi-Furnished,2.0
@@ -4409,7 +3937,6 @@ AGENT,2.0,BHK,Apartment,Nikol,12000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gota,11000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,37000.0,1381.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Paldi,25000.0,1310.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Navrangpura,50000.0,1400.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,25000.0,1080.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Memnagar,25000.0,1053.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tragad,12000.0,1215.0,Unfurnished,2.0
@@ -4474,7 +4001,6 @@ AGENT,3.0,BHK,Apartment,Makarba,18000.0,1465.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Independent Floor,Vastrapur,37000.0,5000.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Chandkheda,13000.0,1218.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Vastrapur,22500.0,4000.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Satellite,55000.0,7000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,35000.0,1970.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,20000.0,1550.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gurukul,19500.0,990.0,Semi-Furnished,2.0
@@ -4497,7 +4023,6 @@ AGENT,2.0,BHK,Apartment,Khodiyar,14000.0,1133.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent House,Jodhpur,12500.0,900.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Bopal,21000.0,1600.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Independent House,Ghatlodiya,15000.0,900.0,Semi-Furnished,1.0
-AGENT,5.0,BHK,Independent House,Shahibuag,50000.0,6000.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Bopal,20000.0,1273.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur,40000.0,3330.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Khodiyar,15000.0,1440.0,Furnished,3.0
@@ -4519,7 +4044,6 @@ AGENT,3.0,BHK,Apartment,Khodiyar,15000.0,1890.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Vastrapur,10000.0,1000.0,Unfurnished,2.0
 AGENT,4.0,BHK,Villa,Gota,35000.0,1800.0,Furnished,4.0
 AGENT,4.0,BHK,Villa,Gota,35000.0,2000.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Villa,Bodakdev,50000.0,6000.0,Furnished,6.0
 AGENT,3.0,BHK,Independent House,Bodakdev,23000.0,5000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Independent House,Vastrapur,18000.0,4000.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Independent Floor,Vastrapur,33000.0,5000.0,Furnished,5.0
@@ -4540,7 +4064,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,23000.0,2500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,23000.0,2500.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Jodhpur,9000.0,1000.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Vastrapur,9000.0,1200.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Independent House,Vastrapur,50000.0,6000.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Vastrapur,11000.0,2000.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Bodakdev,13000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,21000.0,3000.0,Furnished,3.0
@@ -4647,7 +4170,6 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,29000.0,2010.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,12000.0,1260.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1170.0,Unfurnished,2.0
 AGENT,4.0,BHK,Villa,Shela,40000.0,2313.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,55000.0,2750.0,Unfurnished,4.0
 AGENT,4.0,BHK,Villa,Shela,35000.0,2313.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Makarba,25000.0,1190.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,26600.0,2115.0,Semi-Furnished,3.0
@@ -4660,8 +4182,6 @@ AGENT,2.0,BHK,Apartment,Vastrapur,19000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ayojan Nagar,20000.0,1250.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Vatva,4000.0,800.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,40000.0,2050.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,55000.0,2750.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,52000.0,2750.0,Unfurnished,4.0
 AGENT,3.0,BHK,Independent House,Chandkheda,16500.0,1400.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,9000.0,1125.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,18500.0,1200.0,Furnished,2.0
@@ -4669,7 +4189,6 @@ AGENT,2.0,BHK,Apartment,Vastrapur,17000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,42000.0,2021.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,42000.0,2021.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,25000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,135000.0,4000.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Near Nirma University On SG Highway,9200.0,600.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,18500.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,15500.0,945.0,Furnished,2.0
@@ -4731,7 +4250,6 @@ AGENT,3.0,BHK,Apartment,Tragad,18000.0,1512.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gota,23000.0,1145.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,25000.0,1485.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Vastrapur,20000.0,2000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,2300.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,25000.0,1350.0,Furnished,3.0
 AGENT,2.0,BHK,Independent House,Jodhpur,23000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,14000.0,1035.0,Semi-Furnished,2.0
@@ -4763,7 +4281,6 @@ AGENT,3.0,BHK,Apartment,Vastrapur,21000.0,3000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vastrapur,18000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Memnagar,15000.0,936.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Khodiar Nagar,25000.0,945.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Jodhpur,65000.0,3150.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1010.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Chanakyapuri,24000.0,1245.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1800.0,Furnished,2.0
@@ -4786,7 +4303,6 @@ AGENT,2.0,BHK,Apartment,Jodhpur,18000.0,800.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Hathijan,5000.0,1100.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Bopal,26000.0,1330.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,1300.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Bhat,60000.0,3600.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Independent House,Motera,22000.0,1800.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Chandkheda,30000.0,2250.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Independent House,Chandkheda,20000.0,1485.0,Semi-Furnished,2.0
@@ -4820,7 +4336,6 @@ AGENT,1.0,BHK,Apartment,Vastrapur,12000.0,1500.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Vastrapur,33000.0,4000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Memnagar,17000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,24000.0,990.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,75000.0,2700.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Jodhpur,13500.0,1050.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Ambavadi,13000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur,13000.0,1250.0,Semi-Furnished,2.0
@@ -4936,7 +4451,6 @@ AGENT,2.0,BHK,Apartment,Vastrapur,22000.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,22000.0,1440.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gota,19000.0,1395.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Bodakdev,40000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Shilaj,60000.0,3200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,35000.0,1980.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1300.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,25000.0,1400.0,Furnished,2.0
@@ -4991,7 +4505,6 @@ AGENT,2.0,BHK,Apartment,Paldi,16500.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,16000.0,1150.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Satellite,30000.0,1985.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,15000.0,1300.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Sanathal,53000.0,3375.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Villa,Bopal,44000.0,2115.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,1436.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kudasan,20000.0,1305.0,Furnished,2.0
@@ -5021,16 +4534,13 @@ AGENT,2.0,BHK,Apartment,Motera,12000.0,1505.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New C G Road,10000.0,950.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,29000.0,1425.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,40000.0,2100.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,60000.0,2850.0,Unfurnished,4.0
 AGENT,4.0,BHK,Independent House,Bopal,25000.0,4059.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Independent House,Sanathal,30000.0,2205.0,Furnished,3.0
 AGENT,4.0,BHK,Independent House,Sanathal,45000.0,3960.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Satellite,28000.0,2070.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,24000.0,2605.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,16000.0,1425.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Shela,50000.0,2600.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Motera,16000.0,1205.0,Furnished,2.0
-AGENT,4.0,BHK,Villa,Thaltej Shilaj Road,85000.0,1899.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vasna,35000.0,2150.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Ambavadi,40000.0,2350.0,Unfurnished,3.0
 AGENT,2.0,BHK,Independent Floor,New cg road,8500.0,1508.0,Semi-Furnished,2.0
@@ -5342,14 +4852,12 @@ AGENT,1.0,BHK,Independent Floor,Jivraj Park,7000.0,780.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Makarba,13000.0,980.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,13000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Nigam Nagar,8700.0,1505.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ambavadi,89999.0,3200.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shela,15999.0,1170.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New C G Road,10000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,18000.0,1385.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,24000.0,2215.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,26000.0,2300.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Bopal,15000.0,1070.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Thaltej,80000.0,2399.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shela,14500.0,1140.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,2025.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,South Bopal,25000.0,1560.0,Furnished,3.0
@@ -5363,7 +4871,6 @@ AGENT,5.0,BHK,Independent House,Ghodsar,30000.0,1890.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Nirnay Nagar,12000.0,999.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,16000.0,1530.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bodakdev,45000.0,2700.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bopal,75000.0,2965.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Makarba,23000.0,1395.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Sughad,12000.0,1423.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,17498.0,1080.0,Semi-Furnished,2.0
@@ -5386,27 +4893,19 @@ AGENT,2.0,BHK,Apartment,New C G Road,11000.0,1150.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New C G Road,13000.0,1170.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Paldi,22000.0,1120.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1485.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Memnagar,48000.0,2350.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,45000.0,2150.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,50000.0,2750.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vastrapur,40000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,18000.0,1170.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Villa,Shilaj,50000.0,2250.0,Unfurnished,3.0
 AGENT,4.0,BHK,Apartment,Thaltej,45000.0,2585.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,28000.0,1330.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,1475.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,80000.0,2900.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,20000.0,1500.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,25000.0,1700.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,50000.0,2785.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,30000.0,1800.0,Semi-Furnished,1.0
 AGENT,4.0,BHK,Apartment,Shela,30000.0,2300.0,Unfurnished,3.0
-AGENT,5.0,BHK,Independent House,Bopal,60000.0,3600.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,2285.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shilaj,22000.0,1782.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,1410.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,100000.0,3500.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bodakdev,110000.0,4171.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shela,18000.0,1315.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,15500.0,1170.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,14000.0,950.0,Semi-Furnished,2.0
@@ -5428,30 +4927,22 @@ AGENT,4.0,BHK,Apartment,Shela,40500.0,2400.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,43000.0,2400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1859.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,18000.0,1435.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Prahlad Nagar,50000.0,2800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Sola,35000.0,1809.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,20000.0,1436.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,85000.0,2800.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Bodakdev,50000.0,3600.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Bodakdev,75000.0,4050.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,38000.0,2250.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1490.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,1474.0,Semi-Furnished,3.0
 AGENT,5.0,BHK,Villa,Shantipura,40000.0,4050.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Jodhpur Village,38000.0,2500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,35000.0,1700.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Jodhpur,85000.0,3500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1273.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Independent House,Bodakdev,130000.0,5436.0,Semi-Furnished,8.0
 AGENT,3.0,BHK,Independent House,Thaltej,30000.0,2500.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Narayan Nagar,14000.0,650.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Thaltej,55000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Shilaj,45000.0,2250.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,30000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,37000.0,1890.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,22000.0,1435.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,25000.0,2025.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,80000.0,3150.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,45000.0,1876.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shela,15000.0,925.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shela,27000.0,1315.0,Furnished,3.0
@@ -5468,10 +4959,8 @@ AGENT,3.0,BHK,Apartment,Bopal,18000.0,1545.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Satellite,20000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,18500.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,35000.0,2088.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,55000.0,2965.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vejalpur Gam,18000.0,1215.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Jodhpur,15000.0,700.0,Furnished,1.0
-AGENT,4.0,BHK,Apartment,Shela,50000.0,2300.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Makarba,38000.0,1705.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New C G Road,11500.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New C G Road,16000.0,1710.0,Semi-Furnished,3.0
@@ -5494,14 +4983,11 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,38999.0,2106.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,25000.0,1700.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,42000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambli,34999.0,2260.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambavadi,89999.0,2800.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambavadi,90000.0,2800.0,Furnished,4.0
 AGENT,4.0,BHK,Villa,Vastrapur,30000.0,2070.0,Furnished,3.0
 AGENT,5.0,BHK,Villa,Jodhpur,30000.0,2340.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,39999.0,2106.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,27000.0,1062.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,33999.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,49999.0,2070.0,Furnished,3.0
 AGENT,3.0,BHK,Villa,Jodhpur,25000.0,2100.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,20500.0,1125.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shilaj,16999.0,1800.0,Semi-Furnished,3.0
@@ -5544,7 +5030,6 @@ AGENT,2.0,BHK,Independent House,Bopal,12500.0,1800.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Kudasan,21000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,16000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bopal,12000.0,1053.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Apartment,Vastrapur,56000.0,1845.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Paldi,17000.0,1045.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,25000.0,1600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,14000.0,1170.0,Semi-Furnished,2.0
@@ -5635,7 +5120,6 @@ AGENT,3.0,BHK,Apartment,Shilaj,20000.0,2000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,25000.0,1900.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shilaj,15000.0,1000.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,30000.0,2000.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Prahlad Nagar,60000.0,3000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,45000.0,2000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Gota,15000.0,1000.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Gota,12000.0,1000.0,Unfurnished,2.0
@@ -5666,10 +5150,8 @@ AGENT,2.0,BHK,Apartment,Vejalpur,25000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vejalpur,18000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,16500.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,25000.0,1000.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Thaltej,48000.0,2000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Gurukul,27000.0,2000.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Shela,14000.0,1000.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Bodakdev,60000.0,2000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,22000.0,1000.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bodakdev,21000.0,2000.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Jodhpur,22000.0,1800.0,Furnished,2.0
@@ -5698,7 +5180,6 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,29000.0,2050.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Villa,Sola,35000.0,3000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Makarba,21000.0,1557.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shahibaug,13000.0,1300.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Villa,Sanathal,50000.0,4000.0,Furnished,5.0
 AGENT,4.0,BHK,Penthouse,Motera,35000.0,3215.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Chandkheda,25000.0,2013.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Naranpuraa,12000.0,1400.0,Furnished,1.0
@@ -5739,12 +5220,10 @@ AGENT,3.0,BHK,Apartment,Makarba,32000.0,1557.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,17000.0,858.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,20000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev Road,30000.0,1800.0,Furnished,3.0
-AGENT,5.0,BHK,Villa,Narmada Canal,200000.0,9000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Chandkheda,25000.0,2015.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shilaj,15000.0,950.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Villa,Motera,30000.0,1800.0,Furnished,4.0
 AGENT,3.0,BHK,Villa,Motera,35000.0,1800.0,Furnished,3.0
-AGENT,5.0,BHK,Villa,Satellite Road,75000.0,5000.0,Furnished,6.0
 AGENT,4.0,BHK,Villa,Shela,35000.0,3500.0,Semi-Furnished,5.0
 AGENT,1.0,BHK,Apartment,Subhash Bridge,7500.0,1200.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,New C G Road,12000.0,1050.0,Semi-Furnished,2.0
@@ -5763,7 +5242,6 @@ AGENT,1.0,BHK,Apartment,Naranpuraa,10000.0,1200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Ranip,11000.0,1625.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,29000.0,1530.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Science City,19000.0,1730.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Villa,Thaltej,50000.0,3690.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Gota,14000.0,1179.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,14000.0,2070.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Gota,15000.0,1200.0,Semi-Furnished,2.0
@@ -5788,7 +5266,6 @@ AGENT,2.0,BHK,Apartment,Makarba,18000.0,1070.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,30000.0,2015.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Motera Stadium Road,18000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,12000.0,1197.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,S G Highway,120000.0,4950.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,2400.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,15000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,25000.0,1451.0,Semi-Furnished,3.0
@@ -5899,17 +5376,13 @@ AGENT,2.0,BHK,Apartment,Motera,12000.0,1305.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1410.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,19000.0,1400.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,17000.0,1413.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,60000.0,2750.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Shela,40000.0,1876.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Shela,25000.0,2460.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,70000.0,2610.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,16000.0,2025.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,15000.0,1890.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New C G Road,11000.0,2050.0,Unfurnished,3.0
-AGENT,4.0,BHK,Villa,Prahlad Nagar,90000.0,6000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,GotaOgnaj Road,13000.0,1670.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sola,16000.0,1430.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Thaltej,60000.0,2799.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shahibaug,20000.0,900.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Memnagar,25000.0,1589.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Gota,9500.0,1150.0,Semi-Furnished,2.0
@@ -5942,8 +5415,6 @@ AGENT,3.0,BHK,Apartment,Motera,23000.0,2160.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Chandkheda,25000.0,3453.0,Furnished,4.0
 AGENT,3.0,BHK,Villa,Motera,22000.0,1800.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Bopal,35000.0,3000.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,125000.0,4200.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,145000.0,4800.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bopal,27000.0,1113.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,30000.0,1200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,2015.0,Semi-Furnished,3.0
@@ -5951,7 +5422,6 @@ AGENT,2.0,BHK,Apartment,Motera,15000.0,1197.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambawadi Circle,35000.0,2800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shahibaug Flyover,17000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Ambawadi Circle,25000.0,1600.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Thaltej,60000.0,3050.0,Furnished,3.0
 AGENT,2.0,BHK,Villa,Azad Society Road,24000.0,1600.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambawadi Circle,23500.0,1860.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vijay Cross Roads,24000.0,1500.0,Furnished,3.0
@@ -5997,7 +5467,6 @@ AGENT,2.0,BHK,Villa,Motera,12000.0,1155.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bhagwat Vidyapith Road,20000.0,1780.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Science City,16000.0,1340.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,gota SG higway,13000.0,1260.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,100000.0,4000.0,Furnished,4.0
 OWNER,3.0,BHK,Independent House,Bhat,5000.0,1125.0,Furnished,4.0
 AGENT,4.0,BHK,Independent House,Nana Chiloda,22000.0,2250.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,Paldi,12500.0,900.0,Unfurnished,2.0
@@ -6029,9 +5498,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1172.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Villa,Motera,30000.0,2000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Motera,11000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thaltej,25000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bopal,55000.0,4500.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Manekbaugh,150000.0,4200.0,Furnished,5.0
-AGENT,5.0,BHK,Villa,Sindhubhavan Road,240000.0,9500.0,Furnished,6.0
 AGENT,3.0,BHK,Apartment,Neww CG Road,24000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Motera,16000.0,2700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,25000.0,1710.0,Furnished,3.0
@@ -6103,10 +5569,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,16000.0,1122.0,Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Chandkheda,16000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Neww CG Road,16000.0,1800.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,New C G Road,20000.0,2000.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Thaltej,125000.0,5400.0,Furnished,4.0
-AGENT,4.0,BHK,Villa,Ambli,150000.0,7000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar Road,100000.0,4500.0,Furnished,4.0
-AGENT,5.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,120000.0,5400.0,Furnished,6.0
 AGENT,3.0,BHK,Apartment,Motera,18000.0,1746.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,15000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,20000.0,1500.0,Semi-Furnished,3.0
@@ -6114,7 +5576,6 @@ AGENT,2.0,BHK,Apartment,Motera,13000.0,1197.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,18000.0,2052.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1008.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Shahibaug,36000.0,1750.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Bopal,60000.0,5400.0,Unfurnished,5.0
 AGENT,4.0,BHK,Apartment,Chandkheda,20000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,12500.0,1197.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,14000.0,1669.0,Semi-Furnished,3.0
@@ -6178,7 +5639,6 @@ AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,2154.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,13000.0,1350.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bopal,20000.0,1433.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Tragad,12000.0,1179.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,125000.0,2885.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bopal,35000.0,2775.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Villa,New C G Road,13000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,12000.0,1035.0,Semi-Furnished,2.0
@@ -6247,7 +5707,6 @@ OWNER,2.0,BHK,Apartment,Nava Vadaj,21000.0,1350.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,11500.0,1062.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,15500.0,1971.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Vatva,6200.0,440.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Sanathal,60000.0,3420.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Vejalpur,17000.0,1220.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,1665.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Chandkheda,20000.0,2745.0,Semi-Furnished,4.0
@@ -6261,18 +5720,7 @@ AGENT,2.0,BHK,Apartment,Shahibaug,18000.0,1150.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shahibagh,20000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,23000.0,1600.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Prahlad Nagar,18000.0,1250.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,new c g road chandkheda,130000.0,1184.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Sabarmati,130000.0,1141.0,Semi-Furnished,2.0
-AGENT,1.0,BHK,Apartment,Chandkheda,120000.0,969.0,Semi-Furnished,1.0
-AGENT,2.0,BHK,Apartment,Chandkheda,110000.0,1119.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Sabarmati,190000.0,1464.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Motera,90000.0,990.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Bodakdev,35000.0,1800.0,Semi-Furnished,4.0
-AGENT,2.0,BHK,Apartment,Chandkheda,165000.0,1035.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Chandkheda,250000.0,2153.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Chandkheda,130000.0,1238.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,New Ranip,70000.0,581.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,new c g road chandkheda,70000.0,581.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Shela,25000.0,2197.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Motera,30000.0,2354.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,26000.0,1890.0,Furnished,3.0
@@ -6282,7 +5730,6 @@ AGENT,2.0,BHK,Apartment,New C G Road,15000.0,1255.0,Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Chandkheda,28000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,15000.0,1669.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Ghatlodiya,10500.0,1100.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Independent Floor,SG Highway Service Road,198000.0,5500.0,Unfurnished,3.0
 OWNER,1.0,BHK,Apartment,Satellite,12000.0,155.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Gurukul,21000.0,1300.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Jodhpur,16000.0,1200.0,Semi-Furnished,2.0
@@ -6310,7 +5757,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,11000.0,1035.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,16000.0,1197.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,13500.0,1197.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,11500.0,1220.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Sola,50000.0,4878.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Motera,13000.0,1305.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,2700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,13000.0,1665.0,Semi-Furnished,3.0
@@ -6324,7 +5770,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,14000.0,932.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,16000.0,1200.0,Semi-Furnished,2.0
 AGENT,6.0,BHK,Villa,Motera,28000.0,3600.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,Bhat,15000.0,1809.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Independent House,Thaltej,100000.0,6000.0,Furnished,3.0
 OWNER,1.0,BHK,Apartment,Vasna,6930.0,630.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Apartment,Vasna,7500.0,630.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Nava Naroda,13000.0,1100.0,Semi-Furnished,2.0
@@ -6356,7 +5801,6 @@ AGENT,1.0,BHK,Independent Floor,Chandkheda,6500.0,450.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent Floor,Chandkheda,6500.0,430.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Gota,13000.0,400.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent House,Motera,30000.0,600.0,Unfurnished,3.0
-AGENT,4.0,BHK,Independent House,Chandkheda,50000.0,1000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Ranip,10000.0,1188.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Independent House,Chandkheda,30000.0,1000.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Gota,14000.0,1233.0,Semi-Furnished,3.0
@@ -6368,7 +5812,6 @@ AGENT,3.0,BHK,Apartment,Vastrapur,22000.0,600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vasna,15500.0,400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Naranpuraa,14500.0,400.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bodakdev,90000.0,600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Thaltej,19500.0,400.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sola,14000.0,400.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ambavadi,30000.0,600.0,Semi-Furnished,3.0
@@ -6377,11 +5820,9 @@ AGENT,2.0,BHK,Apartment,Bhattapaldi,18000.0,400.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Thaltej,37000.0,2200.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bodakdev,17000.0,400.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gurukul,38000.0,600.0,Semi-Furnished,3.0
-AGENT,6.0,BHK,Independent House,Ghodsar,70000.0,2000.0,Semi-Furnished,6.0
 AGENT,4.0,BHK,Independent House,Chandkheda,30000.0,1000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Gota,14000.0,1233.0,Unfurnished,2.0
 AGENT,4.0,BHK,Independent House,Nava Vadaj,40000.0,1000.0,Unfurnished,4.0
-AGENT,6.0,BHK,Independent House,Maninagar,90000.0,4000.0,Unfurnished,6.0
 AGENT,3.0,BHK,Apartment,Bhattapaldi,22000.0,600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,32000.0,600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Satellite Extension,25000.0,400.0,Semi-Furnished,2.0
@@ -6418,33 +5859,19 @@ OWNER,3.0,BHK,Apartment,Vastrapur,42000.0,1665.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Motera,13500.0,650.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Gota,12000.0,1540.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Vasna,11000.0,1000.0,Semi-Furnished,2.0
-OWNER,1.0,BHK,Apartment,Ghatlodiya,120000.0,810.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Chandkheda,26000.0,1886.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,J 18 TP 44 chandkheda,15000.0,1700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Vastrapur,30000.0,1665.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,30000.0,1350.0,Furnished,2.0
-AGENT,4.0,BHK,Independent House,Prahlad Nagar,70000.0,2200.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bodakdev,17000.0,990.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Makarba,18000.0,1260.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Chandkheda,140000.0,1503.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Sabarmati,130000.0,1076.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Chandkheda,130000.0,1991.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,new c g road chandkheda,150000.0,1152.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Sabarmati,150000.0,1400.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Chandkheda,45000.0,370.0,Semi-Furnished,1.0
-AGENT,2.0,BHK,Apartment,Chandkheda,100000.0,1345.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Sabarmati,150000.0,1249.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Chandkheda,165000.0,1238.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Chandkheda,250000.0,2153.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Chandkheda,130000.0,1238.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Koteshwar,150000.0,1249.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Villa,New C G Road,18000.0,1800.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Motera,21000.0,2134.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New C G Road,15000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,1825.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,25000.0,2135.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,20000.0,2154.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Independent House,Thaltej,130000.0,5000.0,Semi-Furnished,4.0
 OWNER,1.0,BHK,Apartment,Jivraj Park,10000.0,495.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Apartment,Chanakyapuri,9000.0,720.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,Ghatlodiya,7000.0,795.0,Semi-Furnished,1.0
@@ -6500,27 +5927,15 @@ AGENT,2.0,BHK,Apartment,Naranpuraa,16000.0,1400.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sughad,8000.0,1188.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,10600.0,1420.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,28000.0,1200.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Satellite,60000.0,2610.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,20000.0,1155.0,Furnished,2.0
 AGENT,3.0,BHK,Villa,Motera,16000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chandkheda,20000.0,2564.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Maninagar,12000.0,1020.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Shela,25000.0,2400.0,Unfurnished,4.0
 AGENT,4.0,BHK,Apartment,Thaltej,45000.0,2800.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Ambli,50000.0,3000.0,Unfurnished,4.0
 AGENT,4.0,BHK,Apartment,South Bopal,30000.0,2800.0,Unfurnished,4.0
 AGENT,4.0,BHK,Apartment,Bopal,35000.0,3200.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,South Bopal,18000.0,1500.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,110000.0,4385.0,Furnished,5.0
-AGENT,5.0,BHK,Villa,Sindhubhavan Road,200000.0,8500.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambavadi,160000.0,4400.0,Furnished,4.0
-AGENT,5.0,BHK,Apartment,Vaishnodevi,100000.0,5400.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Bodakdev,130000.0,3700.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,100000.0,4500.0,Furnished,4.0
-AGENT,5.0,BHK,Villa,Thaltej,160000.0,6000.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Satellite,120000.0,4500.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bopal,50000.0,2400.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bopal,55000.0,3000.0,Furnished,4.0
 OWNER,3.0,BHK,Villa,Memnagar,40000.0,3000.0,Furnished,5.0
 OWNER,2.0,BHK,Apartment,Maninagar,12000.0,800.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Maninagar,16400.0,1000.0,Furnished,3.0
@@ -6540,9 +5955,7 @@ AGENT,4.0,BHK,Villa,Chandkheda,20000.0,2050.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Motera,17000.0,2160.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Motera,26000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1054.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Penthouse,Shela,125000.0,5500.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,17000.0,929.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Thaltej,65000.0,2666.0,Furnished,4.0
 OWNER,1.0,BHK,Apartment,Narolgam,5000.0,1200.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Thaltej,15000.0,1000.0,Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Shahibuag,15000.0,990.0,Semi-Furnished,1.0
@@ -6568,7 +5981,6 @@ AGENT,3.0,BHK,Apartment,Chandkheda,25000.0,2514.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,20000.0,2541.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,New C G Road,17000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ghuma,10000.0,1000.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Sindhubhavan Road,75000.0,5000.0,Furnished,4.0
 AGENT,1.0,BHK,Independent Floor,Maninagar,13000.0,750.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Thaltej,27000.0,1805.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Near Nirma University On SG Highway,14000.0,1080.0,Semi-Furnished,2.0
@@ -6586,20 +5998,12 @@ OWNER,2.0,BHK,Apartment,Vasna,10500.0,680.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Naranpuraa,22000.0,800.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Chandkheda,18000.0,2000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Chandkheda,15000.0,1530.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Villa,Thaltej Shilaj Road,100000.0,4000.0,Furnished,5.0
 AGENT,4.0,BHK,Villa,South Bopal,25000.0,3500.0,Unfurnished,5.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,2150.0,Furnished,3.0
-AGENT,5.0,BHK,Villa,Bodakdev,50000.0,3300.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,2700.0,Furnished,4.0
-AGENT,5.0,BHK,Apartment,Bopal,120000.0,3300.0,Furnished,5.0
-AGENT,5.0,BHK,Apartment,Prahlad Nagar,100000.0,4000.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,Bopal,55000.0,3500.0,Furnished,3.0
 AGENT,3.0,BHK,Villa,Shela,37000.0,2300.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Motera,13000.0,1035.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Villa,Thaltej Shilaj Road,145000.0,8000.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Vastrapur,145000.0,4500.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Wadaj,27000.0,1827.0,Unfurnished,3.0
-AGENT,5.0,BHK,Villa,Sardar Patel Ring Road,120000.0,9500.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Chandkheda,9500.0,1035.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,19000.0,1863.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,NIgam Society,10000.0,1000.0,Semi-Furnished,2.0
@@ -6639,7 +6043,6 @@ AGENT,3.0,BHK,Apartment,Bopal,26000.0,1905.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,South Bopal,17000.0,1400.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,35000.0,2650.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Makarba,35000.0,2650.0,Semi-Furnished,2.0
-AGENT,6.0,BHK,Independent House,Thaltej Shilaj Road,150000.0,10000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,Memnagar,35000.0,2115.0,Furnished,3.0
 OWNER,2.0,BHK,Independent House,Kudasan,15000.0,1260.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Jodhpur,22000.0,800.0,Furnished,1.0
@@ -6684,7 +6087,6 @@ AGENT,2.0,BHK,Apartment,Shilaj,18000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bodakdev,21000.0,1350.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,25000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,new c g road chandkheda,12000.0,1200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Independent House,Sanathal,60000.0,5670.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Chandkheda,10000.0,1035.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Thaltej,16000.0,1000.0,Furnished,2.0
 OWNER,3.0,BHK,Villa,Sanand,15000.0,1071.0,Unfurnished,3.0
@@ -6746,7 +6148,6 @@ AGENT,2.0,BHK,Apartment,New C G Road,16000.0,1985.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,15000.0,1652.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,21000.0,2250.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,Motera,35000.0,4565.0,Furnished,4.0
-AGENT,5.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,55000.0,4565.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Motera,11000.0,1200.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Motera,13000.0,1395.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,18000.0,2070.0,Furnished,3.0
@@ -6770,16 +6171,10 @@ AGENT,3.0,BHK,Apartment,Sughad,12500.0,1485.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Sughad,10000.0,1236.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sughad,16000.0,1236.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ghuma,13000.0,1100.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Satellite,80000.0,7500.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Thaltej,49000.0,2100.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,SAL Hospital,40000.0,2000.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Independent House,Science City,36000.0,2700.0,Furnished,3.0
-AGENT,5.0,BHK,Independent House,Naranpuraa,70000.0,3500.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Prerna Tirth Road,55000.0,3015.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Shahibaug,37500.0,1500.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,ISCON Cross Road,45000.0,2200.0,Semi-Furnished,3.0
-AGENT,6.0,BHK,Independent House,Prahlad Nagar,150000.0,4900.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Sindhubhavan Road,75000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shahibaug,40000.0,1600.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Chandlodiya,13500.0,1395.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Vejalpur,18000.0,1080.0,Furnished,2.0
@@ -6807,7 +6202,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,11000.0,1098.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Gota,22000.0,2269.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Near Nirma University On SG Highway,16000.0,1141.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Vaishnodevi,16500.0,1690.0,Semi-Furnished,3.0
-AGENT,8.0,BHK,Villa,Vaishnodevi,55000.0,5908.0,Furnished,8.0
 AGENT,3.0,BHK,Apartment,Bhat,13500.0,1809.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Bhat,11000.0,869.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Sughad,18000.0,1485.0,Furnished,3.0
@@ -6825,7 +6219,6 @@ AGENT,3.0,BHK,Apartment,Chandkheda,17000.0,1890.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Motera,17000.0,1800.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Chandkheda,23000.0,1800.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Chandkheda,14000.0,1035.0,Furnished,2.0
-AGENT,2.0,BHK,Independent Floor,Chandkheda,90000.0,1188.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kudasan,15000.0,1260.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Bopal,21000.0,1600.0,Unfurnished,3.0
 OWNER,2.0,BHK,Apartment,Vasna,12000.0,945.0,Furnished,1.0
@@ -6855,13 +6248,7 @@ AGENT,3.0,BHK,Apartment,Motera,16000.0,1248.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Sughad,13500.0,1188.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,12500.0,1356.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Penthouse,Science City,40000.0,3100.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Shilaj,85000.0,4050.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Bodakdev,75000.0,3600.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Shyamal Cross Road,75000.0,4500.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Bodakdev,75000.0,2700.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Naranpuraa,30000.0,1800.0,Furnished,2.0
-AGENT,15.0,BHK,Independent House,Shahibaug,210000.0,6500.0,Unfurnished,15.0
-AGENT,4.0,BHK,Independent House,Ambli Bopal Road,65000.0,2700.0,Furnished,2.0
 AGENT,3.0,BHK,Penthouse,Satellite,35000.0,2500.0,Furnished,2.0
 AGENT,4.0,BHK,Independent House,Sola,38000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Navrangpura,28000.0,2070.0,Furnished,2.0
@@ -6919,10 +6306,7 @@ AGENT,3.0,BHK,Apartment,Bopal,27000.0,2025.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shela,16500.0,1023.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,22000.0,1064.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,25000.0,1350.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Prerna Tirth Road,56000.0,2000.0,Furnished,3.0
 AGENT,4.0,BHK,Independent House,Hebatpur,40000.0,2600.0,Unfurnished,3.0
-AGENT,4.0,BHK,Villa,Shilaj,100000.0,7500.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Thaltej,80000.0,3250.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Ashram Road,25000.0,1260.0,Semi-Furnished,2.0
 OWNER,4.0,BHK,Apartment,Shahibaug,40000.0,2800.0,Unfurnished,4.0
 OWNER,2.0,BHK,Apartment,Usman Pura,23000.0,1035.0,Furnished,2.0
@@ -6932,7 +6316,6 @@ OWNER,2.0,BHK,Apartment,Jodhpur,17000.0,990.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Odhav,5000.0,200.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,shastri Nagar,15000.0,1400.0,Furnished,2.0
 AGENT,3.0,BHK,Independent House,Ghuma,25000.0,2500.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Bopal,99000.0,3600.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Motera,17000.0,1746.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,20000.0,2013.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Penthouse,New C G Road,14000.0,1800.0,Semi-Furnished,3.0
@@ -6954,7 +6337,6 @@ AGENT,2.0,BHK,Apartment,Chandkheda,8500.0,1035.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,12000.0,1356.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,8500.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Nava Vadaj,23000.0,1350.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Near Vaishno Devi Circle On SG Highway,140000.0,6700.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Makarba,31500.0,2100.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,14000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Villa,Bopal,12000.0,1350.0,Unfurnished,2.0
@@ -7019,14 +6401,11 @@ AGENT,2.0,BHK,Apartment,Motera,12000.0,1500.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,18000.0,2000.0,Furnished,3.0
 AGENT,4.0,BHK,Villa,Chandkheda,16000.0,2745.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Vasna,16500.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Vastrapur,110000.0,4000.0,Furnished,4.0
 AGENT,1.0,BHK,Apartment,Naranpuraa,8000.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Satellite,19500.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Vejalpur,22000.0,1900.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ambli,49000.0,3500.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Apartment,Ambli,35000.0,4000.0,Furnished,4.0
 AGENT,3.0,BHK,Villa,Sanathal,35000.0,4000.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Villa,Sanathal,60000.0,3767.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,40000.0,2415.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,27000.0,2250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,15500.0,1775.0,Semi-Furnished,3.0
@@ -7035,10 +6414,8 @@ AGENT,3.0,BHK,Apartment,Naranpuraa,13500.0,1600.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,22500.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Satellite,20000.0,1600.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Paldi,24750.0,2250.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Apartment,Paldi,60000.0,3000.0,Semi-Furnished,5.0
 AGENT,4.0,BHK,Apartment,Paldi,39000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Makarba,36000.0,1860.0,Furnished,3.0
-AGENT,3.0,BHK,Independent House,Navrangpura,100000.0,2160.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Villa,Neww CG Road,17000.0,1605.0,Furnished,2.0
 AGENT,3.0,BHK,Villa,Sughad,16000.0,1895.0,Furnished,2.0
 OWNER,3.0,BHK,Independent House,Maninagar,22000.0,1125.0,Semi-Furnished,2.0
@@ -7060,7 +6437,6 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,39900.0,1900.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Prahlad Nagar,22800.0,1900.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Jodhpur Village,17000.0,1200.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Satellite,18000.0,1250.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ambli,55000.0,3095.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bopal,17000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Science City,13500.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shilaj,12000.0,1200.0,Unfurnished,2.0
@@ -7075,10 +6451,8 @@ AGENT,2.0,BHK,Apartment,Bopal,15000.0,1130.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Science City,25000.0,1400.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Prahlad Nagar,40000.0,2700.0,Semi-Furnished,7.0
 AGENT,3.0,BHK,Apartment,Bopal,35001.0,1885.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Bopal,65001.0,3707.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Bopal,25000.0,1180.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Shela,25000.0,1180.0,Furnished,1.0
-AGENT,4.0,BHK,Villa,Sanathal,50000.0,4500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Bopal,35000.0,1800.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,18001.0,1450.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Bopal,30000.0,1650.0,Furnished,3.0
@@ -7118,7 +6492,6 @@ OWNER,2.0,BHK,Apartment,Paldi,19750.0,1850.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Bopal,13999.0,1422.0,Unfurnished,3.0
 OWNER,2.0,BHK,Apartment,Thaltej,18000.0,927.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Naryanpura,30000.0,1575.0,Furnished,3.0
-OWNER,10.0,BHK,Apartment,Ashram Road,250000.0,6732.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Gota,10000.0,1250.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Makarba,25000.0,1305.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Naroda,5000.0,789.0,Unfurnished,1.0
@@ -7153,7 +6526,6 @@ OWNER,1.0,BHK,Apartment,Near Nirma University On SG Highway,8000.0,600.0,Unfurni
 OWNER,2.0,BHK,Apartment,Chandkheda,10000.0,1098.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Ghatlodia,7000.0,550.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Vejalpur,12000.0,921.0,Unfurnished,2.0
-AGENT,4.0,BHK,Villa,Shilaj,55000.0,5400.0,Furnished,4.0
 OWNER,2.0,BHK,Independent House,Ghatlodiya,11000.0,647.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Chandlodia,11000.0,1100.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Jodhpur Village,18000.0,1500.0,Semi-Furnished,2.0
@@ -7201,10 +6573,8 @@ AGENT,2.0,BHK,Apartment,Chandkheda,10000.0,1165.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New C G Road,17000.0,1175.0,Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Chandkheda,13000.0,1675.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1200.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Independent House,Bopal,60000.0,4968.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vejalpur,19000.0,1215.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jivraj Park,16000.0,1100.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ambavadi,70000.0,4300.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Satellite,21000.0,1449.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New C G Road,16000.0,1185.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1089.0,Semi-Furnished,2.0
@@ -7220,7 +6590,6 @@ AGENT,3.0,BHK,Apartment,Prahlad Nagar,26000.0,1881.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,24000.0,1700.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1700.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Satellite,20000.0,1453.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Satellite,55000.0,1775.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Thaltej,10500.0,830.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Vastrapur,14000.0,1350.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Gurukul,22000.0,1130.0,Furnished,2.0
@@ -7230,7 +6599,6 @@ AGENT,1.0,BHK,Apartment,Vastrapur,16000.0,900.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Parimal Garden,12300.0,1050.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Satellite,40000.0,2115.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Satellite,20000.0,1800.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,60000.0,2475.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Drive In Cinema Road,20000.0,1080.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Vastrapur,15000.0,1120.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Bodakdev,25000.0,1720.0,Furnished,3.0
@@ -7254,7 +6622,6 @@ AGENT,2.0,BHK,Apartment,Shilaj,14000.0,1048.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Near Nirma University On SG Highway,18500.0,1612.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Bopal,17500.0,3000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bopal,23000.0,1600.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,100000.0,5000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Shahibaug,12000.0,900.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Sanand,8500.0,1252.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Vatva,6000.0,1008.0,Semi-Furnished,2.0
@@ -7277,27 +6644,11 @@ AGENT,3.0,BHK,Apartment,Science City,25000.0,2200.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Memnagar,32000.0,2550.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Independent House,Science City,45000.0,4000.0,Semi-Furnished,4.0
 AGENT,4.0,BHK,Independent House,Bhat,20000.0,1200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Independent House,Naranpuraa,90000.0,3600.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Airport Road,12000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Shahibaug,20500.0,1500.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,75000.0,2650.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Shahibaug,37000.0,2500.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Satellite,94000.0,3420.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Bodakdev,125000.0,2250.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jodhpur Village,50000.0,2229.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,Zydus Hospital Road,100000.0,3800.0,Furnished,4.0
-AGENT,4.0,BHK,Independent House,Prahlad Nagar,50000.0,2700.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Thaltej,75000.0,6000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Nava Vadaj,20000.0,1350.0,Furnished,3.0
-AGENT,3.0,BHK,Villa,Shilaj,55000.0,650.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Shahibaug,59000.0,3400.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Shahibaug,50000.0,2592.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Shahibaug,50000.0,4122.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Zydus Hospital Road,30000.0,1800.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Independent House,Vastrapur,60000.0,2970.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Independent House,Bodakdev,125000.0,5200.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Independent House,Bodakdev,110000.0,4500.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Villa,Near Vaishno Devi Circle On SG Highway,150000.0,3600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shahibaug,18000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ghoda Camp Road,20000.0,1200.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Shahibaug,40000.0,3195.0,Semi-Furnished,4.0
@@ -7347,35 +6698,17 @@ OWNER,1.0,BHK,Independent House,Vatva,7500.0,600.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Vejalpur,10500.0,900.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Chandkheda,11000.0,1400.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Vastrapur,18750.0,1010.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Satellite,100000.0,3700.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bodakdev,75000.0,3000.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,75000.0,2750.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Vastrapur,25000.0,1650.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,55000.0,3780.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Vastrapur,33000.0,1665.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Gurukul,70000.0,3780.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Memnagar,38000.0,2394.0,Unfurnished,3.0
 AGENT,4.0,BHK,Apartment,Naryanpura,40000.0,2500.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Bodakdev,130000.0,4000.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Navrangpura,65000.0,2500.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,60000.0,3340.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ambli,127000.0,4000.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Vastrapur,50000.0,1845.0,Furnished,3.0
-AGENT,5.0,BHK,Villa,Thaltej,90000.0,3500.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,Vastrapur,25000.0,1250.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Near Vaishno Devi Circle On SG Highway,55000.0,3250.0,Furnished,6.0
 AGENT,4.0,BHK,Apartment,Shela,40000.0,2800.0,Furnished,4.0
 AGENT,3.0,BHK,Independent Floor,Prahlad Nagar,45000.0,2100.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,110000.0,3200.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Memnagar,28000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ambli,77000.0,3500.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Vastrapur,50000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,60000.0,3200.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Bodakdev,60000.0,2800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,37000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Makarba,27000.0,1650.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ambavadi,23000.0,1600.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Paldi,50000.0,2400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Motera,21500.0,1669.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandkheda,12000.0,1025.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chandkheda,16000.0,2054.0,Semi-Furnished,3.0
@@ -7383,7 +6716,6 @@ AGENT,2.0,BHK,Apartment,Motera,12000.0,1758.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Villa,Motera Stadium Road,13000.0,1500.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Villa,Motera Stadium Road,24000.0,1800.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Villa,Sanathal,30000.0,2800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Prahlad Nagar,100000.0,3000.0,Furnished,4.0
 AGENT,3.0,BHK,Independent Floor,Satellite,40000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Thaltej,25000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Memnagar,40000.0,3000.0,Semi-Furnished,3.0
@@ -7427,7 +6759,6 @@ AGENT,2.0,BHK,Apartment,Motera,10000.0,1215.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,8000.0,972.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Motera,10000.0,858.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Motera,13000.0,2210.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Motera Stadium Road,150000.0,1850.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,J 18 TP 44 chandkheda,13500.0,1260.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chandkheda,11500.0,1240.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Koteshwar Road,15500.0,1980.0,Semi-Furnished,3.0
@@ -7509,7 +6840,6 @@ OWNER,1.0,RK,Studio Apartment,New Ranip,11500.0,460.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Bodakdev,23000.0,1000.0,Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,Ghodsar,8000.0,300.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Changodar,14100.0,999.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent House,Prahlad Nagar,90000.0,1722.0,Furnished,3.0
 OWNER,1.0,BHK,Apartment,Maninagar,7700.0,700.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Juhapura,17000.0,1170.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Gurukul,15000.0,400.0,Semi-Furnished,2.0
@@ -7634,7 +6964,6 @@ OWNER,3.0,BHK,Apartment,Gota,18000.0,2030.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Vasna,10000.0,150.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Ambavadi,30000.0,1260.0,Furnished,2.0
 OWNER,5.0,BHK,Apartment,Ambavadi,40000.0,2160.0,Furnished,4.0
-OWNER,5.0,BHK,Villa,Ghuma,50000.0,3500.0,Semi-Furnished,6.0
 OWNER,1.0,RK,Studio Apartment,Jodhpur,8500.0,150.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Naranpuraa,15000.0,1000.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Paldi,20000.0,1400.0,Semi-Furnished,3.0

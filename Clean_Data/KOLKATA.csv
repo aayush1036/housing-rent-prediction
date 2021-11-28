@@ -1,8 +1,7 @@
-seller_type,bedroom,layout_type,property_type,locality,price,area,furnish_type,bathroom
+SELLER TYPE,BEDROOM,LAYOUT TYPE,PROPERTY TYPE,LOCALITY,PRICE,AREA,FURNISH TYPE,BATHROOM
 OWNER,2.0,BHK,Independent Floor,Sodepur,6000.0,600.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,south dum dum,4000.0,150.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Sector 22,6500.0,350.0,Semi-Furnished,1.0
-OWNER,9.0,BHK,Independent House,Lake Gardens,150000.0,6500.0,Unfurnished,6.0
 OWNER,3.0,BHK,Independent House,Dhapa,26000.0,1200.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Dum Dum,10000.0,800.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Kankurgachi,10000.0,500.0,Unfurnished,1.0
@@ -46,7 +45,6 @@ OWNER,3.0,BHK,Apartment,Mukundapur,15000.0,1256.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Rahara,10000.0,1042.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Jagadishpur,14000.0,1258.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Agarpara,9000.0,982.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent House,New Town,45000.0,2177.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Thakurpukur,10000.0,1050.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,New Town,17000.0,1100.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,New Town,20000.0,1450.0,Unfurnished,2.0
@@ -84,7 +82,6 @@ OWNER,1.0,RK,Studio Apartment,Bansdroni,6400.0,300.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Shibpur,12000.0,750.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Rajarhat,17500.0,1156.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Kasba,15000.0,950.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent House,Salt Lake City,50000.0,1600.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,12000.0,910.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,17000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,6000.0,967.0,Unfurnished,2.0
@@ -92,7 +89,6 @@ OWNER,1.0,BHK,Independent House,Ichhapur Defence Estate,6000.0,1440.0,Unfurnishe
 OWNER,2.0,BHK,Independent Floor,Uttarpara Kotrung,5500.0,475.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Sector 25,14000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Keshtopur,9500.0,700.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Jadavpur,55000.0,1600.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,23000.0,1300.0,Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,Salt Lake City,27500.0,1250.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Mukundapur,12000.0,700.0,Semi-Furnished,1.0
@@ -131,8 +127,6 @@ AGENT,3.0,BHK,Apartment,New Town,16000.0,1350.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,24000.0,1300.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Keshtopur,7500.0,470.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Bhowanipore,18000.0,850.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1400.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Bhawanipur,50000.0,1800.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Topsia,22000.0,1450.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,20000.0,1785.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16500.0,1790.0,Semi-Furnished,3.0
@@ -156,7 +150,6 @@ AGENT,3.0,BHK,Apartment,Shibpur,13000.0,1100.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Shibpur,14000.0,1200.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Howrah,35000.0,1780.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shibpur,12000.0,1100.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Independent House,New Alipore,500000.0,7174.0,Semi-Furnished,5.0
 AGENT,3.0,BHK,Apartment,Howrah,20000.0,1300.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bhowanipore,18000.0,940.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,14000.0,1012.0,Unfurnished,2.0
@@ -317,7 +310,6 @@ AGENT,2.0,BHK,Independent Floor,Sector 22,20000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Sector 22,16000.0,1150.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Alipore,16000.0,500.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Alipore,30000.0,1000.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Rajarhat,50000.0,1700.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Tagore Park,6500.0,521.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,15000.0,1350.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Sodepur,18000.0,1100.0,Unfurnished,2.0
@@ -396,11 +388,9 @@ AGENT,3.0,BHK,Apartment,New Town,40000.0,1909.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,28000.0,1290.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,19000.0,1165.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,33000.0,1110.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,60000.0,1455.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,New Town,22000.0,1366.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,33000.0,1098.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,1155.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1620.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1635.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1635.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,40000.0,1290.0,Furnished,2.0
@@ -408,15 +398,11 @@ AGENT,3.0,BHK,Apartment,New Town,35000.0,1678.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,1102.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,1810.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,1540.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1673.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,2185.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,995.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,17000.0,1080.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,28000.0,1080.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1785.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,17000.0,1014.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1230.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,2187.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,22000.0,1025.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Keshtopur,12000.0,900.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Keshtopur,17000.0,1400.0,Furnished,2.0
@@ -524,7 +510,6 @@ AGENT,2.0,BHK,Independent Floor,Patuli,10000.0,720.0,Unfurnished,1.0
 AGENT,3.0,BHK,Independent Floor,Patuli,13000.0,1200.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent Floor,Patuli,13000.0,720.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Kasba,15000.0,900.0,Unfurnished,1.0
-AGENT,3.0,BHK,Independent Floor,Haltu,60000.0,2000.0,Unfurnished,2.0
 AGENT,4.0,BHK,Independent Floor,Patuli,20000.0,4780.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Patuli,25000.0,1300.0,Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Patuli,9000.0,400.0,Unfurnished,1.0
@@ -597,20 +582,11 @@ AGENT,2.0,BHK,Apartment,Tollygunge,25000.0,1150.0,Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Tollygunge,40000.0,650.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Narendrapur,40000.0,1600.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Garia,14000.0,950.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Rajarhat,45000.0,1830.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Kalighat,45000.0,1500.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,New Town,8000.0,450.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Madhyamgram,10000.0,885.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Madhyamgram,11000.0,1045.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,22000.0,950.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,160000.0,4000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ballygunge,160000.0,4600.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ballygunge,120000.0,4000.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ballygunge,230000.0,3800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Alipore,165000.0,3300.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Gariahat,90000.0,3000.0,Semi-Furnished,3.0
 AGENT,1.0,RK,Studio Apartment,Barasat,10000.0,200.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Lake Gardens,50000.0,1980.0,Furnished,3.0
 AGENT,1.0,RK,Studio Apartment,Netaji Nagar,7000.0,400.0,Unfurnished,1.0
 AGENT,1.0,RK,Studio Apartment,Tollygunge,7000.0,350.0,Unfurnished,1.0
 AGENT,1.0,RK,Studio Apartment,Tollygunge,7500.0,500.0,Semi-Furnished,1.0
@@ -629,9 +605,6 @@ AGENT,2.0,BHK,Apartment,New Town,28000.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Alipore,28000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Santoshpur,22000.0,1100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,32000.0,1065.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Villa,New Town,46000.0,2250.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Villa,New Town,55000.0,2310.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,45000.0,1495.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,32000.0,774.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,25000.0,774.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,28000.0,1062.0,Unfurnished,2.0
@@ -645,31 +618,7 @@ AGENT,2.0,BHK,Independent House,Garia,10000.0,850.0,Unfurnished,2.0
 AGENT,1.0,BHK,Independent House,Garia,7000.0,500.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Tollygunge,30000.0,1400.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,42000.0,1600.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ballygunge,180000.0,4000.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Mukundapur,50000.0,1750.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,83500.0,1816.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jadavpur,70000.0,1700.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Kalighat,90000.0,1900.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,100000.0,2200.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,55000.0,1700.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,80000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ballygunge,250000.0,3937.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Apartment,Ballygunge,275000.0,5000.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Ballygunge,250000.0,4000.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Mukundapur,125000.0,5000.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ballygunge,220000.00000000003,4500.0,Furnished,5.0
-AGENT,5.0,BHK,Apartment,Ballygunge,297000.0,5500.0,Furnished,5.0
-AGENT,5.0,BHK,Independent House,Alipore,350000.0,5000.0,Unfurnished,5.0
-AGENT,2.0,BHK,Apartment,Ballygunge,50000.0,1100.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,65000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Gariahat,95000.0,3200.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Alipore,125000.0,3000.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,124000.0,3200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Kalighat,90000.0,2500.0,Unfurnished,4.0
-AGENT,2.0,BHK,Apartment,Elgin,65000.0,1400.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Kalighat,90000.0,2700.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,13000.0,920.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,80000.0,2500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Topsia,23000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Santoshpur,12000.0,800.0,Unfurnished,2.0
 AGENT,1.0,BHK,Independent House,Santoshpur,15000.0,1300.0,Unfurnished,2.0
@@ -701,7 +650,6 @@ AGENT,3.0,BHK,Apartment,Mukundapur,19000.0,1466.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Baghajatin,12000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,10000.0,700.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,10000.0,750.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Kalighat,70000.0,2250.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Garia,17000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Garia,17000.0,1027.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ballygunge,35000.0,1350.0,Furnished,2.0
@@ -745,12 +693,8 @@ AGENT,2.0,BHK,Apartment,Kaikhali,20000.0,936.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Mukundapur,18000.0,700.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Mukundapur,14000.0,800.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Netaji Nagar,12000.0,1100.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,60000.0,2800.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,New Town,60000.0,1925.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,40000.0,2385.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1925.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,38000.0,1085.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1516.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,38000.0,1255.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Rajarhat,20000.0,1830.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Rajarhat,20000.0,822.0,Furnished,1.0
@@ -781,8 +725,6 @@ AGENT,2.0,BHK,Apartment,Garia,20000.0,870.0,Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Garia,9000.0,650.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Bramhapur,8000.0,800.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Garia,8000.0,750.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Ballygunge,135000.0,2900.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Alipore,250000.0,4800.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,27000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kankurgachi,30000.0,1490.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Gariahat,36000.0,1000.0,Furnished,2.0
@@ -792,7 +734,6 @@ AGENT,2.0,BHK,Apartment,Bansdroni,9000.0,750.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Garia,20000.0,1150.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,16000.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,15000.0,800.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Tangra,50000.0,1700.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Netaji Nagar,22000.0,1450.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,25000.0,1450.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,16000.0,800.0,Furnished,2.0
@@ -837,7 +778,6 @@ AGENT,2.0,BHK,Independent Floor,Rajarhat,13000.0,1000.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1170.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Garia,12500.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,24500.0,1300.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,2100.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kamardanga,14500.0,1072.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,15000.0,900.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Dunlop,8500.0,800.0,Unfurnished,1.0
@@ -905,7 +845,6 @@ AGENT,2.0,BHK,Apartment,Haltu,29000.0,1450.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1450.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,25000.0,1250.0,Unfurnished,2.0
 AGENT,4.0,BHK,Villa,Kasba,35000.0,1700.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Mukundapur,45000.0,1566.0,Unfurnished,3.0
 AGENT,2.0,BHK,Independent Floor,Tollygunge,22000.0,750.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,17000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,23000.0,1150.0,Furnished,2.0
@@ -933,7 +872,6 @@ AGENT,2.0,BHK,Apartment,New Town,21000.0,1085.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1860.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,16000.0,1200.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,22000.0,972.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1366.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1450.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jodhpur Park,34000.0,1400.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Kalighat,30000.0,1200.0,Semi-Furnished,2.0
@@ -947,9 +885,6 @@ AGENT,3.0,BHK,Apartment,Rajarhat,40000.0,1509.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,27000.0,1452.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,27000.0,1450.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Santoshpur,35000.0,2130.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,75000.0,2393.0,Furnished,3.0
-AGENT,2.0,BHK,Apartment,Elgin,65000.0,1150.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge,54600.0,1400.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,40000.0,1530.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1430.0,Semi-Furnished,2.0
@@ -959,11 +894,7 @@ AGENT,3.0,BHK,Apartment,New Town,17000.0,1535.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1456.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1456.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,50000.0,1350.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,22000.0,1000.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Alipore,60000.0,1965.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Tangra,55000.0,1458.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Park Street Area,45000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,25000.0,1100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Narendrapur,30000.0,1625.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,42000.0,1100.0,Furnished,2.0
@@ -972,17 +903,12 @@ AGENT,2.0,BHK,Apartment,Santoshpur,30000.0,1150.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,27000.0,1180.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,35000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,35000.0,1650.0,Unfurnished,3.0
-AGENT,2.0,BHK,Apartment,Jadavpur,45000.0,1133.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,28000.0,1133.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,30000.0,1256.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Mukundapur,35000.0,1400.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,57000.0,1458.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,24000.0,1133.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Behala,32000.0,1100.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Alipore,55000.0,1274.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge,48000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Netaji Nagar,23000.0,950.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge,55000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,25000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,38000.0,1600.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1450.0,Furnished,2.0
@@ -1008,19 +934,14 @@ AGENT,2.0,BHK,Apartment,Garia,12500.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,12500.0,900.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,20000.0,1264.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,32000.0,1366.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,2700.0,Semi-Furnished,4.0
-AGENT,2.0,BHK,Apartment,New Town,50000.0,2700.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Airport,30000.0,1450.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,35000.0,1264.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,1800.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,23000.0,1600.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,New Town,45000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,26000.0,2000.0,Semi-Furnished,3.0
-AGENT,1.0,BHK,Apartment,New Town,50000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,1264.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,40000.0,1300.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Rajarhat,25000.0,1400.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Rajarhat,45000.0,1700.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,New Town,40000.0,1255.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,25000.0,1080.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,26000.0,1255.0,Semi-Furnished,2.0
@@ -1081,8 +1002,6 @@ AGENT,3.0,BHK,Apartment,Rajarhat,14000.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,10000.0,900.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Peenya,27000.0,1290.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tollygunge,18000.0,1600.0,Semi-Furnished,2.0
-AGENT,10.0,BHK,Independent House,New Town,350000.0,6000.0,Furnished,9.0
-AGENT,2.0,BHK,Apartment,Ballygunge,45000.0,1454.0,Furnished,2.0
 AGENT,2.0,BHK,Independent House,New Town,23000.0,725.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Dhakuria,25000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,17000.0,915.0,Unfurnished,2.0
@@ -1099,7 +1018,6 @@ AGENT,3.0,BHK,Apartment,New Town,16000.0,1485.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1450.0,Furnished,2.0
 AGENT,3.0,BHK,Villa,New Town,40000.0,3680.0,Unfurnished,3.0
-AGENT,3.0,BHK,Independent House,New Town,50000.0,3600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,24420.0,1110.0,Furnished,2.0
 AGENT,3.0,BHK,Villa,New Town,38000.0,1900.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1450.0,Furnished,2.0
@@ -1123,33 +1041,18 @@ AGENT,3.0,BHK,Apartment,New Town,27000.0,1365.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Haltu,24000.0,1000.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Kasba,17250.0,1150.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,35000.0,1200.0,Semi-Furnished,1.0
-AGENT,2.0,BHK,Apartment,Jadavpur,45000.0,1144.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,35000.0,1575.0,Furnished,3.0
-AGENT,2.0,BHK,Apartment,Elgin,45000.0,1124.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Madurdaha Hussainpur,130000.0,3528.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,Ballygunge,55000.0,1850.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Haltu,25000.0,1220.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,23000.0,1250.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,22000.0,1240.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge,45000.0,1505.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Park Street Area,40000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,17000.0,1250.0,Unfurnished,2.0
-AGENT,10.0,BHK,Independent House,New Town,300000.0,13000.0,Unfurnished,9.0
 AGENT,2.0,BHK,Apartment,Kalighat,35000.0,1122.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ballygunge,40000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,35000.0,1100.0,Semi-Furnished,2.0
-AGENT,10.0,BHK,Villa,New Town,200000.0,8000.0,Unfurnished,9.0
 AGENT,3.0,BHK,Villa,New Town,40000.0,1900.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,125000.0,4000.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ballygunge,28000.0,1200.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Ballygunge,120000.0,3200.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ballygunge,72000.0,2200.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,73500.0,2400.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Kalighat,55000.0,1270.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,60000.0,1560.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ballygunge,125000.0,2892.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Kasba,21000.0,1220.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Park Street Area,125000.0,3400.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Ballygunge,30000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,24000.0,1050.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,24000.0,1220.0,Unfurnished,2.0
@@ -1157,24 +1060,11 @@ AGENT,2.0,BHK,Apartment,Kasba,20500.0,1100.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Kasba,8500.0,550.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Kasba,26000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,21000.0,1300.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,65000.0,1900.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ballygunge,250000.0,3927.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Ballygunge,280000.0,3927.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,Alipore,150000.0,3500.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Gariahat,30000.0,1100.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,15000.0,700.0,Unfurnished,2.0
-AGENT,5.0,BHK,Independent House,Ballygunge,750000.0,6450.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,Jadavpur,55000.0,1740.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,40000.0,1250.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Alipore,150000.0,3050.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Ballygunge,40000.0,1142.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ballygunge,130000.0,3000.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Ballygunge,40000.0,1600.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,52000.0,1550.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,125000.0,2900.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jadavpur,65000.0,1550.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Jadavpur,52000.0,1550.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge,45000.0,1350.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,21500.0,1200.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Sodepur,22000.0,910.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Sodepur,16000.0,890.0,Semi-Furnished,2.0
@@ -1197,7 +1087,6 @@ AGENT,2.0,BHK,Apartment,New Town,15000.0,980.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,24000.0,955.0,Furnished,2.0
 AGENT,2.0,BHK,Independent House,Picnic Garden,12000.0,900.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ballygunge,175000.0,3300.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Narendrapur,9000.0,883.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Dhapa,10000.0,550.0,Unfurnished,1.0
 AGENT,4.0,BHK,Apartment,Jagadishpur,16000.0,1500.0,Unfurnished,3.0
@@ -1356,7 +1245,6 @@ AGENT,2.0,BHK,Apartment,Picnic Garden,10000.0,950.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tagore Park,9000.0,800.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Kasba,6000.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kasba,13000.0,900.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,45000.0,1550.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Haltu,20000.0,1300.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Haltu,18000.0,1000.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,22000.0,1200.0,Unfurnished,2.0
@@ -1367,7 +1255,6 @@ AGENT,2.0,BHK,Apartment,Kasba,14000.0,750.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kasba,9000.0,500.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Kasba,11600.0,700.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Kasba,18500.0,1100.0,Unfurnished,2.0
-AGENT,6.0,BHK,Apartment,Kasba,65000.0,2400.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Kasba,23500.0,1280.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kasba,15000.0,550.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Haltu,10000.0,650.0,Unfurnished,1.0
@@ -1429,7 +1316,6 @@ AGENT,3.0,BHK,Apartment,Kustia,30000.0,1250.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Picnic Garden,7000.0,400.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Picnic Garden,9000.0,900.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Tagore Park,16000.0,1250.0,Unfurnished,2.0
-AGENT,3.0,BHK,Independent Floor,kalikapura,150000.0,1700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,11000.0,800.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tagore Park,12000.0,750.0,Unfurnished,2.0
 AGENT,1.0,RK,Studio Apartment,Tagore Park,8000.0,300.0,Semi-Furnished,1.0
@@ -1465,7 +1351,6 @@ AGENT,2.0,BHK,Apartment,New Town,12500.0,1150.0,Unfurnished,2.0
 AGENT,4.0,BHK,Apartment,New Town,24000.0,2200.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,924.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,21000.0,1150.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1226.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,25000.0,1050.0,Furnished,2.0
@@ -1483,7 +1368,6 @@ AGENT,4.0,BHK,Apartment,New Town,25000.0,1800.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1405.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,28000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1550.0,Unfurnished,3.0
-AGENT,5.0,BHK,Apartment,New Town,70000.0,5000.0,Furnished,5.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1305.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,17000.0,1150.0,Semi-Furnished,2.0
@@ -1517,7 +1401,6 @@ AGENT,3.0,BHK,Apartment,New Town,14000.0,950.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,23000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,15000.0,1000.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,1600.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,46000.0,2095.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,35000.0,1415.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,24000.0,1350.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,26000.0,1350.0,Semi-Furnished,2.0
@@ -1531,7 +1414,6 @@ AGENT,3.0,BHK,Apartment,New Town,19000.0,1250.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,7000.0,550.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,17000.0,1550.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,20000.0,1250.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1450.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,1800.0,Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Sant Nagar,23000.0,900.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent House,Salt Lake City,16000.0,520.0,Furnished,1.0
@@ -1540,14 +1422,12 @@ AGENT,2.0,BHK,Apartment,Rajarhat,8500.0,650.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,8000.0,450.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,12000.0,655.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,14000.0,1238.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Independent Floor,Jodhpur Park,60000.0,1800.0,Unfurnished,2.0
 AGENT,1.0,RK,Studio Apartment,Salt Lake City,6000.0,320.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent House,Salt Lake City,12000.0,520.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Tangra,9500.0,520.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent House,Salt Lake City,7000.0,480.0,Furnished,1.0
 AGENT,1.0,BHK,Independent House,Tangra,9000.0,420.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent Floor,Tangra,13000.0,620.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Gariahat,55000.0,1450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Mukundapur,13000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1500.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,New Town,20000.0,1733.0,Semi-Furnished,3.0
@@ -1595,19 +1475,14 @@ AGENT,2.0,BHK,Apartment,New Town,9700.0,630.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,22000.0,750.0,Furnished,2.0
 AGENT,2.0,BHK,Independent House,Dhapa,18000.0,700.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,20000.0,1000.0,Unfurnished,2.0
-AGENT,7.0,BHK,Independent House,Salt Lake City,160000.0,2600.0,Furnished,7.0
 AGENT,3.0,BHK,Independent House,Salt Lake City,30000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1200.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent House,Salt Lake City,22000.0,1100.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,20000.0,1000.0,Furnished,2.0
-AGENT,9.0,BHK,Independent House,Salt Lake City,200000.0,5400.0,Furnished,9.0
-AGENT,3.0,BHK,Apartment,New Town,60000.0,2600.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,60000.0,2600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,18000.0,600.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,20000.0,1000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,800.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,30000.0,1000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Phool Bagan,60000.0,2200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1550.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20500.0,1308.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,900.0,Semi-Furnished,2.0
@@ -1726,7 +1601,6 @@ AGENT,3.0,BHK,Apartment,Kamarhati on BT Road,21000.0,1500.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Belghoria,18000.0,1440.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Kamarhati on BT Road,19000.0,1545.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Dum Dum,18000.0,1500.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Bhowanipore,48000.0,1300.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Keshtopur,5900.0,440.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Keshtopur,9100.0,750.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Keshtopur,13000.0,1200.0,Unfurnished,2.0
@@ -1806,7 +1680,6 @@ AGENT,2.0,BHK,Apartment,Bansdroni,12000.0,750.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,9000.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,2200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,65000.0,3500.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,2200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,2150.0,Furnished,3.0
 AGENT,3.0,BHK,Independent House,Tollygunge,17000.0,1400.0,Unfurnished,2.0
@@ -1833,7 +1706,6 @@ AGENT,2.0,BHK,Apartment,Paschim Putiary,8800.0,700.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,8500.0,850.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Lake Gardens,17000.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,11000.0,780.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Tollygunge,62000.0,2400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tollygunge,27000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,15000.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kaikhali,9000.0,850.0,Unfurnished,1.0
@@ -1841,19 +1713,12 @@ AGENT,1.0,RK,Studio Apartment,Sector 22,7000.0,200.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Tollygunge,18000.0,1680.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Independent Floor,Picnic Garden,10000.0,420.0,Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Patuli,10000.0,850.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,70000.0,3000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,22000.0,1226.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1200.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,New Town,45000.0,2125.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,17000.0,1320.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,55000.0,1890.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Kalighat,18000.0,780.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Netaji Nagar,20000.0,1000.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,30000.0,1120.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Jodhpur Park,50000.0,2200.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Tollygunge,45000.0,1550.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Alipore,50000.0,1200.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Park Street Area,150000.0,2000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,37000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,16000.0,850.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,22000.0,900.0,Semi-Furnished,2.0
@@ -1870,11 +1735,9 @@ AGENT,1.0,BHK,Independent Floor,Tollygunge,10000.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Tollygunge,12000.0,850.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,42000.0,1550.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Lake Gardens,13500.0,700.0,Unfurnished,2.0
-AGENT,4.0,BHK,Independent Floor,Garfa,60000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Lake Gardens,36000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Keshtopur,10000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,22000.0,680.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,48000.0,1500.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Ghosh Para,6000.0,500.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,New Town,16000.0,1205.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kaikhali,20000.0,1174.0,Furnished,2.0
@@ -1885,20 +1748,13 @@ AGENT,3.0,BHK,Apartment,New Town,20000.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,36000.0,1700.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,15001.0,900.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,15000.0,900.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,62000.0,3200.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,20006.0,1250.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1800.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Rajarhat,50000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,2000.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,New Town,50000.0,2200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,65000.0,2200.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,1920.0,Furnished,4.0
 AGENT,2.0,BHK,Independent Floor,Behala,9000.0,950.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,20000.0,950.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Mukundapur,22000.0,1400.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,4000.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,Bhowanipore,35000.0,1900.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,New Town,40000.0,1800.0,Furnished,4.0
 AGENT,1.0,BHK,Apartment,Barisha Purba Para Road,8000.0,650.0,Furnished,1.0
@@ -1918,10 +1774,8 @@ AGENT,1.0,BHK,Apartment,Lake Gardens,13000.0,500.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Rajarhat,14000.0,1450.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,9000.0,780.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Tollygunge,28000.0,1215.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Kalighat,58000.0,1865.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kalighat,28000.0,1067.0,Furnished,2.0
 AGENT,1.0,BHK,Independent Floor,Sector 22,11000.0,1000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,3700.0,Furnished,3.0
 AGENT,2.0,BHK,Independent Floor,Salt Lake City,18000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,17000.0,950.0,Furnished,2.0
 AGENT,1.0,BHK,Independent Floor,Patuli,7500.0,500.0,Unfurnished,1.0
@@ -1932,9 +1786,7 @@ AGENT,2.0,BHK,Apartment,Jadavpur,8000.0,450.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Jadavpur,9000.0,500.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Patuli,9500.0,900.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Beliaghata,30000.0,1200.0,Furnished,2.0
-AGENT,3.0,BHK,Independent Floor,Salt Lake City,65000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Patuli,17000.0,1150.0,Unfurnished,2.0
-AGENT,5.0,BHK,Villa,New Town,80000.0,5000.0,Furnished,6.0
 AGENT,2.0,BHK,Apartment,East Kolkata Township,15000.0,800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tagore Park,17000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bhowanipore,25000.0,1120.0,Furnished,2.0
@@ -1950,13 +1802,8 @@ AGENT,1.0,BHK,Apartment,Tagore Park,7500.0,420.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,5000.0,320.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,5500.0,380.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,6200.0,420.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Rajarhat,60000.0,3500.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,New Town,25000.0,1350.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2177.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,New Town,55000.0,1900.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,New Town,55000.0,2000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,32000.0,1600.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,55000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,800.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,35000.0,1100.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kaikhali,22000.0,1000.0,Furnished,2.0
@@ -1975,10 +1822,7 @@ AGENT,1.0,BHK,Apartment,VIP Nagar,7000.0,450.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Tagore Park,16000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Rajarhat,12000.0,600.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,10000.0,900.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,2400.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,2200.0,Furnished,2.0
-AGENT,3.0,BHK,Villa,New Town,50000.0,1650.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1600.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,15000.0,950.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Beliaghata,9000.0,450.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Barisha Purba Para Road,18000.0,950.0,Furnished,2.0
@@ -2000,7 +1844,6 @@ AGENT,2.0,BHK,Apartment,Picnic Garden,18000.0,860.0,Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Picnic Garden,5000.0,480.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,6000.0,680.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Tagore Park,6000.0,510.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,2600.0,Furnished,4.0
 AGENT,4.0,BHK,Apartment,New Town,42000.0,2000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1500.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,12000.0,1000.0,Unfurnished,1.0
@@ -2012,7 +1855,6 @@ AGENT,2.0,BHK,Apartment,Paschim Putiary,11000.0,800.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,11000.0,900.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,8200.0,790.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Santoshpur,30000.0,1328.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Independent House,Santoshpur,150000.0,6000.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Haltu,8000.0,720.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,8000.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,8000.0,840.0,Unfurnished,2.0
@@ -2026,7 +1868,6 @@ AGENT,2.0,BHK,Apartment,Mukundapur,10000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,8000.0,720.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,East Kolkata Township,25000.0,1200.0,Unfurnished,2.0
 AGENT,1.0,BHK,Independent House,Patuli,8000.0,600.0,Unfurnished,1.0
-AGENT,10.0,BHK,Independent House,New Town,240000.0,10000.0,Furnished,9.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,2100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,36000.0,1800.0,Furnished,2.0
@@ -2035,12 +1876,10 @@ AGENT,3.0,BHK,Apartment,New Town,35000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,35000.0,1800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,2500.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,3200.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Jadavpur,7000.0,460.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Baguiati,10000.0,850.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Jadavpur,14000.0,960.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,9500.0,780.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1700.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Dunlop,9500.0,800.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Tagore Park,8000.0,500.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Tagore Park,16500.0,1100.0,Unfurnished,2.0
@@ -2077,8 +1916,6 @@ AGENT,2.0,BHK,Apartment,kalikapura,16000.0,700.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1000.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,10000.0,640.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,9000.0,640.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1800.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,70000.0,1800.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Jadavpur,9000.0,450.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,14000.0,745.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,16001.0,1300.0,Semi-Furnished,2.0
@@ -2097,10 +1934,7 @@ AGENT,1.0,BHK,Apartment,Haltu,6500.0,600.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Haltu,6300.0,410.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Haltu,6000.0,450.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Haltu,12000.0,600.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,New Town,60000.0,2400.0,Furnished,3.0
-AGENT,4.0,BHK,Independent House,New Town,55000.0,2000.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Behala,12000.0,1051.0,Unfurnished,2.0
-AGENT,5.0,BHK,Apartment,New Town,45000.0,3079.0,Semi-Furnished,5.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,6000.0,420.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,5700.0,400.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,11000.0,850.0,Unfurnished,1.0
@@ -2108,19 +1942,14 @@ AGENT,1.0,RK,Studio Apartment,VIP Nagar,4800.0,300.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,8800.0,620.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Keshtopur,10000.0,890.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Mukundapur,20000.0,837.0,Unfurnished,2.0
-AGENT,6.0,BHK,Apartment,Santoshpur,150000.0,6000.0,Unfurnished,2.0
 AGENT,1.0,BHK,Independent House,Patuli,6000.0,550.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Tagore Park,10000.0,780.0,Unfurnished,1.0
 AGENT,1.0,BHK,Independent Floor,Patuli,6500.0,500.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Picnic Garden,5500.0,420.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Liluah,12000.0,900.0,Unfurnished,2.0
-AGENT,5.0,BHK,Independent Floor,Liluah,75000.0,3600.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Liluah,9000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,VIP Nagar,9100.0,750.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,VIP Nagar,11000.0,750.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,50000.0,3200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,3200.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,3200.0,Furnished,4.0
 AGENT,1.0,BHK,Independent House,Baghajatin,7000.0,450.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,26000.0,1850.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1200.0,Furnished,3.0
@@ -2165,17 +1994,9 @@ AGENT,1.0,BHK,Apartment,Tagore Park,7000.0,520.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,2200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,40000.0,2200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,south dum dum,35000.0,2200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,2200.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,2200.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,2200.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1750.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1400.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Independent Floor,Dhapa,65000.0,1900.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,6000.0,440.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,5800.0,400.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,2300.0,Furnished,4.0
 AGENT,2.0,BHK,Independent Floor,Sant Nagar,15000.0,650.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent House,Patuli,10000.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Patuli,7500.0,600.0,Unfurnished,1.0
@@ -2206,7 +2027,6 @@ AGENT,2.0,BHK,Apartment,New Town,13003.0,900.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,13001.0,900.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Nayabad,14000.0,750.0,Furnished,2.0
 AGENT,1.0,BHK,Independent House,Garia,7500.0,600.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,New Town,65000.0,4000.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Tagore Park,10200.0,750.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Tagore Park,5000.0,360.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Tagore Park,6500.0,420.0,Unfurnished,1.0
@@ -2223,7 +2043,6 @@ AGENT,3.0,BHK,Apartment,Tagore Park,18000.0,1250.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,7000.0,600.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Tagore Park,15000.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tagore Park,9000.0,850.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,New Town,55000.0,3000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1226.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,New Town,35000.0,2000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Paschim Putiary,11200.0,1400.0,Semi-Furnished,2.0
@@ -2232,7 +2051,6 @@ AGENT,1.0,BHK,Apartment,Baguiati,7000.0,550.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,16000.0,1226.0,Unfurnished,2.0
 AGENT,4.0,BHK,Independent House,Rajarhat,10000.0,1300.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,East Kolkata Township,26000.0,950.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ashok Nagar,11800.0,800.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,8500.0,900.0,Unfurnished,2.0
 AGENT,1.0,RK,Studio Apartment,Sant Nagar,7000.0,310.0,Semi-Furnished,1.0
@@ -2246,8 +2064,6 @@ AGENT,2.0,BHK,Apartment,Barrackpore,12000.0,850.0,Unfurnished,2.0
 AGENT,1.0,BHK,Independent House,Patuli,8000.0,550.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent House,Patuli,12000.0,800.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Garia,12000.0,850.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,46000.0,2020.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Mukundapur,6000.0,400.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,10000.0,750.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Mukundapur,20000.0,800.0,Semi-Furnished,2.0
@@ -2282,19 +2098,15 @@ AGENT,2.0,BHK,Apartment,VIP Nagar,8500.0,790.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,VIP Nagar,9600.0,800.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,VIP Nagar,8600.0,780.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,VIP Nagar,5000.0,400.0,Unfurnished,1.0
-AGENT,5.0,BHK,Independent House,Patuli,55000.0,2800.0,Unfurnished,4.0
 AGENT,1.0,BHK,Independent Floor,Patuli,8000.0,500.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,9500.0,900.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Paschim Putiary,7000.0,500.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Netaji Nagar,13000.0,900.0,Furnished,1.0
-AGENT,4.0,BHK,Apartment,New Town,62000.0,4200.0,Furnished,4.0
 AGENT,1.0,BHK,Apartment,Tagore Park,8000.0,540.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,32000.0,1401.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,36000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,20000.0,950.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Behala,20000.0,2000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,47000.0,2210.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,New Town,53000.0,2165.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Kasba,34000.0,1900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bansdroni,22000.0,1150.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tagore Park,20000.0,1250.0,Unfurnished,3.0
@@ -2305,7 +2117,6 @@ AGENT,2.0,BHK,Apartment,Kasba,22000.0,1150.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,12000.0,950.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kasba,22000.0,1100.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,15000.0,900.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Mukundapur,55000.0,2400.0,Furnished,3.0
 AGENT,2.0,BHK,Independent Floor,Sector 22,20000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Kaikhali,12000.0,1070.0,Semi-Furnished,2.0
@@ -2316,7 +2127,6 @@ AGENT,2.0,BHK,Apartment,Chinar Park,9300.0,780.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Baguiati,8500.0,750.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Chinar Park,10000.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,15000.0,650.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Bhowanipore,45000.0,1450.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bhowanipore,25000.0,600.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bhowanipore,40000.0,1400.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Rajarhat,16000.0,1415.0,Unfurnished,3.0
@@ -2334,21 +2144,16 @@ AGENT,2.0,BHK,Apartment,Rajarhat,13000.0,935.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,1000.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1697.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,25000.0,1350.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2106.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,1080.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,26000.0,1955.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1955.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,24000.0,1809.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,32000.0,1500.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,26000.0,1500.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Tagore Park,5500.0,380.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,22000.0,876.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,28000.0,1380.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,42000.0,1930.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,62000.0,3866.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,2913.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,48000.0,2231.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,12500.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,13000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,800.0,Furnished,2.0
@@ -2376,7 +2181,6 @@ AGENT,3.0,BHK,Apartment,New Town,26000.0,1823.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,2273.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,23000.0,1522.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,32000.0,2182.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2095.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,2106.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,13000.0,841.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,10000.0,500.0,Furnished,1.0
@@ -2399,7 +2203,6 @@ AGENT,2.0,BHK,Apartment,Keshtopur,9000.0,930.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,13000.0,899.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Keshtopur,8500.0,856.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,19000.0,956.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,47000.0,1087.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,25000.0,956.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,25000.0,1080.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,26000.0,1617.0,Semi-Furnished,3.0
@@ -2409,12 +2212,10 @@ AGENT,2.0,BHK,Apartment,New Town,35000.0,1464.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,32000.0,1255.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,24000.0,1768.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1555.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,65000.0,3393.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1464.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,23000.0,1366.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,22000.0,1464.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,12000.0,1200.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,68000.0,2397.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1930.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1768.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chingrighata Flyover,8300.0,750.0,Unfurnished,1.0
@@ -2473,11 +2274,7 @@ AGENT,2.0,BHK,Apartment,Keshtopur,9000.0,859.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Keshtopur,8000.0,769.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Keshtopur,12500.0,896.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,13000.0,798.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,60000.0,1465.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,55000.0,1469.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2397.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,1350.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,74000.0,2635.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,1305.0,Semi-Furnished,2.0
 AGENT,1.0,RK,Studio Apartment,New Town,6500.0,430.0,Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,New Town,5000.0,450.0,Semi-Furnished,1.0
@@ -2485,9 +2282,6 @@ AGENT,1.0,RK,Studio Apartment,New Town,4100.0,366.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Peenya,15500.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Dum Dum Metro,8500.0,900.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2147.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,48000.0,1738.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1738.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,36000.0,1310.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16000.0,1335.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,23000.0,1955.0,Semi-Furnished,3.0
@@ -2498,7 +2292,6 @@ AGENT,3.0,BHK,Apartment,New Town,17000.0,1300.0,Unfurnished,2.0
 AGENT,1.0,RK,Studio Apartment,New Town,4000.0,400.0,Semi-Furnished,1.0
 AGENT,4.0,BHK,Apartment,New Garia,16000.0,1800.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1500.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Lake View Road,50000.0,1550.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent Floor,Baghajatin,10000.0,800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,17000.0,1495.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Shreebhumi,24000.0,1355.0,Furnished,2.0
@@ -2533,7 +2326,6 @@ AGENT,3.0,BHK,Apartment,New Town,16000.0,1300.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,957.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,17000.0,1500.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jagadishpur,14000.0,1300.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,4500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Jagadishpur,19000.0,1363.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,14000.0,1000.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Jagadishpur,10000.0,1200.0,Unfurnished,2.0
@@ -2547,17 +2339,14 @@ AGENT,2.0,BHK,Apartment,New Town,14000.0,1300.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kaikhali,20000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,9500.0,774.0,Semi-Furnished,2.0
-AGENT,5.0,BHK,Apartment,New Alipore,100000.0,3700.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Rajarhat,10000.0,822.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,11000.0,850.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,7500.0,500.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1450.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Rajarhat,13000.0,530.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Tangra,50000.0,1751.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Joka,14000.0,879.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,22000.0,1555.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,15000.0,1526.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Alipore,80000.0,3200.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Topsia,35000.0,1600.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1522.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,28000.0,1100.0,Furnished,2.0
@@ -2570,7 +2359,6 @@ AGENT,3.0,BHK,Apartment,Lake Town,25000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,16000.0,850.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,11000.0,700.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Prince Anwar Shah Rd,12000.0,950.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,65000.0,3304.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Narendrapur,12000.0,925.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1738.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,23000.0,2052.0,Semi-Furnished,4.0
@@ -2579,7 +2367,6 @@ AGENT,3.0,BHK,Apartment,Tangra,40000.0,1700.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tollygunge,18000.0,750.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Parnashree,16000.0,850.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,1845.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,2880.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Radhanath Chowdhury Road,32000.0,1600.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Tollygunge,35000.0,1416.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,22000.0,920.0,Semi-Furnished,2.0
@@ -2587,9 +2374,6 @@ AGENT,3.0,BHK,Apartment,New Town,25000.0,1845.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,22000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Nayabad Daspara,9000.0,730.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Entally,25000.0,1100.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,2182.0,Furnished,3.0
-AGENT,4.0,BHK,Villa,Rajarhat,50000.0,2400.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Convent Road,45000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,34000.0,2231.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,9000.0,610.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,New Town,9000.0,500.0,Furnished,1.0
@@ -2604,8 +2388,6 @@ AGENT,3.0,BHK,Apartment,Selimpur,26000.0,1500.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Dum Dum,12000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,16000.0,940.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1483.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Garia,100000.0,3835.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Camac Street,55000.0,1500.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1809.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Parnashree,14000.0,837.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Parnasree Pally,12000.0,875.0,Furnished,2.0
@@ -2624,22 +2406,16 @@ AGENT,2.0,BHK,Apartment,Maheshtala,20800.0,800.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Golf Green,15000.0,960.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,15000.0,960.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Behala,25000.0,1220.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Villa,Rajarhat,50000.0,3000.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,New Town,10500.0,855.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,1210.0,Semi-Furnished,2.0
-BUILDER,3.0,BHK,Apartment,Sealdah,45000.0,1650.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Nager Bazar,9000.0,950.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Airport,20000.0,800.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Convent Road,30000.0,1200.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Elliot Road,50000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bosepukur,18000.0,800.0,Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Sector 22,35000.0,2350.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Nayabad,50000.0,1830.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,32000.0,1455.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Rajarhat,13000.0,885.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Nr Ballygunge circular road,75000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Entally,40000.0,1550.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jadavpur,70000.0,1650.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,26000.0,1287.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1925.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Chinar Park,30000.0,1500.0,Furnished,2.0
@@ -2647,7 +2423,6 @@ AGENT,2.0,BHK,Apartment,Garia,17000.0,850.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Mukundapur,18000.0,850.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Lake Gardens,25000.0,750.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Golf Green,16000.0,960.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Alipore,65000.0,2629.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Rajarhat,25000.0,1110.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Kaikhali,25000.0,1450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Nayabad Daspara,16000.0,1500.0,Unfurnished,2.0
@@ -2656,64 +2431,38 @@ AGENT,2.0,BHK,Apartment,Rajarhat,14000.0,1105.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1366.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1855.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,22000.0,1250.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Sunny Park,80000.0,1400.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,2542.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,25000.0,1250.0,Furnished,2.0
-AGENT,5.0,BHK,Villa,Bhawanipur,170000.0,5000.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,38000.0,1150.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Elgin Road,150000.0,4000.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,25000.0,1180.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1400.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Minto Park,100000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,90000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,50000.0,1920.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Bhawanipur,300000.0,5500.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,55000.0,1800.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,35000.0,1400.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,30000.0,1250.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,60000.0,2500.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1900.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Kalighat,40000.0,1350.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,75000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1650.0,Furnished,3.0
-AGENT,2.0,BHK,Apartment,Elgin,50000.0,1450.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,28000.0,1250.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,40000.0,1450.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Bhawanipur,100000.0,3500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,40000.0,1380.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Khidirpur,30000.0,1340.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Apartment,New Alipore,100000.0,3700.0,Furnished,5.0
 AGENT,3.0,BHK,Independent Floor,Sector 22,23500.0,2400.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,East Topsia,50000.0,1900.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Behala,5000.0,450.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Action Area I,18000.0,1245.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,40000.0,1650.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jadavpur,65000.0,1458.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jadavpur Central Road,15000.0,950.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,11000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Independent Floor,Picnic Garden,18000.0,850.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1436.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,2147.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Behala Sakher Bazar,6500.0,481.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Kasba,30000.0,1300.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,150000.0,2500.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Garfa,8000.0,455.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Bijoygarh,8000.0,455.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Garia,28000.0,1200.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Garia,16000.0,583.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Garia,13000.0,583.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Santoshpur,80000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Santoshpur,45000.0,2100.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Alipore,35000.0,2100.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,70000.0,2300.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,13000.0,1260.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,23000.0,1660.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Rajarhat,25000.0,795.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,22000.0,850.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,11000.0,1500.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Kasba,35000.0,1620.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Ballygunge,45000.0,600.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Budge Budge,8500.0,896.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Maheshtala,25000.0,1525.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Sonarpur,13000.0,1140.0,Unfurnished,2.0
@@ -2727,7 +2476,6 @@ AGENT,2.0,BHK,Apartment,Garfa,25000.0,1000.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Lake Gardens,8000.0,400.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Khidirpur,28000.0,1340.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Khidirpur,28000.0,1400.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,65000.0,2380.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Alipore,22000.0,900.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,20000.0,1188.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,35000.0,1816.0,Furnished,2.0
@@ -2748,21 +2496,12 @@ OWNER,2.0,BHK,Apartment,Picnic Garden Road,16000.0,1150.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,19000.0,1350.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,28000.0,1280.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,20000.0,1415.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,50000.0,2100.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Gariahat,40000.0,1850.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Gariahat,70000.0,2100.0,Unfurnished,3.0
-AGENT,4.0,BHK,Independent House,Southern Avenue,350000.0,6600.0,Unfurnished,5.0
-AGENT,6.0,BHK,Apartment,Southern Avenue,85000.0,2700.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Southern Avenue,35000.0,1450.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,65000.0,2100.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,55000.0,2100.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Gariahat,80000.0,2450.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,40000.0,2100.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gariahat,35000.0,1450.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Garia,60000.0,1861.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Salt Lake City,10000.0,440.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Rash Behari,30000.0,950.0,Furnished,2.0
-AGENT,3.0,BHK,Independent Floor,Hindustan Park,65000.0,2000.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Action Area I Newtown,20000.0,1385.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Action Area I Newtown,17500.0,1355.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,17000.0,1440.0,Semi-Furnished,3.0
@@ -2783,7 +2522,6 @@ AGENT,1.0,BHK,Apartment,New Town,7000.0,509.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,New Town,5000.0,412.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent House,Keshtopur,8000.0,853.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Rajarhat,15000.0,1111.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,75000.0,2501.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Jadavpur,42000.0,1130.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Thakurpukur,9000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Sulekha,10000.0,750.0,Unfurnished,1.0
@@ -2791,27 +2529,17 @@ AGENT,2.0,BHK,Apartment,Dasnagar,9000.0,750.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16000.0,1464.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Phool Bagan,40000.0,1450.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Anandapur,15000.0,1350.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Garia,80000.0,3443.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Hussainpur,25000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Dhakuria Station Road,10000.0,750.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Southern Avenue,150000.0,3500.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Gariahat,40000.0,1650.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Gariahat,40000.0,2100.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Golpark,32000.0,1250.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gariahat,40000.0,1200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Mudially,30000.0,1200.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,30000.0,1450.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gariahat,45000.0,1800.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Southern Avenue,100000.0,3100.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Southern Avenue,100000.0,3200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,40000.0,1200.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,45000.0,1750.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,40000.0,1350.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Southern Avenue,120000.0,3100.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Southern Avenue,32000.0,1250.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Gariahat,45000.0,1900.0,Furnished,3.0
-AGENT,3.0,BHK,Independent Floor,Southern Avenue,120000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,50000.0,1850.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Behala,17000.0,980.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,40000.0,1580.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gariahat,35000.0,1200.0,Unfurnished,1.0
@@ -2828,7 +2556,6 @@ AGENT,3.0,BHK,Apartment,New Town,17000.0,1200.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,deshbandhu nagar,20000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,20000.0,900.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,15000.0,1200.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,3660.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1000.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,deshbandhu nagar,25000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,deshbandhu nagar,13000.0,1000.0,Unfurnished,2.0
@@ -2867,13 +2594,9 @@ AGENT,2.0,BHK,Apartment,New Town,13000.0,1000.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,12000.0,500.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,18000.0,950.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,15000.0,1100.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,57000.0,4400.0,Furnished,5.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,21000.0,1600.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,16000.0,1500.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2120.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,26000.0,1200.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,50000.0,2900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,22000.0,1200.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,New Town,25000.0,1925.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,17000.0,1400.0,Semi-Furnished,2.0
@@ -2881,14 +2604,12 @@ AGENT,4.0,BHK,Apartment,New Town,35000.0,2200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,1100.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1900.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1650.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,E M Bypass,80000.0,2867.0,Semi-Furnished,3.0
 AGENT,1.0,RK,Studio Apartment,New Town,4250.0,404.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Baranagar,8000.0,800.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Dum Dum,11000.0,820.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,12000.0,1260.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,13000.0,1115.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Howrah Railway Station,7200.0,400.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Alipore,80000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16000.0,1569.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,19000.0,747.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,9000.0,925.0,Unfurnished,2.0
@@ -2896,29 +2617,14 @@ AGENT,3.0,BHK,Apartment,Rajarhat,11000.0,1010.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16000.0,1275.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16000.0,1415.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Naktala,14000.0,960.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,50000.0,1650.0,Furnished,3.0
 AGENT,3.0,BHK,Independent Floor,Southern Avenue,38000.0,1850.0,Semi-Furnished,3.0
-AGENT,2.0,BHK,Apartment,Southern Avenue,50000.0,1250.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Gariahat,55000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,45000.0,1900.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Gariahat,38000.0,1700.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,60000.0,2200.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Southern Avenue,32000.0,1150.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Southern Avenue,32000.0,1300.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Southern Avenue,50000.0,2300.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,35000.0,1600.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Kalighat,35000.0,1600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Gariahat,30000.0,1150.0,Unfurnished,3.0
-AGENT,2.0,BHK,Apartment,Alipore,55000.0,1400.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Alipore,150000.0,3500.0,Furnished,3.0
-AGENT,2.0,BHK,Apartment,Alipore,45000.0,1300.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,50000.0,1700.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,150000.0,3300.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,150000.0,3300.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Alipore,40000.0,1900.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,65000.0,2200.0,Furnished,3.0
-AGENT,6.0,BHK,Apartment,Alipore,350000.0,5700.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Southern Avenue,25000.0,650.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,22000.0,1300.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Santoshpur,30000.0,1100.0,Furnished,2.0
@@ -2935,8 +2641,6 @@ OWNER,3.0,BHK,Independent House,New Barrakpur,9500.0,935.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Bhowanipore,20000.0,530.0,Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,New Barrakpur,6500.0,1500.0,Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,New Barrakpur,6500.0,1500.0,Furnished,1.0
-OWNER,4.0,BHK,Independent House,Bhowanipore,45000.0,1250.0,Semi-Furnished,3.0
-OWNER,4.0,BHK,Independent House,Bhowanipore,45000.0,1280.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,Bhowanipore,25000.0,950.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Jadavpur,15000.0,600.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Kalighat,18000.0,1100.0,Semi-Furnished,2.0
@@ -2946,7 +2650,6 @@ OWNER,1.0,BHK,Independent House,Phool Bagan,6500.0,650.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Jadavpur,9000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Behala,11000.0,900.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Paschim Putiary,6000.0,400.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Independent Floor,Noapara,110000.0,2000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Garia,3500.0,280.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Baranagar,6500.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Netaji Nagar,18500.0,910.0,Semi-Furnished,2.0
@@ -2961,7 +2664,6 @@ OWNER,2.0,BHK,Apartment,south dum dum,10500.0,1000.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Chinar Park,12000.0,1200.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Anandapur,20000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,35000.0,2028.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Garia,45000.0,1840.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Independent House,James Long Sarani Behala,9000.0,550.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,15500.0,1255.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Tollygunge,6500.0,481.0,Unfurnished,1.0
@@ -2971,26 +2673,8 @@ AGENT,3.0,BHK,Apartment,Barisha,20000.0,1160.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,15000.0,1180.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,15000.0,1400.0,Unfurnished,2.0
 BUILDER,2.0,BHK,Apartment,Tangra,26000.0,1018.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,150000.0,3100.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Alipore,38000.0,1300.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,65000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,55000.0,1500.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,Alipore,175000.0,4100.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Alipore,45000.0,4300.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2900.0,Furnished,1.0
-AGENT,3.0,BHK,Apartment,Alipore,60000.0,2200.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,75000.0,2900.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,65000.0,2400.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2500.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2200.0,Furnished,3.0
-AGENT,3.0,BHK,Independent Floor,Alipore,125000.0,2700.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Alipore,120000.0,2900.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Alipore,28000.0,1300.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2700.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,65000.0,2500.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Alipore,450000.0,3300.0,Furnished,3.0
-AGENT,3.0,BHK,Independent Floor,Alipore,75000.0,2700.0,Unfurnished,1.0
-AGENT,4.0,BHK,Villa,Alipore,400000.0,7500.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent House,Jodhpur Park,25000.0,1200.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Panihati,5000.0,150.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Garia,8500.0,910.0,Semi-Furnished,2.0
@@ -3011,7 +2695,6 @@ OWNER,2.0,BHK,Independent Floor,Purba Putiary,8500.0,800.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Parnasree Pally,23000.0,1169.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,28000.0,1680.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Dhakuria Station Road,12000.0,870.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,72000.0,2503.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,New Town,25000.0,1255.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Entally,25000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kasba,12000.0,850.0,Semi-Furnished,2.0
@@ -3046,7 +2729,6 @@ AGENT,1.0,RK,Studio Apartment,New Town,5000.0,396.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,New Town,4500.0,356.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,New Town,5000.0,367.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,New Town,4200.0,400.0,Semi-Furnished,1.0
-OWNER,2.0,BHK,Apartment,New Town,45000.0,1255.0,Furnished,2.0
 AGENT,4.0,BHK,Apartment,Howrah,35000.0,1781.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Howrah,18000.0,900.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,7000.0,500.0,Semi-Furnished,1.0
@@ -3092,31 +2774,11 @@ OWNER,3.0,BHK,Apartment,Beliaghata,30000.0,1261.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Mahisbathan Kolkata,22000.0,1780.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,22000.0,1100.0,Furnished,2.0
 BUILDER,3.0,BHK,Apartment,Tangra,35000.0,1475.0,Furnished,2.0
-BUILDER,4.0,BHK,Apartment,Ballygunge,350000.0,3900.0,Semi-Furnished,4.0
-BUILDER,3.0,BHK,Apartment,Ballygunge,70000.0,1588.0,Furnished,2.0
-BUILDER,3.0,BHK,Apartment,Tangra,50000.0,1650.0,Furnished,2.0
-BUILDER,3.0,BHK,Apartment,Mukundapur,45000.0,1900.0,Semi-Furnished,3.0
 BUILDER,3.0,BHK,Apartment,Salt Lake City,30000.0,1550.0,Unfurnished,2.0
 BUILDER,3.0,BHK,Apartment,Salt Lake City,32000.0,1700.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,18000.0,1201.0,Furnished,3.0
-AGENT,3.0,BHK,Independent Floor,Alipore,80000.0,2400.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,50000.0,1900.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Alipore,150000.0,3600.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Alipore,55000.0,2200.0,Semi-Furnished,3.0
-AGENT,5.0,BHK,Apartment,Alipore,200000.0,4200.0,Semi-Furnished,5.0
-AGENT,4.0,BHK,Apartment,Alipore,150000.0,3100.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Alipore,70000.0,2500.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,170000.0,4100.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1005.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,60000.0,1900.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Alipore,40000.0,1900.0,Unfurnished,3.0
-AGENT,2.0,BHK,Apartment,Alipore,50000.0,1300.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Alipore,45000.0,1600.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Lake Town,50000.0,1570.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,50000.0,2100.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,75000.0,2150.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Alipore,100000.0,2900.0,Semi-Furnished,4.0
-AGENT,5.0,BHK,Apartment,Alipore,150000.0,3300.0,Unfurnished,5.0
 OWNER,2.0,BHK,Apartment,Survey Park,9000.0,700.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Kuldiha,5000.0,864.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bijoygarh Sree Colony,7500.0,535.0,Unfurnished,2.0
@@ -3140,7 +2802,6 @@ OWNER,1.0,BHK,Apartment,Rajarhat,7000.0,500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Kona Expressway,24000.0,1921.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Rajarhat,8000.0,500.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,9000.0,410.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,E M Bypass,60000.0,2100.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,15000.0,1280.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Garia,13000.0,1000.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Nayabad,16000.0,1288.0,Furnished,3.0
@@ -3157,8 +2818,6 @@ AGENT,3.0,BHK,Apartment,Khidirpur,28000.0,1450.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Park Circus,30000.0,850.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Anandapur,12000.0,1000.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Kestopur,10500.0,1000.0,Unfurnished,2.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,60000.0,1954.0,Semi-Furnished,3.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,55000.0,1686.0,Furnished,3.0
 OWNER,2.0,BHK,Independent House,Jadavpur,7000.0,750.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,23000.0,956.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bow Bazaar,40000.0,1150.0,Furnished,3.0
@@ -3167,8 +2826,6 @@ AGENT,2.0,BHK,Apartment,Phool Bagan,25000.0,900.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,30000.0,1067.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Tangra,16000.0,600.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,20000.0,1070.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Lake Terrace Road,55000.0,1550.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,60000.0,1476.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Joka,19000.0,1415.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,18000.0,900.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Dum Dum Park,18000.0,1860.0,Semi-Furnished,2.0
@@ -3192,11 +2849,9 @@ OWNER,2.0,BHK,Apartment,Andul,12000.0,700.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,Sealdah,35000.0,1600.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Golf Green,10000.0,950.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Narendrapur,12500.0,850.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Garia,150000.0,5318.0,Semi-Furnished,6.0
 AGENT,2.0,BHK,Apartment,Rajarhat,9000.0,880.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,14000.0,1070.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Garia,8000.0,820.0,Unfurnished,2.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,45000.0,1458.0,Semi-Furnished,2.0
 BUILDER,2.0,BHK,Apartment,Tangra,23000.0,1060.0,Unfurnished,2.0
 BUILDER,3.0,BHK,Apartment,Tollygunge,35000.0,1532.0,Unfurnished,2.0
 BUILDER,3.0,BHK,Apartment,Salt Lake City,25000.0,1550.0,Unfurnished,2.0
@@ -3208,7 +2863,6 @@ AGENT,2.0,BHK,Apartment,Mukundapur,15000.0,700.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,22000.0,1070.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,30000.0,1766.0,Furnished,2.0
 AGENT,2.0,BHK,Independent House,New Town,20000.0,1250.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Ballygunge,260000.0,4000.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Bijoygarh,12000.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Naktala,12000.0,700.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Mukundapur,6500.0,450.0,Unfurnished,1.0
@@ -3240,7 +2894,6 @@ AGENT,1.0,BHK,Apartment,New Town,12000.0,399.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Golf Green,9000.0,450.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Behala,7000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,James Long Sarani Behala,15000.0,1000.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,70000.0,2502.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Mukundapur,20000.0,900.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,25000.0,1080.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,6500.0,420.0,Unfurnished,1.0
@@ -3256,18 +2909,11 @@ OWNER,2.0,BHK,Apartment,Budge Budge,12000.0,712.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Behala,5500.0,300.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Barisha,7000.0,700.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Budge Budge,7000.0,712.0,Unfurnished,2.0
-OWNER,3.0,BHK,Independent Floor,Kalighat,45000.0,1650.0,Semi-Furnished,2.0
-OWNER,6.0,BHK,Apartment,New Town,75000.0,2500.0,Semi-Furnished,6.0
-OWNER,3.0,BHK,Independent Floor,Salap,99000.0,4000.0,Unfurnished,3.0
 OWNER,2.0,BHK,Independent House,Serampore,8000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Mourigram,7500.0,720.0,Unfurnished,1.0
 OWNER,3.0,BHK,Independent Floor,Sodepur,10000.0,1600.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Jadavpur,3000.0,300.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,New Town,55000.0,1738.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Dhapa,65000.0,2440.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,125000.0,2500.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,1966.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,120000.0,2500.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,M G ROAD Haridevpur,8000.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,16000.0,960.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,15000.0,1464.0,Unfurnished,3.0
@@ -3276,7 +2922,6 @@ AGENT,2.0,BHK,Apartment,Selimpur Road,12000.0,800.0,Unfurnished,1.0
 BUILDER,3.0,BHK,Apartment,Tollygunge,40000.0,1750.0,Unfurnished,3.0
 BUILDER,3.0,BHK,Apartment,Tollygunge,29000.0,1435.0,Semi-Furnished,2.0
 BUILDER,3.0,BHK,Apartment,Salt Lake City,35000.0,1421.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Garia,130000.0,3528.0,Semi-Furnished,5.0
 AGENT,2.0,BHK,Apartment,Parnasree Pally,11000.0,890.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,15000.0,980.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Rajarhat,5000.0,600.0,Unfurnished,1.0
@@ -3314,19 +2959,15 @@ OWNER,1.0,RK,Studio Apartment,New Town,5000.0,550.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Keshtopur,8500.0,625.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Baghajatin,13000.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Joka,10000.0,800.0,Semi-Furnished,2.0
-OWNER,1.0,RK,Studio Apartment,Noapara,110000.0,1500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Thakurpukur,10501.0,1100.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Baguihati,14000.0,1050.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Jagatdal,8000.0,800.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Independent Floor,Rajarhat,15000.0,850.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,70000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,14000.0,1111.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Joka,12000.0,811.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18000.0,1275.0,Semi-Furnished,2.0
 BUILDER,3.0,BHK,Apartment,Tangra,32000.0,1727.0,Unfurnished,2.0
-BUILDER,4.0,BHK,Apartment,Tangra,65000.0,2581.0,Furnished,4.0
 AGENT,2.0,BHK,Apartment,Rajarhat,15000.0,1334.0,Unfurnished,2.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,90000.0,1954.0,Furnished,3.0
 AGENT,4.0,BHK,Apartment,New Town,30000.0,2080.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tangra,30000.0,1750.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,40000.0,1080.0,Furnished,2.0
@@ -3342,7 +2983,6 @@ OWNER,2.0,BHK,Apartment,Sodepur,12000.0,800.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Behala,12000.0,900.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Jagatdal,2500.0,150.0,Furnished,1.0
 OWNER,3.0,BHK,Apartment,New Town,20000.0,1282.0,Furnished,2.0
-OWNER,4.0,BHK,Apartment,Tangra,150000.0,2402.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Howrah,11000.0,852.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,12800.0,800.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Agarpara,6500.0,740.0,Furnished,2.0
@@ -3382,10 +3022,6 @@ AGENT,3.0,BHK,Apartment,Dum Dum,35000.0,1283.0,Furnished,3.0
 BUILDER,3.0,BHK,Apartment,Tangra,30000.0,1539.0,Semi-Furnished,3.0
 BUILDER,2.0,BHK,Apartment,Mukundapur,25000.0,1069.0,Semi-Furnished,2.0
 BUILDER,2.0,BHK,Apartment,Mukundapur,18000.0,750.0,Unfurnished,2.0
-BUILDER,3.0,BHK,Apartment,Mukundapur,45000.0,1900.0,Semi-Furnished,2.0
-BUILDER,3.0,BHK,Apartment,Tangra,60000.0,2400.0,Unfurnished,3.0
-BUILDER,4.0,BHK,Apartment,Tangra,60000.0,2900.0,Unfurnished,3.0
-BUILDER,3.0,BHK,Apartment,Topsia Road,45000.0,1900.0,Furnished,3.0
 BUILDER,3.0,BHK,Apartment,Salt Lake City,33000.0,1211.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Golf Green,18000.0,950.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,12000.0,1000.0,Unfurnished,2.0
@@ -3401,7 +3037,6 @@ OWNER,2.0,BHK,Apartment,Dum Dum,20000.0,1010.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Noapara,8000.0,866.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Keshtopur,15000.0,1254.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Villa,Bhadreswar,10000.0,900.0,Unfurnished,1.0
-OWNER,2.0,BHK,Apartment,Elgin Road,75000.0,1600.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Peenya,6000.0,1200.0,Furnished,1.0
 OWNER,3.0,BHK,Apartment,Belghoria,11500.0,1100.0,Semi-Furnished,3.0
 OWNER,3.0,BHK,Apartment,New Town,21500.0,1350.0,Semi-Furnished,2.0
@@ -3445,19 +3080,12 @@ AGENT,2.0,BHK,Apartment,R B Connector,25000.0,1200.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,R B Connector,30000.0,1800.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Kasba Siemens,20000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jessore Road,14000.0,850.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Hindustan Park,50000.0,1700.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Prince Anwar Shah Rd,60000.0,1458.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Mukundapur,30000.0,1340.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,25000.0,950.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Prince Anwar Shah Rd,60000.0,1707.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,E M Bypass,48000.0,1861.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Tollygunge,14000.0,1200.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,25000.0,850.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Prince Anwar Shah Rd,45000.0,1665.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Southern Avenue,30000.0,1540.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Bhawanipur,45000.0,1450.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Ballygunge,30000.0,1250.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1490.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Garia,12000.0,650.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Beliaghata,5000.0,300.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Regent Park,9000.0,600.0,Semi-Furnished,2.0
@@ -3570,10 +3198,8 @@ OWNER,1.0,BHK,Independent House,Santragachi,6000.0,550.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Baguiati,22000.0,1400.0,Furnished,3.0
 OWNER,1.0,BHK,Apartment,Rajbari,7500.0,900.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,16000.0,1400.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Prince Anwar Shah Rd,45000.0,1500.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Behala Chowrasta,8500.0,830.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Maheshtala,5500.0,1200.0,Unfurnished,2.0
-OWNER,1.0,RK,Studio Apartment,Salt Lake City,55000.0,1000.0,Furnished,1.0
 OWNER,3.0,BHK,Independent Floor,Madurdaha Hussainpur,18000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Bhatpara,7500.0,600.0,Furnished,1.0
 OWNER,4.0,BHK,Independent Floor,Jorabagan,25000.0,1365.0,Unfurnished,2.0
@@ -3627,12 +3253,10 @@ AGENT,3.0,BHK,Apartment,Rajarhat,10000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Kaikhali,17000.0,1625.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Chandannagar,25000.0,1500.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Uttarpara Kotrung,10000.0,650.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Alipore,70000.0,2400.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Tollygunge,42000.0,2000.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Narendrapur,8500.0,950.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Chingrighata Flyover,6000.0,424.0,Unfurnished,1.0
 AGENT,3.0,BHK,Independent Floor,Tagore Park,15000.0,1500.0,Unfurnished,2.0
-BUILDER,3.0,BHK,Apartment,Ballygunge,55000.0,1900.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Entally,17000.0,1000.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Gardens,11000.0,700.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Katju Nagar,11000.0,700.0,Unfurnished,1.0
@@ -3693,12 +3317,9 @@ AGENT,2.0,BHK,Apartment,Khidirpur,22000.0,750.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bansdroni,10000.0,750.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Behala,10000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Nager Bazar,8000.0,850.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Topsia,75000.0,2234.0,Unfurnished,6.0
 OWNER,2.0,BHK,Independent Floor,James Long Sarani Behala,8000.0,1200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Tollygunge,35000.0,2100.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Rajarhat,22000.0,1750.0,Unfurnished,3.0
-AGENT,5.0,BHK,Apartment,Bhawanipur,200000.0,5000.0,Furnished,5.0
-AGENT,2.0,BHK,Apartment,Ballygunge,55000.0,1500.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Park Side Road,37000.0,1200.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Residential Flat Haridevpur,7000.0,450.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Sodepur,14000.0,810.0,Unfurnished,2.0
@@ -3742,16 +3363,13 @@ AGENT,1.0,BHK,Apartment,Chingrighata Flyover,7000.0,445.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Purba Sinthee Bye Lane,6500.0,600.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Lake Gardens,8500.0,450.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Jadavpur,8000.0,450.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Tollygunge,68000.0,1800.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,New Alipore,18000.0,780.0,Furnished,2.0
 BUILDER,3.0,BHK,Apartment,Behala,22000.0,1050.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Sector V,7000.0,443.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Lake Gardens,25000.0,1500.0,Furnished,3.0
 OWNER,1.0,BHK,Independent Floor,Kamdahari,7000.0,288.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent House,New Town,45000.0,2300.0,Furnished,4.0
 OWNER,2.0,BHK,Apartment,Metiabruz,12000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Maheshtala,5500.0,1100.0,Unfurnished,2.0
-OWNER,4.0,BHK,Apartment,Rajarhat,102000.0,4100.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Kaikhali,16000.0,900.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Patuli,7000.0,450.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Hedua,25000.0,1680.0,Semi-Furnished,3.0
@@ -3790,7 +3408,6 @@ AGENT,2.0,BHK,Apartment,Narayanpur,14000.0,1035.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Narayanpur,10500.0,880.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Action Area II,18000.0,1260.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat Gopalpur,9000.0,910.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Rajarhat Gopalpur,98000.0,890.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Chinar Park,18000.0,1260.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Action Area II,16000.0,1180.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Dash Drone,11700.0,800.0,Unfurnished,2.0
@@ -3885,7 +3502,6 @@ AGENT,1.0,BHK,Apartment,Keshtopur,4800.0,433.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Action Area 1A,7000.0,436.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Keshtopur,9000.0,844.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Alipore,38000.0,1850.0,Unfurnished,3.0
-OWNER,3.0,BHK,Apartment,Raja Basanta Roy Road,50000.0,1680.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Apartment,Haridebpur,12000.0,500.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Haridebpur,10000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kudghat Bridge,8000.0,800.0,Unfurnished,1.0
@@ -3916,7 +3532,6 @@ OWNER,1.0,BHK,Apartment,Maheshtala,6000.0,480.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Andul,7000.0,750.0,Furnished,1.0
 OWNER,2.0,BHK,Independent House,Paschim Putiary,8000.0,750.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Netaji Nagar,12000.0,800.0,Unfurnished,1.0
-OWNER,4.0,BHK,Apartment,Bipin Pal Road,70000.0,2350.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Poddar Nagar,8000.0,450.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Bikramgarh,8000.0,450.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Golf Green,8000.0,450.0,Semi-Furnished,1.0
@@ -3926,7 +3541,6 @@ AGENT,2.0,BHK,Apartment,Thakurpukur,13000.0,800.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Tangra,16000.0,672.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Picnic Garden,10000.0,500.0,Furnished,1.0
 OWNER,3.0,BHK,Independent House,Belghoria,11000.0,900.0,Unfurnished,1.0
-OWNER,2.0,BHK,Apartment,New Town,44500.0,2125.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Ganguly Bagan,7500.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,25000.0,800.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Topsia,9000.0,500.0,Unfurnished,1.0
@@ -3993,7 +3607,6 @@ OWNER,2.0,BHK,Independent Floor,Keshtopur,11000.0,850.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Keshtopur,8000.0,550.0,Furnished,1.0
 OWNER,1.0,BHK,Apartment,New Town,7500.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Bramhapur,10000.0,700.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent Floor,Bally,100000.0,2436.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,14000.0,720.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Dhapa,21000.0,670.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Regent Park,8500.0,600.0,Semi-Furnished,1.0
@@ -4004,7 +3617,6 @@ OWNER,2.0,BHK,Apartment,New Town,12000.0,800.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Kaikhali,5000.0,400.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Keshtopur,6000.0,450.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Jadavpur,18000.0,1200.0,Unfurnished,2.0
-AGENT,1.0,RK,Studio Apartment,Selimpur,80000.0,240.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Joka,15000.0,1295.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Phool Bagan,22000.0,860.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Haltu,33000.0,1403.0,Semi-Furnished,3.0
@@ -4029,7 +3641,6 @@ OWNER,2.0,BHK,Independent House,Garia,4800.0,400.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Garia,4000.0,360.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Barrackpore,7500.0,600.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Alipore,20000.0,850.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Southern Avenue,60000.0,1810.0,Furnished,3.0
 OWNER,2.0,BHK,Independent House,Barrackpore,6500.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Keshtopur,6000.0,600.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Netaji Nagar,8500.0,700.0,Unfurnished,2.0
@@ -4050,18 +3661,13 @@ OWNER,1.0,BHK,Villa,Golpark,3500.0,650.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Apartment,Dunlop,12000.0,1000.0,Semi-Furnished,2.0
 BUILDER,3.0,BHK,Apartment,Mukundapur,35000.0,1660.0,Semi-Furnished,3.0
 BUILDER,3.0,BHK,Apartment,Mukundapur,30000.0,1400.0,Semi-Furnished,3.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,55000.0,1472.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,45000.0,2800.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,25000.0,1163.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,15000.0,900.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,9500.0,450.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Metropolitan CoOperative Housing Society Limited Tangra,7000.0,422.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Alipore,40000.0,1450.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Diamond Park,10000.0,800.0,Semi-Furnished,2.0
-OWNER,2.0,BHK,Apartment,New Town,50000.0,1550.0,Furnished,2.0
-OWNER,1.0,BHK,Apartment,Dhapa,55000.0,1250.0,Furnished,1.0
 OWNER,2.0,BHK,Independent House,Sector 22,17000.0,590.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Santoshpur,45000.0,2100.0,Furnished,3.0
 OWNER,3.0,BHK,Independent House,Dum Dum,6500.0,600.0,Furnished,1.0
 OWNER,1.0,BHK,Independent House,Sodepur,10000.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Behala,6000.0,800.0,Furnished,2.0
@@ -4086,9 +3692,7 @@ AGENT,3.0,BHK,Apartment,sahakara nagar,31200.0,1200.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,sahakara nagar,33000.0,1260.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Kankurgachi,18000.0,1000.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Keshtopur,8000.0,600.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1430.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bansdroni,25000.0,1100.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,75000.0,1850.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Rajarhat,14000.0,985.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Baghajatin,10000.0,600.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Dum Dum,7500.0,450.0,Unfurnished,1.0
@@ -4096,7 +3700,6 @@ OWNER,1.0,BHK,Independent Floor,Maniktala,10000.0,300.0,Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bijoygarh,8000.0,690.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Salt Lake City,16000.0,1086.0,Furnished,2.0
 OWNER,2.0,BHK,Independent House,Balitikuri,6000.0,500.0,Furnished,1.0
-OWNER,2.0,BHK,Apartment,New Town,45000.0,2125.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,8000.0,750.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,15000.0,850.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Lake Town,18000.0,1100.0,Furnished,2.0
@@ -4130,11 +3733,8 @@ OWNER,1.0,BHK,Apartment,Keshtopur,10000.0,690.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Rajarhat,4000.0,451.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Thakurpukur,10000.0,1000.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent House,Ballygunge Place East,25000.0,1400.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Tollygunge,55000.0,1600.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,30000.0,1195.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,40000.0,1695.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,150000.0,3050.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,70000.0,2450.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Jadavpur,12000.0,700.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Jadavpur,12500.0,1300.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Behala,13000.0,1110.0,Unfurnished,2.0
@@ -4151,7 +3751,6 @@ OWNER,1.0,RK,Studio Apartment,Salt Lake City,5000.0,400.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Salt Lake City,6000.0,450.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Behala,6000.0,740.0,Furnished,1.0
 OWNER,1.0,BHK,Apartment,Tollygunge,6000.0,450.0,Furnished,1.0
-OWNER,2.0,BHK,Apartment,New Town,45001.0,2125.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,New Alipore,7500.0,700.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Santoshpur,20000.0,1100.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Rajarhat,9000.0,650.0,Semi-Furnished,2.0
@@ -4189,17 +3788,14 @@ AGENT,2.0,BHK,Independent Floor,New Alipore,12000.0,680.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Metropolitan,25000.0,1050.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,16000.0,600.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Howrah,18000.0,1400.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,3000.0,Furnished,3.0
 BUILDER,1.0,BHK,Apartment,Chingrighata Flyover,6000.0,442.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,Baranagar,13000.0,1050.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Narendrapur,16000.0,1229.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Jadavpur,35000.0,1583.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Chingrighata Flyover,6000.0,433.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Narkel Bagan New Town,10000.0,702.0,Unfurnished,1.0
-BUILDER,3.0,BHK,Apartment,Tangra,55000.0,2186.0,Unfurnished,3.0
 BUILDER,2.0,BHK,Apartment,Salt Lake City,25000.0,1032.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,Parnashree,18000.0,1350.0,Unfurnished,2.0
-OWNER,5.0,BHK,Apartment,New Town,45000.0,3079.0,Semi-Furnished,5.0
 OWNER,2.0,BHK,Apartment,Rajarhat,15000.0,809.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kasba,10000.0,1076.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,8000.0,800.0,Semi-Furnished,2.0
@@ -4213,14 +3809,12 @@ OWNER,1.0,RK,Studio Apartment,New Town,4300.0,380.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,New Town,4500.0,500.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Apartment,Barasat,5000.0,650.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent Floor,Rajarhat,3000.0,300.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Nazirabad,125000.0,3000.0,Furnished,5.0
 BUILDER,2.0,BHK,Apartment,Andul Mauri,7000.0,870.0,Semi-Furnished,2.0
 BUILDER,2.0,BHK,Apartment,Chunavati,7000.0,700.0,Semi-Furnished,2.0
 BUILDER,2.0,BHK,Apartment,Salt Lake City,25000.0,1060.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Keshtopur,4900.0,396.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Keshtopur,5000.0,425.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Keshtopur,5000.0,419.0,Unfurnished,1.0
-AGENT,1.0,BHK,Apartment,Keshtopur,45000.0,420.0,Unfurnished,1.0
 BUILDER,1.0,BHK,Apartment,Sector 5 Road,6500.0,427.0,Unfurnished,1.0
 BUILDER,1.0,BHK,Apartment,Keshtopur,6000.0,412.0,Unfurnished,1.0
 BUILDER,1.0,BHK,Apartment,New Town,7000.0,415.0,Unfurnished,1.0
@@ -4249,7 +3843,6 @@ AGENT,3.0,BHK,Apartment,Garia,24000.0,1545.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Ballygunge,35000.0,1329.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Swiss Park,23000.0,1000.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Swiss Park,22000.0,1000.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1350.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,35000.0,1350.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,35000.0,1200.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,30000.0,1200.0,Semi-Furnished,2.0
@@ -4258,8 +3851,6 @@ AGENT,3.0,BHK,Apartment,Topsia,30000.0,1535.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,32000.0,1400.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,32000.0,1500.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,28000.0,1200.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,65000.0,1301.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,45000.0,1350.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bijoygarh,13000.0,750.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bijoygarh Sree Colony,10000.0,750.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Lake Gardens,26000.0,1350.0,Unfurnished,2.0
@@ -4320,7 +3911,6 @@ AGENT,1.0,BHK,Apartment,Prince Anwar Shah Rd,7500.0,550.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Prince Anwar Shah Rd,10000.0,500.0,Semi-Furnished,1.0
 BUILDER,3.0,BHK,Apartment,Tangra,40000.0,1753.0,Unfurnished,3.0
 AGENT,1.0,BHK,Villa,Keshtopur,5000.0,439.0,Unfurnished,1.0
-AGENT,1.0,BHK,Apartment,Keshtopur,45000.0,398.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Ballygunge,23000.0,500.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Narkel Bagan New Town,10000.0,681.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Beleghata Main Road,10000.0,704.0,Unfurnished,1.0
@@ -4339,27 +3929,19 @@ OWNER,3.0,BHK,Apartment,New Town,15000.0,1700.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Garia,25000.0,1600.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Behala,9700.0,600.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Agarpara,6000.0,1200.0,Unfurnished,1.0
-OWNER,1.0,RK,Studio Apartment,Salt Lake City,45920.0,580.0,Furnished,1.0
 OWNER,1.0,BHK,Apartment,Bansdroni,6000.0,470.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Independent House,Kadam Tala,10000.0,2000.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Patuli,7000.0,380.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Santoshpur,14000.0,800.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Park Circus,36000.0,1410.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,78000.0,1816.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Topsia,55000.0,1700.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Behala,20000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Sealdah,30000.0,1130.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Mudialy Road,30000.0,750.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Jadavpur,45000.0,1130.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,65000.0,1339.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,55000.0,1339.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Jadavpur,55000.0,1130.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Garia,30000.0,1200.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Behala,25000.0,1220.0,Semi-Furnished,2.0
 AGENT,1.0,BHK,Apartment,Lake Gardens,6000.0,450.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,New Town,7000.0,500.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Mukundapur,25000.0,950.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Jadavpur,45000.0,1130.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Golf Green,15000.0,750.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,20000.0,730.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,20000.0,850.0,Semi-Furnished,1.0
@@ -4367,7 +3949,6 @@ AGENT,2.0,BHK,Apartment,Joka,18000.0,1055.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Kasba,15000.0,500.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Kasba,15000.0,800.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Park Circus,35000.0,1400.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Rabindra Sarova Metro,45000.0,1300.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Bosepukur,14000.0,800.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Santoshpur,22000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Alipore,28000.0,1203.0,Semi-Furnished,2.0
@@ -4487,10 +4068,7 @@ AGENT,2.0,BHK,Apartment,Metropolitan CoOperative Housing Society Limited Tangra,
 OWNER,3.0,BHK,Apartment,Kaikhali,18000.0,1300.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Baguiati,8000.0,650.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,New Town,4000.0,270.0,Semi-Furnished,1.0
-OWNER,6.0,BHK,Independent Floor,Lake Gardens,53000.0,2200.0,Unfurnished,4.0
-OWNER,3.0,BHK,Independent Floor,Dhapa,50000.0,1780.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent Floor,Behala,8500.0,900.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Apartment,Dhapa,50000.0,1780.0,Furnished,3.0
 OWNER,1.0,RK,Studio Apartment,Barabazar Market,15000.0,250.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Dum Dum,9000.0,700.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Phool Bagan,20000.0,990.0,Furnished,1.0
@@ -4502,7 +4080,6 @@ OWNER,1.0,BHK,Apartment,Tollygunge,7500.0,550.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Patuli,5000.0,500.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Independent House,Keshtopur,5500.0,400.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Madhyamgram,12000.0,945.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Kalighat,70000.0,2250.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Golf Green,30000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,42000.0,1150.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,35000.0,1500.0,Furnished,2.0
@@ -4510,13 +4087,10 @@ AGENT,2.0,BHK,Apartment,Behala Sakher Bazar,9500.0,800.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,35000.0,1300.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,25000.0,850.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,35000.0,1000.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1300.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Southern Avenue,30000.0,1085.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Santoshpur,33000.0,1329.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Tangra,45000.0,1150.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Garia,14000.0,583.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Garfa,18000.0,1200.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Park Street Area,96000.0,3021.0,Semi-Furnished,4.0
 AGENT,1.0,BHK,Apartment,Chingrighata,8000.0,400.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Poddar Nagar,8000.0,500.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Jodhpur Park,25000.0,1000.0,Semi-Furnished,2.0
@@ -4544,7 +4118,6 @@ OWNER,3.0,BHK,Apartment,Madhyamgram,12500.0,1100.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent Floor,Haltu,4500.0,170.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Baranagar,18000.0,700.0,Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Lal Bazar,11000.0,220.0,Furnished,2.0
-OWNER,1.0,RK,Studio Apartment,Sarsuna,45000.0,660.0,Unfurnished,3.0
 OWNER,1.0,BHK,Independent House,Belghoria,5500.0,280.0,Furnished,1.0
 OWNER,1.0,BHK,Independent House,south dum dum,6000.0,370.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Agarpara,7500.0,700.0,Unfurnished,1.0
@@ -4591,12 +4164,7 @@ AGENT,2.0,BHK,Apartment,Tollygunge,16000.0,650.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Alipore,15000.0,1000.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Park Circus,18000.0,800.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Jodhpur Gardens,11000.0,650.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Tollygunge,65000.0,2013.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,New Town,62000.0,2200.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ballygunge,75000.0,2092.0,Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ultadanga,70000.0,1865.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Garia,30000.0,2153.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Tangra,45000.0,1727.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Baishnabghata Patuli Township,26000.0,1760.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Poddar Nagar,16000.0,650.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,Survey Park,15000.0,624.0,Furnished,1.0
@@ -4622,7 +4190,6 @@ OWNER,3.0,BHK,Independent Floor,Kalyani,35000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Dum Dum,10000.0,700.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Kamardanga,7000.0,650.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Kamardanga,15000.0,1200.0,Unfurnished,2.0
-OWNER,3.0,BHK,Independent Floor,Dhapa,45000.0,1600.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Apartment,Keshtopur,6000.0,650.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Villa,Garia,14000.0,1190.0,Furnished,1.0
 OWNER,2.0,BHK,Independent House,Garfa,12000.0,1020.0,Semi-Furnished,1.0
@@ -4636,7 +4203,6 @@ OWNER,2.0,BHK,Apartment,Sodepur,12000.0,1050.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Sodepur,9000.0,450.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Keshtopur,14000.0,800.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Bally,8500.0,800.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Independent Floor,Noapara,50000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Rajarhat,5000.0,600.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Beniapukur,10000.0,300.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Haltu,10500.0,600.0,Semi-Furnished,1.0
@@ -4645,7 +4211,6 @@ OWNER,1.0,BHK,Apartment,Ghosh Para,4000.0,390.0,Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,Peenya,6500.0,500.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,Uttarpara Kotrung,5000.0,400.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Haltu,8500.0,700.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,New Town,60000.0,3866.0,Semi-Furnished,4.0
 AGENT,2.0,BHK,Apartment,Topsia,16000.0,870.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent Floor,Topsia Road,20000.0,1150.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent Floor,Topsia Road,17000.0,1250.0,Unfurnished,2.0
@@ -4674,7 +4239,6 @@ AGENT,2.0,BHK,Apartment,Hussainpur,21000.0,1000.0,Furnished,2.0
 AGENT,1.0,RK,Studio Apartment,New Town,10500.0,240.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,14000.0,700.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Sant Nagar,16200.0,900.0,Semi-Furnished,1.0
-AGENT,3.0,BHK,Apartment,Mukundapur,45000.0,1566.0,Semi-Furnished,3.0
 AGENT,1.0,BHK,Independent Floor,Garia,15000.0,650.0,Furnished,1.0
 AGENT,3.0,BHK,Independent Floor,sahakara nagar,30000.0,1600.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Shibpur,12000.0,1000.0,Unfurnished,2.0
@@ -4692,13 +4256,10 @@ AGENT,2.0,BHK,Apartment,sahakara nagar,25000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,sahakara nagar,22000.0,1050.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,sahakara nagar,20000.0,1150.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,32000.0,1520.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,65000.0,2010.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,41000.0,2231.0,Furnished,2.0
 AGENT,2.0,BHK,Independent Floor,Sukanta Nagar,9000.0,520.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,East Kolkata Township,20000.0,850.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,18500.0,1250.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Madurdaha Hussainpur,52000.0,2393.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1350.0,Furnished,2.0
 AGENT,3.0,BHK,Independent House,sahakara nagar,35000.0,1850.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Independent House,sahakara nagar,35000.0,1580.0,Semi-Furnished,4.0
@@ -4706,7 +4267,6 @@ AGENT,2.0,BHK,Apartment,Ballygunge,25000.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,27000.0,1100.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,12000.0,900.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,24000.0,1226.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,55000.0,1450.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Bansdroni,9000.0,950.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,City Center,40000.0,1400.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rabindra Sarovar,16000.0,840.0,Unfurnished,1.0
@@ -4717,7 +4277,6 @@ OWNER,1.0,BHK,Independent House,Rajarhat,3500.0,200.0,Semi-Furnished,1.0
 AGENT,3.0,BHK,Apartment,Tangra,22000.0,1077.0,Unfurnished,2.0
 OWNER,1.0,BHK,Apartment,Garfa,10000.0,410.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1617.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1911.0,Furnished,3.0
 AGENT,3.0,BHK,Independent Floor,sahakara nagar,21000.0,950.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Independent Floor,sahakara nagar,32000.0,1700.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,21000.0,1761.0,Unfurnished,2.0
@@ -4725,23 +4284,14 @@ AGENT,2.0,BHK,Apartment,Haridebpur,17000.0,800.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Behala,8000.0,1000.0,Furnished,1.0
 OWNER,2.0,BHK,Independent House,Garia,14000.0,1180.0,Furnished,1.0
 OWNER,2.0,BHK,Independent House,Behala,10500.0,1200.0,Furnished,1.0
-AGENT,2.0,BHK,Apartment,Tangra,52000.0,1150.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Topsia,55000.0,2100.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Jadavpur,65000.0,1600.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Jadavpur,42000.0,1110.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,Rajarhat,15000.0,770.0,Furnished,1.0
-AGENT,4.0,BHK,Apartment,Dhakuria,140000.0,3200.0,Furnished,3.0
 AGENT,1.0,BHK,Villa,Thakurpukur,5500.0,296.0,Semi-Furnished,1.0
-AGENT,4.0,BHK,Apartment,Madurdaha Hussainpur,135000.0,5205.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,32528.0,1712.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,15000.0,730.0,Semi-Furnished,2.0
-AGENT,1.0,RK,Studio Apartment,Prince Anwar Shah Rd,49940.0,227.0,Semi-Furnished,1.0
-OWNER,5.0,BHK,Independent House,Banamalipur,250000.0,4000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Chetla,23000.0,1200.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Chetla,16000.0,800.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Tangra,90000.0,2371.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Lake Gardens,30000.0,1600.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Tangra,135000.0,2822.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,New Town,21000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Metiabruz,14000.0,1029.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Behala,12000.0,779.0,Semi-Furnished,2.0
@@ -4751,79 +4301,38 @@ AGENT,1.0,BHK,Independent Floor,Sant Nagar,16000.0,650.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Jadavpur,18000.0,900.0,Unfurnished,2.0
 AGENT,1.0,BHK,Independent Floor,Sant Nagar,20000.0,650.0,Furnished,1.0
 AGENT,3.0,BHK,Independent Floor,Sant Nagar,28000.0,1600.0,Furnished,3.0
-AGENT,3.0,BHK,Villa,New Town,50000.0,3042.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Villa,New Town,100000.0,4355.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Villa,New Town,65000.0,3483.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Tangra,25000.0,1050.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Jodhpur Gardens,7500.0,420.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Lake Town,45000.0,1625.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Bhawanipur,27000.0,1250.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Alipore,75000.0,2650.0,Unfurnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,50000.0,2050.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,150000.0,2450.0,Furnished,3.0
-AGENT,2.0,BHK,Apartment,Alipore,50000.0,1600.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,20000.0,850.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Tangra,130000.0,2822.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Tangra,85000.0,2371.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Park Street,70000.0,1950.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2050.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,100000.0,2650.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,140000.0,2650.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Alipore,70000.0,2250.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ballygunge,250000.0,4050.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Alipore,150000.0,3250.0,Unfurnished,3.0
 AGENT,2.0,BHK,Independent Floor,Ganguly Bagan,12000.0,950.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,New Town,40000.0,3500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,New Town,42000.0,2180.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Rajarhat,45000.0,1830.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,Katju Nagar,8000.0,450.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Bijoygarh,8000.0,450.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,Metropolitan,23000.0,900.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Jadavpur,45000.0,1583.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Sodepur,13000.0,995.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Rajarhat,15000.0,1327.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,47000.0,2913.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,25500.0,1617.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1718.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,37000.0,1650.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Naktala,18000.0,650.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,32000.0,1727.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Garia,65000.0,2927.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Behala,30000.0,1220.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Garia,9000.0,600.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Bhawanipur,45000.0,1250.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bhawanipur,37000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Ritchie Road,39000.0,1750.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,20000.0,1319.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,E M Bypass,160000.0,5318.0,Semi-Furnished,6.0
 AGENT,3.0,BHK,Apartment,Tangra,26000.0,1156.0,Unfurnished,2.0
-AGENT,15.0,BHK,Independent House,New Town,350000.0,10000.0,Furnished,16.0
-AGENT,4.0,BHK,Apartment,Mukundapur,80000.0,2800.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Mukundapur,60000.0,2074.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Mukundapur,40000.0,2074.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Santoshpur,40000.0,2100.0,Semi-Furnished,3.0
 AGENT,4.0,BHK,Apartment,Santoshpur,40000.0,2600.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Santoshpur,28000.0,1400.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,E M Bypass,55000.0,1833.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Madurdaha Hussainpur,120000.0,5318.0,Semi-Furnished,5.0
-AGENT,3.0,BHK,Apartment,Tangra,60000.0,1751.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Tangra,50000.0,1527.0,Furnished,3.0
-AGENT,2.0,BHK,Apartment,Mayfair Road,55000.0,1500.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge Circular Rd,55000.0,1400.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge,55000.0,1449.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Sarat Bose Road,55000.0,1400.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Elgin Road,55000.0,1400.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge Place East,50000.0,1300.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Gurusaday Road,55000.0,1400.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Iron Side Road,55000.0,1400.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Entally,25000.0,1000.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,30000.0,1455.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,28000.0,1296.0,Semi-Furnished,2.0
-AGENT,2.0,BHK,Apartment,Ballygunge Park,55000.0,1500.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,Santoshpur,65000.0,2500.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Santoshpur,38000.0,1600.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Santoshpur,42000.0,1800.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Tangra,90000.0,2772.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Beniapukur,20000.0,840.0,Unfurnished,2.0
 AGENT,1.0,BHK,Apartment,Salt Lake City,7000.0,437.0,Semi-Furnished,1.0
 AGENT,1.0,BHK,Apartment,Sector 5,6000.0,432.0,Unfurnished,1.0
@@ -4881,7 +4390,6 @@ OWNER,2.0,BHK,Apartment,Tollygunge,16000.0,650.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Garia,7000.0,900.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Behala,9800.0,650.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Budge Budge,8500.0,720.0,Unfurnished,2.0
-AGENT,6.0,BHK,Villa,Lake Gardens,150000.0,4500.0,Unfurnished,6.0
 AGENT,1.0,BHK,Apartment,New Town,7500.0,520.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Kankurgachi,12000.0,741.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Rajarhat,16000.0,822.0,Semi-Furnished,2.0
@@ -5032,18 +4540,8 @@ AGENT,3.0,BHK,Apartment,New Town,15000.0,910.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,13000.0,910.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,10000.0,650.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,New Town Rajarhat,10000.0,710.0,Unfurnished,1.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,55000.0,1550.0,Furnished,2.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,60000.0,1550.0,Furnished,2.0
-BUILDER,4.0,BHK,Apartment,Tangra,50000.0,2021.0,Semi-Furnished,3.0
-BUILDER,3.0,BHK,Apartment,Tangra,50000.0,1761.0,Unfurnished,3.0
-BUILDER,3.0,BHK,Apartment,E M Bypass,56000.0,1840.0,Furnished,3.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,45000.0,1583.0,Semi-Furnished,2.0
-BUILDER,3.0,BHK,Apartment,Jadavpur,55000.0,1583.0,Furnished,2.0
 BUILDER,3.0,BHK,Apartment,Tangra,30000.0,1216.0,Unfurnished,3.0
 BUILDER,3.0,BHK,Apartment,Tangra,42000.0,1527.0,Unfurnished,3.0
-BUILDER,4.0,BHK,Apartment,Tangra,55000.0,2846.0,Unfurnished,4.0
-BUILDER,3.0,BHK,Apartment,Tangra,60000.0,2241.0,Unfurnished,3.0
-BUILDER,3.0,BHK,Apartment,E M Bypass,50000.0,1840.0,Unfurnished,3.0
 BUILDER,3.0,BHK,Apartment,Tangra,30000.0,1423.0,Unfurnished,3.0
 OWNER,2.0,BHK,Apartment,New Barrakpur,7500.0,725.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Beliaghata,18000.0,750.0,Semi-Furnished,1.0
@@ -5076,9 +4574,7 @@ AGENT,1.0,BHK,Apartment,Keshtopur,9500.0,900.0,Unfurnished,2.0
 AGENT,3.0,BHK,Villa,New Town,30000.0,1800.0,Unfurnished,6.0
 AGENT,2.0,BHK,Independent Floor,Salt Lake City,15200.0,950.0,Unfurnished,2.0
 AGENT,3.0,BHK,Independent House,Salt Lake City,25000.0,1200.0,Unfurnished,2.0
-AGENT,5.0,BHK,Apartment,Salt Lake City,130000.0,3200.0,Furnished,7.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,25000.0,1800.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,50000.0,3200.0,Unfurnished,5.0
 AGENT,1.0,RK,Studio Apartment,Keshtopur,5500.0,550.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Keshtopur,5000.0,600.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Keshtopur,6000.0,600.0,Semi-Furnished,1.0
@@ -5092,7 +4588,6 @@ AGENT,1.0,RK,Studio Apartment,Keshtopur,5000.0,500.0,Semi-Furnished,1.0
 AGENT,1.0,RK,Studio Apartment,Keshtopur,6000.0,600.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Topsia,35000.0,1535.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Mandirtala,15000.0,720.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Topsia Road,60000.0,1900.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,1483.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Independent Floor,Entally,16000.0,700.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Behala,18000.0,1312.0,Unfurnished,2.0
@@ -5103,24 +4598,16 @@ AGENT,3.0,BHK,Apartment,Tangra,32000.0,1540.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Behala,11000.0,1072.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,25000.0,1067.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Sodepur,11000.0,950.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Tangra,50000.0,1671.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,30000.0,1450.0,Unfurnished,2.0
 BUILDER,2.0,BHK,Apartment,Sector IV Salt Lake,10000.0,628.0,Unfurnished,1.0
 BUILDER,2.0,BHK,Apartment,Chingrighata,14000.0,625.0,Furnished,1.0
 BUILDER,1.0,BHK,Apartment,Metropolitan CoOperative Housing Society Limited Tangra,6500.0,450.0,Unfurnished,1.0
-AGENT,2.0,BHK,Apartment,Park Street,60000.0,1595.0,Furnished,2.0
-AGENT,4.0,BHK,Apartment,E M Bypass,125000.0,3000.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Ballygunge,120000.0,2995.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Action Area I,15000.0,1250.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Alipore,45000.0,1295.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,35000.0,1809.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Action Area I,20000.0,1450.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1350.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,New Town,45000.0,1934.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Topsia,20000.0,1000.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Park Circus,22000.0,965.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,50000.0,1769.0,Unfurnished,3.0
-AGENT,2.0,BHK,Apartment,Alipore,70000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Park Circus,35000.0,1400.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,New Town,12000.0,250.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Ghosh Para,7000.0,1000.0,Semi-Furnished,2.0
@@ -5134,7 +4621,6 @@ OWNER,2.0,BHK,Independent Floor,New Town,22000.0,600.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Kalighat,40000.0,1427.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Narayantala West,9000.0,840.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,Belghoria,7000.0,400.0,Unfurnished,1.0
-OWNER,2.0,BHK,Apartment,Ballygunge Circular Rd,50000.0,1400.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,New Town,12000.0,1000.0,Furnished,1.0
 OWNER,3.0,BHK,Independent Floor,Sodepur,12000.0,1500.0,Unfurnished,3.0
 OWNER,2.0,BHK,Apartment,Behala,11500.0,825.0,Semi-Furnished,2.0
@@ -5146,7 +4632,6 @@ OWNER,2.0,BHK,Apartment,Newtown Action Area 1A,14000.0,850.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,30000.0,1100.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,25000.0,1156.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,22000.0,906.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Tangra,75000.0,1527.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tangra,28000.0,1609.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,25000.0,1555.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,28000.0,1450.0,Semi-Furnished,3.0
@@ -5154,7 +4639,6 @@ AGENT,2.0,BHK,Apartment,Tangra,32000.0,1133.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Dhakuria,25000.0,1100.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Behala,10000.0,900.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Dhapa,40000.0,1000.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Apartment,Jadavpur,60000.0,1600.0,Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Nayabad,5000.0,200.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Keshtopur,12000.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent House,Baghajatin,7000.0,450.0,Furnished,1.0
@@ -5176,8 +4660,6 @@ OWNER,2.0,BHK,Independent House,Dum Dum Cantonment,8000.0,1000.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Tangra,40000.0,1600.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,22000.0,1160.0,Semi-Furnished,2.0
 AGENT,4.0,BHK,Apartment,Tangra,40000.0,1890.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Tangra,60000.0,2620.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Tangra,45000.0,2028.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tangra,40000.0,1727.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Bangur avenue,27000.0,1400.0,Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,14000.0,875.0,Furnished,2.0
@@ -5195,9 +4677,7 @@ AGENT,3.0,BHK,Apartment,Topsia,35000.0,1535.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Ripon street,22000.0,960.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Entally,40000.0,1700.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Entally,35000.0,1355.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Park Street,45000.0,1250.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Park Street Area,30000.0,1100.0,Furnished,2.0
-AGENT,12.0,BHK,Independent Floor,Action Area IIB New Town,110000.0,5000.0,Unfurnished,8.0
 AGENT,1.0,BHK,Apartment,New Town,7000.0,610.0,Unfurnished,1.0
 BUILDER,2.0,BHK,Apartment,Beleghata Main Road,10000.0,675.0,Unfurnished,1.0
 AGENT,1.0,BHK,Apartment,Dum Dum Metro,5000.0,360.0,Unfurnished,1.0
@@ -5226,18 +4706,11 @@ OWNER,2.0,BHK,Apartment,New Town,14500.0,740.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Bansdroni,10000.0,800.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Makardah,3000.0,721.0,Semi-Furnished,2.0
 OWNER,1.0,BHK,Apartment,Baguihati,6000.0,900.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Salt Lake City,45000.0,1550.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Salt Lake City,46000.0,1505.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Salt Lake City,50000.0,1510.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Salt Lake City,45000.0,1950.0,Unfurnished,4.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,35000.0,1090.0,Furnished,2.0
-AGENT,3.0,BHK,Apartment,Salt Lake City,45000.0,1505.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,30000.0,1510.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,25000.0,1085.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Topsia Road,12000.0,1000.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Topsia Road,10000.0,700.0,Unfurnished,1.0
-AGENT,4.0,BHK,Apartment,Park Circus,60000.0,2300.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Park Circus,50000.0,1800.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Topsia,22000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Topsia,13000.0,1100.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Topsia,10000.0,800.0,Unfurnished,1.0
@@ -5267,7 +4740,6 @@ AGENT,1.0,BHK,Apartment,New Town,7000.0,469.0,Semi-Furnished,1.0
 AGENT,2.0,BHK,Apartment,New Town,19800.0,900.0,Furnished,2.0
 AGENT,1.0,BHK,Apartment,New Town,10500.0,400.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Metropolitan CoOperative Housing Society Limited Tangra,6500.0,432.0,Unfurnished,1.0
-AGENT,3.0,BHK,Apartment,Bhowanipore,55000.0,1650.0,Furnished,3.0
 AGENT,1.0,BHK,Apartment,New Town,9000.0,425.0,Furnished,1.0
 AGENT,3.0,BHK,Apartment,New Town,17000.0,950.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,New Town,9500.0,650.0,Unfurnished,2.0
@@ -5367,7 +4839,6 @@ AGENT,2.0,BHK,Apartment,Beliaghata,10000.0,705.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Salt Lake City,9000.0,739.0,Unfurnished,1.0
 AGENT,3.0,BHK,Apartment,Dum Dum,20000.0,1241.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Phool Bagan,43000.0,1495.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Kankurgachi,60000.0,2100.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Maniktala,17000.0,700.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Bangur Park,14000.0,830.0,Unfurnished,1.0
 AGENT,2.0,BHK,Apartment,Lake Town,12000.0,820.0,Unfurnished,1.0
@@ -5402,7 +4873,6 @@ OWNER,2.0,BHK,Apartment,Garia,7000.0,750.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Pancha Sayar,20000.0,1200.0,Furnished,2.0
 OWNER,1.0,BHK,Independent Floor,Tollygunge,20000.0,325.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,8000.0,700.0,Unfurnished,2.0
-OWNER,4.0,BHK,Independent House,Ballygunge,250000.0,5000.0,Furnished,5.0
 OWNER,2.0,BHK,Apartment,Madurdaha Hussainpur,12000.0,850.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Regent Park,8000.0,700.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Regent Park,3000.0,750.0,Furnished,1.0
@@ -5410,7 +4880,6 @@ OWNER,2.0,BHK,Apartment,Garia,12500.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Konnagar,10000.0,1000.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Howrah Railway Station,13000.0,700.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,10000.0,900.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent Floor,Dhapa,50000.0,1900.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,New Town,17000.0,1336.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,New Town,24000.0,1676.0,Furnished,3.0
 OWNER,3.0,BHK,Apartment,Tala,22000.0,1150.0,Semi-Furnished,2.0
@@ -5477,7 +4946,6 @@ OWNER,2.0,BHK,Independent Floor,Dum Dum Cantonment,10300.0,1050.0,Semi-Furnished
 OWNER,2.0,BHK,Apartment,Dum Dum,8000.0,720.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Tollygunge,10000.0,760.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,birati,6500.0,550.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Apartment,Mominpore,45000.0,2500.0,Unfurnished,3.0
 OWNER,1.0,BHK,Apartment,Bansdroni,8000.0,520.0,Furnished,1.0
 OWNER,1.0,BHK,Apartment,Behala,7000.0,500.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Chinar Park,24500.0,1351.0,Semi-Furnished,2.0
@@ -5504,50 +4972,22 @@ OWNER,2.0,BHK,Apartment,Garia,14500.0,950.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Madhyamgram,9000.0,783.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,New Town,40000.0,2147.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,New Town,30000.0,1050.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Topsia,600000.0,6000.0,Furnished,4.0
 AGENT,2.0,BHK,Independent Floor,Metropolitan,30000.0,1000.0,Furnished,2.0
 AGENT,3.0,BHK,Independent Floor,Metropolitan,32000.0,1500.0,Unfurnished,2.0
 AGENT,2.0,BHK,Independent Floor,Metropolitan,25000.0,1000.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Kankurgachi,100000.0,3455.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Garia,150000.0,5205.0,Semi-Furnished,6.0
-AGENT,4.0,BHK,Apartment,Garia,90000.0,3528.0,Semi-Furnished,5.0
-AGENT,5.0,BHK,Apartment,Kankurgachi,150000.0,4647.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Kankurgachi,120000.0,4365.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Salt Lake City,50000.0,2300.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,30000.0,1550.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Garia,55000.0,1982.0,Unfurnished,4.0
-AGENT,5.0,BHK,Apartment,E M Bypass,300000.0,9000.0,Unfurnished,6.0
-AGENT,3.0,BHK,Apartment,Garia,65000.0,2371.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Garia,85000.0,2867.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Garia,100000.0,3528.0,Semi-Furnished,5.0
-AGENT,5.0,BHK,Apartment,Garia,300000.0,9000.0,Semi-Furnished,7.0
-AGENT,2.0,BHK,Apartment,Hazra,50000.0,1100.0,Furnished,2.0
-AGENT,2.0,BHK,Apartment,Gariahat,110000.0,2400.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Gariahat,60000.0,1591.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Bondel Road,70000.0,2200.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Bondel Road,35000.0,1500.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Bondel Road,25000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Topsia,27000.0,1576.0,Unfurnished,2.0
-AGENT,2.0,BHK,Apartment,Picnic Garden,140000.0,800.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Ballygunge,185000.0,2798.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Ballygunge,180000.0,2799.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Picnic Garden,26000.0,1400.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,Topsia,50000.0,1674.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Picnic Garden,20000.0,1000.0,Unfurnished,2.0
-AGENT,3.0,BHK,Apartment,E M Bypass,72000.0,1978.0,Furnished,4.0
-AGENT,5.0,BHK,Apartment,E M Bypass,300000.0,9000.0,Semi-Furnished,7.0
 AGENT,3.0,BHK,Independent Floor,Metropolitan,37000.0,1500.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,27000.0,1080.0,Furnished,2.0
 AGENT,2.0,BHK,Apartment,Tangra,22000.0,1080.0,Semi-Furnished,2.0
 AGENT,2.0,BHK,Apartment,Topsia,34000.0,1042.0,Furnished,2.0
 AGENT,3.0,BHK,Apartment,Topsia,35000.0,1733.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,E M Bypass,150000.0,5205.0,Furnished,5.0
-AGENT,4.0,BHK,Apartment,E M Bypass,150000.0,5318.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Topsia,65000.0,2449.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Topsia,40000.0,1733.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,E M Bypass,150000.0,5318.0,Furnished,5.0
 AGENT,2.0,BHK,Apartment,Tangra,23000.0,1080.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,Salt Lake City,55000.0,2300.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,32000.0,1329.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Salt Lake City,30000.0,1329.0,Unfurnished,3.0
 AGENT,3.0,BHK,Apartment,Tangra,25000.0,1555.0,Unfurnished,2.0
@@ -5555,19 +4995,8 @@ AGENT,2.0,BHK,Apartment,Tangra,23000.0,1160.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Phool Bagan,27000.0,1166.0,Unfurnished,2.0
 AGENT,2.0,BHK,Apartment,Phool Bagan,24000.0,898.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Lake Town,35000.0,1521.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Lake Town,48000.0,1892.0,Unfurnished,4.0
-AGENT,4.0,BHK,Apartment,New Town,50000.0,2400.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Tangra,85000.0,2864.0,Furnished,3.0
-AGENT,5.0,BHK,Apartment,Tangra,150000.0,3321.0,Unfurnished,5.0
-AGENT,4.0,BHK,Apartment,Tangra,100000.0,2310.0,Unfurnished,4.0
-AGENT,3.0,BHK,Apartment,Tangra,80000.0,1914.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Tangra,150000.0,4258.0,Unfurnished,5.0
-AGENT,3.0,BHK,Apartment,E M Bypass,45000.0,1833.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,E M Bypass,50000.0,1982.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Tangra,30000.0,1650.0,Semi-Furnished,3.0
-AGENT,4.0,BHK,Apartment,Tangra,60000.0,2400.0,Furnished,4.0
 AGENT,3.0,BHK,Apartment,Tangra,40000.0,1650.0,Unfurnished,3.0
-AGENT,4.0,BHK,Apartment,Tangra,60000.0,2452.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Tangra,40000.0,1527.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Topsia,25000.0,1065.0,Semi-Furnished,2.0
 AGENT,3.0,BHK,Apartment,Topsia,30000.0,1535.0,Unfurnished,2.0
@@ -5581,31 +5010,14 @@ AGENT,2.0,BHK,Apartment,Tangra,25000.0,1100.0,Unfurnished,2.0
 AGENT,4.0,BHK,Apartment,Tangra,40000.0,1890.0,Unfurnished,4.0
 AGENT,3.0,BHK,Apartment,Tangra,27000.0,1405.0,Unfurnished,3.0
 AGENT,2.0,BHK,Apartment,Sealdah,28000.0,1185.0,Semi-Furnished,2.0
-AGENT,4.0,BHK,Apartment,New Town,70000.0,2400.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,New Town,50000.0,1930.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,New Town,70000.0,2657.0,Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ballygunge,80000.0,2400.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Tangra,90000.0,1914.0,Semi-Furnished,3.0
-AGENT,3.0,BHK,Apartment,Ballygunge,85000.0,2425.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Nr Ballygunge circular road,90000.0,2800.0,Furnished,3.0
-AGENT,3.0,BHK,Apartment,Hazra,72000.0,1850.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Mukundapur,100000.0,3761.0,Semi-Furnished,4.0
-AGENT,2.0,BHK,Apartment,Ballygunge,55000.0,1400.0,Furnished,2.0
-AGENT,5.0,BHK,Apartment,Ballygunge,500000.0,5000.0,Semi-Furnished,6.0
-AGENT,4.0,BHK,Apartment,Ballygunge,400000.0,4275.0,Semi-Furnished,4.0
-AGENT,3.0,BHK,Apartment,Ballygunge,150000.0,2500.0,Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tangra,30000.0,1600.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Tangra,28000.0,1156.0,Unfurnished,2.0
-AGENT,4.0,BHK,Apartment,Tangra,50000.0,2302.0,Semi-Furnished,4.0
 AGENT,3.0,BHK,Apartment,Tangra,32000.0,1809.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Entally,40000.0,1800.0,Furnished,3.0
 AGENT,2.0,BHK,Apartment,Ballygunge,26000.0,1100.0,Unfurnished,2.0
 AGENT,3.0,BHK,Apartment,Sealdah,37000.0,1750.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Sealdah,35000.0,1680.0,Semi-Furnished,3.0
 AGENT,2.0,BHK,Apartment,Sealdah,28000.0,1130.0,Semi-Furnished,2.0
-AGENT,3.0,BHK,Apartment,Ballygunge,75000.0,1301.0,Furnished,3.0
-AGENT,4.0,BHK,Apartment,Ballygunge,180000.0,4500.0,Semi-Furnished,4.0
-AGENT,4.0,BHK,Apartment,Topsia,45000.0,1906.0,Semi-Furnished,3.0
 AGENT,3.0,BHK,Apartment,Tangra,42000.0,1527.0,Unfurnished,3.0
 AGENT,1.0,BHK,Apartment,Lake Gardens,13000.0,500.0,Furnished,1.0
 AGENT,1.0,BHK,Apartment,Patuli,14000.0,450.0,Furnished,1.0
@@ -5633,7 +5045,6 @@ OWNER,3.0,BHK,Independent House,Lake Town,32000.0,1300.0,Furnished,2.0
 OWNER,1.0,BHK,Apartment,Keshtopur,3000.0,500.0,Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bansdroni,5500.0,650.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Baguiati,16000.0,1258.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Independent House,Dankuni,60000.0,2400.0,Furnished,1.0
 OWNER,2.0,BHK,Independent House,sahakara nagar,20000.0,1200.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Nager Bazar,15000.0,1200.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Taltala,25000.0,750.0,Unfurnished,1.0
@@ -5669,7 +5080,6 @@ OWNER,2.0,BHK,Apartment,Behala,21000.0,1050.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Park Street Area,25000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,12000.0,749.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Madhyamgram,13500.0,944.0,Semi-Furnished,2.0
-OWNER,3.0,BHK,Independent Floor,Dhapa,50000.0,2220.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Bijoygarh,10000.0,650.0,Unfurnished,1.0
 OWNER,3.0,BHK,Independent Floor,Behala,7000.0,1000.0,Unfurnished,1.0
 OWNER,4.0,BHK,Independent House,Lake Town,32000.0,1300.0,Furnished,2.0
@@ -5724,12 +5134,10 @@ OWNER,2.0,BHK,Independent House,Baranagar,8000.0,650.0,Unfurnished,1.0
 OWNER,3.0,BHK,Villa,Baguiati,9000.0,900.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Ichapur,7500.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Dum Dum,9000.0,967.0,Unfurnished,2.0
-OWNER,3.0,BHK,Independent House,Dum Dum,49000.0,1500.0,Semi-Furnished,3.0
 OWNER,1.0,RK,Studio Apartment,Keshtopur,3000.0,350.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Baguiati,4000.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent Floor,Uttarpara Kotrung,8000.0,700.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Salt Lake City,17000.0,950.0,Unfurnished,2.0
-OWNER,2.0,BHK,Apartment,Alipore,50000.0,1300.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,13000.0,897.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Uttarpara Kotrung,4500.0,340.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Paschim Putiary,10500.0,2200.0,Semi-Furnished,2.0
@@ -5748,15 +5156,12 @@ OWNER,1.0,RK,Studio Apartment,Liluah,5000.0,250.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent Floor,Barrackpore,7000.0,500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Baghajatin,6000.0,400.0,Furnished,1.0
 OWNER,1.0,BHK,Apartment,Kasba,9500.0,425.0,Unfurnished,1.0
-OWNER,3.0,BHK,Independent Floor,Dhapa,45000.0,1400.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,East Kolkata Township,15000.0,600.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Baguihati,12500.0,1100.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Ghosh Para,11000.0,620.0,Furnished,1.0
 OWNER,1.0,BHK,Independent House,New Town,5500.0,300.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Dankuni,8000.0,576.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Ghosh Para,6000.0,1200.0,Semi-Furnished,1.0
-OWNER,3.0,BHK,Independent House,Ballygunge,100000.0,1635.0,Furnished,2.0
-OWNER,3.0,BHK,Independent Floor,Elgin,150000.0,1680.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Tollygunge,12000.0,1250.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Lake Town,9000.0,832.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Keshtopur,7500.0,980.0,Semi-Furnished,2.0
@@ -5816,7 +5221,6 @@ OWNER,2.0,BHK,Independent Floor,Garia,6000.0,600.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Barrackpore,12000.0,1235.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Regent Park,5500.0,410.0,Semi-Furnished,1.0
 OWNER,1.0,RK,Studio Apartment,Golf Green,5500.0,400.0,Semi-Furnished,1.0
-OWNER,4.0,BHK,Apartment,Dhapa,50000.0,1500.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Tollygunge,15000.0,750.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Jessore Road,11000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,muchipara,11000.0,800.0,Semi-Furnished,2.0
@@ -5832,7 +5236,6 @@ OWNER,2.0,BHK,Independent House,Salt Lake City,16000.0,1000.0,Unfurnished,1.0
 OWNER,1.0,BHK,Villa,birati,5500.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Baruipur,5900.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,sahakara nagar,12500.0,550.0,Semi-Furnished,2.0
-OWNER,5.0,BHK,Independent House,Hedua,100000.0,1765.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Baguiati,16000.0,850.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,Joka,17000.0,1247.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Garia,12000.0,850.0,Semi-Furnished,2.0
@@ -5848,7 +5251,6 @@ OWNER,4.0,BHK,Independent House,Phool Bagan,27000.0,1350.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Thakurpukur,15000.0,1250.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Rajarhat,30000.0,1400.0,Furnished,2.0
 OWNER,3.0,BHK,Independent Floor,New Alipore,21000.0,1250.0,Semi-Furnished,2.0
-OWNER,6.0,BHK,Independent Floor,Rajarhat,100000.0,3200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent Floor,Madhyamgram,6300.0,800.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Baguihati,7500.0,850.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,south dum dum,9500.0,750.0,Semi-Furnished,1.0
@@ -5892,7 +5294,6 @@ OWNER,3.0,BHK,Apartment,Howrah,25000.0,1775.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Bijoygarh,6500.0,1000.0,Unfurnished,1.0
 OWNER,1.0,RK,Studio Apartment,Sector 22,6000.0,1000.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bansdroni,9000.0,1800.0,Unfurnished,1.0
-OWNER,4.0,BHK,Apartment,Kankurgachi,100000.0,3100.0,Furnished,4.0
 OWNER,3.0,BHK,Independent House,Baguiati,10000.0,1265.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Salt Lake City,27000.0,1032.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Independent House,Garfa,15000.0,1100.0,Semi-Furnished,2.0
@@ -5923,7 +5324,6 @@ OWNER,3.0,BHK,Apartment,New Town,12000.0,1150.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,18000.0,750.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,18000.0,750.0,Furnished,2.0
 OWNER,3.0,BHK,Apartment,Madhyamgram,15000.0,1024.0,Unfurnished,2.0
-OWNER,5.0,BHK,Independent Floor,New Town,65000.0,1800.0,Semi-Furnished,4.0
 OWNER,2.0,BHK,Apartment,New Town,12000.0,900.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent House,Belghoria,10000.0,1200.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,Salt Lake City,11600.0,760.0,Semi-Furnished,1.0
@@ -6043,7 +5443,6 @@ OWNER,2.0,BHK,Apartment,Kustia,17000.0,900.0,Furnished,2.0
 OWNER,2.0,BHK,Apartment,Ichapur,5500.0,650.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Howrah,29000.0,888.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Independent House,Rajarhat,21000.0,1500.0,Semi-Furnished,2.0
-OWNER,1.0,BHK,Independent Floor,Mourigram,60000.0,1200.0,Unfurnished,1.0
 OWNER,1.0,BHK,Independent Floor,Kasba,11000.0,600.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Salt Lake City,18000.0,1000.0,Unfurnished,1.0
 OWNER,3.0,BHK,Apartment,Baguiati,10000.0,1100.0,Semi-Furnished,2.0
@@ -6105,7 +5504,6 @@ OWNER,2.0,BHK,Independent Floor,Garia,11500.0,1100.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Beliaghata,12000.0,1200.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Patipukur,6200.0,450.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Maheshtala,9500.0,850.0,Unfurnished,2.0
-OWNER,3.0,BHK,Villa,New Town,55000.0,2150.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Ballygunge,40000.0,1000.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Behala,5000.0,550.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Serampore,6000.0,500.0,Unfurnished,1.0
@@ -6200,7 +5598,6 @@ OWNER,2.0,BHK,Independent Floor,Halisahar,5000.0,700.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Ballygunge,20000.0,750.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Noapara,8500.0,900.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Sodepur,4000.0,524.0,Unfurnished,1.0
-OWNER,6.0,BHK,Independent Floor,Rajarhat,120000.0,3200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Sodepur,7000.0,672.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,9500.0,875.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,Halisahar,5000.0,750.0,Unfurnished,1.0
@@ -6216,7 +5613,6 @@ OWNER,2.0,BHK,Apartment,Kalighat,19000.0,650.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Apartment,Bansdroni,10000.0,700.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Serampore,11500.0,875.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,New Town,16000.0,1350.0,Unfurnished,2.0
-OWNER,3.0,BHK,Independent House,Noapara,70000.0,2500.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Sarsuna,6000.0,750.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Apartment,Dum Dum Cantonment,6000.0,750.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Dum Dum,11000.0,1125.0,Unfurnished,2.0
@@ -6265,11 +5661,9 @@ OWNER,3.0,BHK,Apartment,Bhatpara,12000.0,1200.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Lake Gardens,20000.0,850.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Regent Park,5000.0,390.0,Furnished,1.0
 OWNER,2.0,BHK,Apartment,New Town,10000.0,873.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,New Town,50000.0,1900.0,Semi-Furnished,4.0
 OWNER,3.0,BHK,Independent Floor,Madhyamgram,12000.0,1450.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Apartment,Rajarhat,14000.0,1130.0,Unfurnished,2.0
 OWNER,1.0,RK,Studio Apartment,Hridaypur,3000.0,200.0,Unfurnished,1.0
-OWNER,5.0,BHK,Independent House,Hindustan Park,90000.0,1500.0,Unfurnished,4.0
 OWNER,1.0,BHK,Villa,kalikapura,6500.0,350.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent Floor,Bosepukur,12000.0,900.0,Unfurnished,2.0
 OWNER,3.0,BHK,Independent Floor,Thakurpukur Bazar,12500.0,1200.0,Semi-Furnished,2.0
@@ -6290,7 +5684,6 @@ OWNER,2.0,BHK,Apartment,Mourigram,8000.0,700.0,Semi-Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Barasat,6000.0,800.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Sector 25,16000.0,1000.0,Semi-Furnished,2.0
 OWNER,1.0,RK,Studio Apartment,Sodepur,3800.0,200.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Elgin,111000.0,2350.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,New Town,12000.0,805.0,Unfurnished,2.0
 OWNER,1.0,BHK,Independent House,Sector 22,21000.0,1000.0,Unfurnished,1.0
 OWNER,2.0,BHK,Independent House,Salt Lake City,20000.0,1050.0,Furnished,2.0
@@ -6366,11 +5759,9 @@ OWNER,2.0,BHK,Apartment,Lake Town,18000.0,1000.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Nayabad,12000.0,1025.0,Unfurnished,2.0
 OWNER,2.0,BHK,Independent House,New Town,4000.0,400.0,Unfurnished,1.0
 OWNER,1.0,BHK,Apartment,New Town,10000.0,500.0,Unfurnished,2.0
-OWNER,3.0,BHK,Apartment,Madurdaha Hussainpur,60000.0,1840.0,Semi-Furnished,3.0
 OWNER,2.0,BHK,Apartment,Netaji Nagar,13500.0,838.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Rajarhat,14000.0,1309.0,Unfurnished,2.0
 OWNER,2.0,BHK,Apartment,Rajarhat,10500.0,928.0,Unfurnished,2.0
-OWNER,4.0,BHK,Independent Floor,Tribeni,90000.0,2000.0,Unfurnished,4.0
 OWNER,3.0,BHK,Apartment,Kaikhali,15000.0,1200.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Baguiati,12000.0,1350.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Salt Lake City,35000.0,1550.0,Semi-Furnished,2.0
@@ -6441,7 +5832,6 @@ OWNER,1.0,BHK,Independent House,birati,2600.0,310.0,Unfurnished,1.0
 OWNER,2.0,BHK,Apartment,Santoshpur,13500.0,650.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Airport,12000.0,850.0,Unfurnished,2.0
 OWNER,3.0,BHK,Apartment,south dum dum,18000.0,950.0,Semi-Furnished,2.0
-OWNER,4.0,BHK,Apartment,Kankurgachi,100000.0,3100.0,Semi-Furnished,4.0
 OWNER,4.0,BHK,Villa,Howrah Railway Station,12000.0,1500.0,Semi-Furnished,1.0
 OWNER,2.0,BHK,Independent House,Ganguly Bagan,7500.0,650.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent Floor,Behala,7000.0,900.0,Semi-Furnished,2.0
@@ -6449,7 +5839,6 @@ OWNER,1.0,BHK,Independent Floor,Agarpara,6000.0,350.0,Semi-Furnished,1.0
 OWNER,3.0,BHK,Apartment,Lake Town,24000.0,1392.0,Semi-Furnished,3.0
 OWNER,1.0,BHK,Independent House,Shibpur,4000.0,200.0,Semi-Furnished,1.0
 OWNER,1.0,BHK,Independent House,Garia,5500.0,500.0,Unfurnished,1.0
-OWNER,3.0,BHK,Apartment,Jadavpur,60000.0,1650.0,Furnished,3.0
 OWNER,2.0,BHK,Apartment,Behala,15000.0,1123.0,Semi-Furnished,2.0
 OWNER,3.0,BHK,Apartment,Dharampur,14000.0,1100.0,Furnished,2.0
 OWNER,2.0,BHK,Independent Floor,Kalighat,26500.0,1200.0,Semi-Furnished,2.0
