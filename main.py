@@ -93,29 +93,29 @@ def predict():
         property_encoder = property_encoder_dict[city]
         seller_encoder = seller_encoder_dict[city]
         model = model_dict[city] # select the model 
-        # try:
+        try:
             # make inputs compatible with our machine learning model 
-        locality = locality_encoder.transform([locality])
-        furnish_type = furniture_encoder.transform([[furnish_type]])
-        layout_type = layout_encoder.transform([[layout_type]])
-        property_type = property_encoder.transform([[property_type]])
-        seller_type = seller_encoder.transform([[seller_type]])
-        # make the prediction 
-        preds = model.predict(np.array([
-            seller_type,
-            bedrooms,
-            layout_type,
-            property_type,
-            locality,
-            area,
-            furnish_type,
-            bathroom
-        ],dtype='object').reshape(-1,1).T)
-        preds=preds[0]
-        preds = np.round(preds)
-        return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
-        # except:
-        #     return render_template('predict.html',message='failure') # return error message for wrong location
+            locality = locality_encoder.transform([locality])
+            furnish_type = furniture_encoder.transform([[furnish_type]])
+            layout_type = layout_encoder.transform([[layout_type]])
+            property_type = property_encoder.transform([[property_type]])
+            seller_type = seller_encoder.transform([[seller_type]])
+            # make the prediction 
+            preds = model.predict(np.array([
+                seller_type,
+                bedrooms,
+                layout_type,
+                property_type,
+                locality,
+                area,
+                furnish_type,
+                bathroom
+            ],dtype='object').reshape(-1,1).T)
+            preds=preds[0]
+            preds = np.round(preds)
+            return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
+        except:
+            return render_template('predict.html',message='failure') # return error message for wrong location
 @app.route('/GetCorrections')
 def get_corrections():
     return render_template('contribute.html')
