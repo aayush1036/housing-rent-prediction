@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Inputs</title>
+    <title>Contribute</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -26,7 +26,7 @@
     <div class="city-row" id="predict">
         <h2 class="mb-3">Predict the house price</h2>
         <div class="container my-3">
-            <form method="POST" action="{{url_for('predict')}}">
+            <form method="POST" action="{{url_for('contribute')}}">
                 <div class="mb-3">
                     <label for="city">Which city do you want to predict?</label>
                     <select class="form-select" name="city">
@@ -100,6 +100,11 @@
                 <div class="mb-3">
                     <label for="bathroom">How many bathrooms do you expect to have</label>
                     <input type="number" class="form-control" name="bathroom">
+                </div>
+
+                <div class="mb-3">
+                    <label for="price">What is the estimated rent price of the property</label>
+                    <input type="number" class="form-control" name="price">
                 </div>
                 <button type="submit" class="btn btn-dark predictButton">SUBMIT</button>
 

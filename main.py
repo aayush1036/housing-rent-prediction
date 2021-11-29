@@ -1,7 +1,9 @@
+from threading import local
 from flask import Flask, render_template,request
 import joblib
 import numpy as np
 import os 
+import mysql.connector
 
 # CONSTANTS 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
@@ -114,6 +116,50 @@ def predict():
             return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
         except:
             return render_template('predict.html',message='Please enter a valid location',city=city) # return error message for wrong location
-
+@app.route('/GetCorrections')
+def get_corrections():
+    return render_template('contribute.html')
+@app.route('/Contribute',methods=['GET','POST'])
+def contribute():
+    # fetch the inputs from the form
+        city = request.form['city'].strip()
+        seller_type = request.form['seller_type']
+        bedrooms = int(request.form['bedroom'])
+        layout_type = request.form['layout_type']
+        property_type = request.form['property_type']
+        locality = request.form['locality'].upper()
+        area = float(request.form['area'])
+        furnish_type = request.form['furnish_type']
+        bathroom = int(request.form['bathroom']) 
+        price = float(request.form['price'])
+        # create a tuple of values to insert
+        values = (seller_type, bedrooms, layout_type, property_type, locality, price, area, furnish_type, bathroom)
+        try:
+            # make a connection to MySQL
+            conn = mysql.connector.connect(
+                        host='34.93.147.30',
+                        port=3306,
+                        user='root',
+                        password='Aayush_13_06',
+                        database='CLEAN',
+                        auth_plugin='mysql_native_password'
+                    )
+            # create a cursor to execute queries in the connection 
+            cursor = conn.cursor()
+            # frame the SQL query 
+            query = f"""
+            INSERT INTO {city} (SELLER_TYPE, BEDROOM, LAYOUT, PROPERTY_TYPE, LOCALITY, PRICE, AREA, FURNISH_TYPE, BATHROOM)
+            VALUES {tuple(values)};
+            """
+            # execute the query 
+            cursor.execute(query)
+            # commit the query to the connection
+            conn.commit()
+            # close the connection
+            conn.close()
+            return render_template('thanks.html', status='success') # return the predictions
+        except:
+            return render_template('thanks.html', status='failure') # return error message for wrong location
+    
 if __name__ == '__main__':
     app.run(debug=True)
