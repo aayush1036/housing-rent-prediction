@@ -115,7 +115,7 @@ def predict():
             preds = np.round(preds)
             return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
         except:
-            return render_template('predict.html',message='Please enter a valid location',city=city) # return error message for wrong location
+            return render_template('predict.html',message='failure') # return error message for wrong location
 @app.route('/GetCorrections')
 def get_corrections():
     return render_template('contribute.html')

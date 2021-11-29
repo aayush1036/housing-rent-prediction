@@ -47,8 +47,10 @@
     <h1>Pune</h1>
     <img src="https://wikitravel.org/upload/en/thumb/9/9e/A_backside_view_of_the_Pune_University_Main_building-_2015-06-18_16-08.jpg/450px-A_backside_view_of_the_Pune_University_Main_building-_2015-06-18_16-08.jpg" alt="Pune">
     {% endif %}
-    <h2>{{message}} for {{city}}</h2>
-    <h3>Feel that the prediction is inaccuracte, please contribute to the data</h3>
+    {% if message != 'failure' %}
+        <h2>{{message}} for {{city}}</h2>
+    {% endif %}
+    <h3 class="displayHeading">Feel that the prediction is inaccuracte or data in our database is insufficient, please feel free to contribute to the data</h3>
     <a class="btn btn-dark" href="{{url_for('get_corrections')}}">CONTRIBUTE</a>
 </body>
 </html>

@@ -62,8 +62,8 @@ h3{
     margin-left: 30px;
 }
 .result-image{
-    height: 360px;
-    width: 640px;
+    height: 180px;
+    width: 320px;
 }
 .middle-container{
     margin: 100px 0;
@@ -166,4 +166,11 @@ a{
 
 .table-data{
     text-align: center;
+}
+
+.displayHeading{
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
