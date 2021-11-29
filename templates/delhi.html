@@ -1,93 +1,33 @@
 {% extends 'base.html' %}
-{% block body %}
+{% block intro %}
 <p class="intro">
-    Delhi is the political capital of India, also in the National Capital Region. Delhi is famous for its vast extend
-    and area which also
-    creating an impression of big and lavish houses. Here in this website, we have analysed various aspects of Delhi's
-    housing from the data
-    which we have collected so that the users can take informed decisions before searching for houses
+  Delhi is the political capital of India, also in the National Capital Region. Delhi is famous for its vast extend
+  and area which also
+  creating an impression of big and lavish houses. Here in this website, we have analysed various aspects of Delhi's
+  housing from the data
+  which we have collected so that the users can take informed decisions before searching for houses
 </p>
 </div>
-<hr>
+{% endblock intro %}
 <!-- Insights -->
-<div class="cities" id="cities">
-    <h2>Parameters Covered.</h2>
-    <div class="city-row" id="Numerical">
-        <h3>Numerical Analysis</h3>
-        <img class="LeftAlign" src="static/Numerical/DELHI.png" alt="Delhi-numerical" border="0">
-        <p>
-            In this image, we have analyzed 4 things, the distribution of rent in Delhi, distribution of the area of
-            houses in Delhi,
-            Number of bedrooms in the houses in Delhi and distribution of bathrooms in the houses in Delhi.
-            From this figure, we find that the rent of most houses is under 30k rupees, most of the houses in Delhi
-            are under 6000 square
-            feet in area, most houses in Delhi have 2 or 3 bedrooms and 1 or 2 bathrooms
-        </p>
-    </div>
-    <div class="city-row" id="Sapcious">
-        <h3>Area</h3>
-        <img class="RightAlign" src="static/Spacious/DELHI.png" alt="Delhi-spacious" border="0">
-        <p>
-            This image shows the most spacious and least spacious localities to live in Delhi. Spaciousness of a
-            locality is calculated by
-            taking the average of areas of houses in that locality. Most spacious localities are the localities that
-            have the highest average area
-            of all the houses in that locality and converse is true for the least spacious localities. From this image,
-            we see that Bhawani Kunj,Karawal Nagar, South Extension II are the least spacous localities in Delhi
-            whereas
-            Geetanjali Enclave,South Extension Part 1 and Niti Bagh are the most spacious localities in Delhi
-        </p>
-    </div>
-    <div class="city-row" id="Afrordability">
-        <h3>Affordability</h3>
-        <img class="LeftAlign" src="static/Affordability/DELHI.png" alt="Aahemdabad-affordability" border="0">
-        <p>
-            This image shows the most afforable and least afforable localities to live in Delhi. Affordability
-            of a locality is calculated by
-            taking the average price of all the houses in that locality. Most affordable localities are the
-            localities that have the lowest average
-            price and the converse is true for least afforable localities. From this image, we see that
-            Mukundpur, Gokalpur and Gazipur
-            are the most afforable localities in Delhi whereas South Extension II, East Kidwai Nagar and Main Chattarpur Road are the
-            least affordable localities
-            in Delhi
-        </p>
-    </div>
-    <div class="city-row" id="Other">
-        <h3>Other</h3>
-        <img class="RightAlign" src="static/Other/DELHI.png" alt="Delhi-other" border="0">
-        <p>
-            Here we have analyzed other aspects of the houses in Delhi which are
-            <ol>
-              <li>Seller Type - The entity which is putting the property on rent - Can be of 3 types</li>
-              <ul>
-                <li>Agent - The real estate agent through which the owner would like to put the property on rent</li>
-                <li>Builder - The builder of the property who might put the property on rent</li>
-                <li>Owner - The owner may directly put the property on rent</li>
-              </ul>
-              <li>Layout Type - The layout of the property put on rent</li>
-              <ul>
-                <li>RK - The property contains only a Room and Kitchen where the bedroom and hall are combined</li>
-                <li>BHK - The property contains a Bedroom, Hall and a Kitchen</li>
-              </ul>
-              <li>Property Type - The type of property which is put on rent</li>
-              <ul>
-                <li>Apartment - A flat in a building which contains many flats</li>
-                <li>Studio Aparment - Contains only one room</li>
-                <li>Independent House - A single house with boundary walls on four sides</li>
-                <li>Independent Floor - An entire floor on a building isolated from the rest of the building</li>
-                <li>Villa</li>
-                <li>Penthouse</li>
-              </ul>
-              <li>Furnish Type</li>
-              <ul>
-                <li>Semi Furnished - Contains some furniture sufficient enough for the tennant to settle</li>
-                <li>Furnished - Contains all the necessary furniture for a tennant to settle</li>
-                <li>Unfurnished - Contains no furnitire</li>
-              </ul>
-            </ol>    
+{% block numerical_image %}
+<img class="LeftAlign" src="static/Numerical/DELHI.png" alt="DELHI-numerical" border="0">
+{% endblock numerical_image %}
 
-        <p class="table-data">Seller types of various properties in Delhi</p>
+{% block area_image %}
+<img class="RightAlign" src="static/Spacious/DELHI.png" alt="DELHI-spacious" border="0">
+{% endblock area_image %}
+
+{% block affordability_image %}
+<img class="LeftAlign" src="static/Affordability/DELHI.png" alt="DELHI-affordability" border="0">
+{% endblock affordability_image %}
+
+{% block other_image %}
+<img class="RightAlign" src="static/Other/DELHI.png" alt="DELHI-other" border="0">
+{% endblock other_image %}
+
+{% block table %}
+<p class="table-data">Seller types of various properties in Delhi</p>
         <table class="dataframe">
           <thead>
             <tr style="text-align: right;">
@@ -191,4 +131,4 @@
         </p>
     </div>
 </div>
-{% endblock body %}
+{% endblock table %}

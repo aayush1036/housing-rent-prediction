@@ -73,10 +73,104 @@
     <div class="middle-container">
         <div class="profile" id="Intro">
             <h2>Before you go ahead with your housing search</h2>
+            {% block intro %}
+                
+            {% endblock intro %}
+            <hr>
+            <!-- Insights -->
+            <div class="cities" id="cities">
+                <h2>Parameters Covered.</h2>
+                <div class="city-row" id="Numerical">
+                    <h3>Numerical Analysis</h3>
+                    {% block numerical_image %}
 
-            {% block body %}
+                    {% endblock numerical_image %}
+                    <p>
+                        In this image, we analyze 4 things which are numerical in nature, the distribution of price of
+                        houses in the top left chart,
+                        The distribution of area of houses in the top right chart, the bar chart of number of bedrooms
+                        in the houses in the bottom left chart
+                        and the bar chart of number of houses in the city in the top right chart.
+                    </p>
+                </div>
+                <div class="city-row" id="Sapcious">
+                    <h3>Area</h3>
+                    {% block area_image %}
 
-            {% endblock body %}
+                    {% endblock area_image %}
+                    <p>
+                        In this image, we have analyzed the spaciousness of localities in the city, spaciousness of a
+                        locality is defined by
+                        the average area of all the houses in that locality, in the chart on the left, we have shown the
+                        least spacious
+                        localities in the city (which have the lowest average area) and in the chart on the right, we
+                        have shown the
+                        most spacious localities in the city (which have the highest average area).
+                    </p>
+                </div>
+                <div class="city-row" id="Afrordability">
+                    <h3>Affordability</h3>
+                    {% block affordability_image %}
+
+                    {% endblock affordability_image %}
+                    <p>
+                        In this image, we have analyzed the affordability of localities in the city, affordability of a
+                        locality is defined by
+                        the average price/area of all the houses in the locality, a lower average price/area in a
+                        locality signifies that the houses in that
+                        locality are more affordable whereas a higher average price/area in a locality signifies that
+                        the houses in the locality are not affordable
+
+                        In the chart on the left hand side, the localities on the left end are the most affordable
+                        localities whereas
+                        in the chart on the right hand side, the localities on the left hand side are the least
+                        affordable localities in the city
+
+                    </p>
+                </div>
+                <div class="city-row" id="Other">
+                    <h3>Other</h3>
+                    {% block other_image %}
+                        
+                    {% endblock other_image %}
+                    <p>
+                        Here we have analyzed other aspects of the houses in each city which are
+                    <ol>
+                        <li>Seller Type - The entity which is putting the property on rent - Can be of 3 types</li>
+                        <ul>
+                            <li>Agent - The real estate agent through which the owner would like to put the property on
+                                rent</li>
+                            <li>Builder - The builder of the property who might put the property on rent</li>
+                            <li>Owner - The owner may directly put the property on rent</li>
+                        </ul>
+                        <li>Layout Type - The layout of the property put on rent</li>
+                        <ul>
+                            <li>RK - The property contains only a Room and Kitchen where the bedroom and hall are
+                                combined</li>
+                            <li>BHK - The property contains a Bedroom, Hall and a Kitchen</li>
+                        </ul>
+                        <li>Property Type - The type of property which is put on rent</li>
+                        <ul>
+                            <li>Apartment - A flat in a building which contains many flats</li>
+                            <li>Studio Aparment - Contains only one room</li>
+                            <li>Independent House - A single house with boundary walls on four sides</li>
+                            <li>Independent Floor - An entire floor on a building isolated from the rest of the building
+                            </li>
+                            <li>Villa</li>
+                            <li>Penthouse</li>
+                        </ul>
+                        <li>Furnish Type</li>
+                        <ul>
+                            <li>Semi Furnished - Contains some furniture sufficient enough for the tennant to settle
+                            </li>
+                            <li>Furnished - Contains all the necessary furniture for a tennant to settle</li>
+                            <li>Unfurnished - Contains no furnitire</li>
+                        </ul>
+                    </ol>
+
+                    {% block table %}
+                        
+                    {% endblock table %}
             <div class="predictButton" id="predict">
                 <a class="btn btn-dark predictButton" href="{{url_for('getData')}}">PREDICT</a>
             </div>

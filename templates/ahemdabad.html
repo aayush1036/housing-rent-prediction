@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% block body %}
+{% block intro %}
 <p class="intro">
   Ahemdabad is a rapidly developing city in the region of West India, which is close to Mumbai, the financial captial
   of India,
@@ -10,181 +10,122 @@
   we have analyzed the data available and prepared a short report for the users to take an informed decision.
 </p>
 </div>
-<hr>
+{% endblock intro %}
 <!-- Insights -->
-<div class="cities" id="cities">
-  <h2>Parameters Covered.</h2>
-  <div class="city-row" id="Numerical">
-    <h3>Numerical Analysis</h3>
-    <img class="LeftAlign" src="static/Numerical/AHEMDABAD.png" alt="Ahemdabad-numerical">
-    <p>
-      In this image, we have analyzed 4 things, the distribution of rent in Ahemdabad, distribution of the area of
-      houses in Ahemdabad,
-      Number of bedrooms in the houses in Ahemdabad and distribution of bathrooms in the houses in Ahemdabad.
-      From this figure, we find that the rent of most houses is under 50k rupees, most of the houses in Ahemdabad
-      are under 4000 square
-      feet in area, most houses in Ahemdabad have 2 or 3 bedrooms and 2 or 3 bathrooms
-    </p>
-  </div>
-  <div class="city-row" id="Sapcious">
-    <h3>Area</h3>
-    <img class="RightAlign" src="static/Spacious/AHEMDABAD.png" alt="Ahemdabad-spacious" >
-    <p>
-      This image shows the most spacious and least spacious localities to live in Ahemdabad. Spaciousness of a
-      locality is calculated by
-      taking the average of areas of houses in that locality. Most spacious localities are the localities that
-      have the highest average area
-      of all the houses in that locality and converse is true for the least spacious localities. From this image,
-      we see that Meghani Nagar,
-      India Colony and Sarkhej Road are the least spacous localities in Ahemdabad whereas South Bopal Road,
-      Santhal, Hebatpur are the most spacious localities in Ahemdabad
-    </p>
-  </div>
-  <div class="city-row" id="Afrordability">
-    <h3>Affordability</h3>
-    <img class="LeftAlign" src="static/Affordability/AHEMDABAD.png" alt="Aahemdabad-affordability">
-    <p>
-      This image shows the most afforable and least afforable localities to live in Ahemdabad. Affordability
-      of a locality is calculated by
-      taking the average price of all the houses in that locality. Most affordable localities are the
-      localities that have the lowest average
-      price and the converse is true for least afforable localities. From this image, we see that
-      Khanderavpura, Nigam Nagar, Bapunagar
-      are the most afforable localities in Ahemdabad whereas Satellite Extension,Shivrajani Cross Road, Meghani Nagar are the least
-      affordable
-      localities in Ahemdabad
-    </p>
-  </div>
-  <div class="city-row" id="Other">
-    <h3>Other</h3>
-    <img class="RightAlign" src="static/Other/AHEMDABAD.png" alt="Ahemdabad-other"> 
-    <p>
-      Here we have analyzed other aspects of the houses in Ahemdabad which are
-      <ol>
-        <li>Seller Type - The entity which is putting the property on rent - Can be of 3 types</li>
-        <ul>
-          <li>Agent - The real estate agent through which the owner would like to put the property on rent</li>
-          <li>Builder - The builder of the property who might put the property on rent</li>
-          <li>Owner - The owner may directly put the property on rent</li>
-        </ul>
-        <li>Layout Type - The layout of the property put on rent</li>
-        <ul>
-          <li>RK - The property contains only a Room and Kitchen where the bedroom and hall are combined</li>
-          <li>BHK - The property contains a Bedroom, Hall and a Kitchen</li>
-        </ul>
-        <li>Property Type - The type of property which is put on rent</li>
-        <ul>
-          <li>Apartment - A flat in a building which contains many flats</li>
-          <li>Studio Aparment - Contains only one room</li>
-          <li>Independent House - A single house with boundary walls on four sides</li>
-          <li>Independent Floor - An entire floor on a building isolated from the rest of the building</li>
-          <li>Villa</li>
-          <li>Penthouse</li>
-        </ul>
-        <li>Furnish Type</li>
-        <ul>
-          <li>Semi Furnished - Contains some furniture sufficient enough for the tennant to settle</li>
-          <li>Furnished - Contains all the necessary furniture for a tennant to settle</li>
-          <li>Unfurnished - Contains no furnitire</li>
-        </ul>
-      </ol>    
-    <p class="table-data">Seller type of properties in Ahemdabad</p>
-    <table class="dataframe">
-      <thead>
-        <tr style="text-align: right;">
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>AGENT</th>
-          <td>87.8%</td>
-        </tr>
-        <tr>
-          <th>OWNER</th>
-          <td>12.14%</td>
-        </tr>
-        <tr>
-          <th>BUILDER</th>
-          <td>0.06%</td>
-        </tr>
-      </tbody>
-    </table>
-    <p class="table-data">Layout of flats in Ahemdabad</p>
-    <table class="dataframe">
-      <thead>
-        <tr style="text-align: right;">
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>BHK</th>
-          <td>98.61%</td>
-        </tr>
-        <tr>
-          <th>RK</th>
-          <td>1.39%</td>
-        </tr>
-      </tbody>
-    </table>
-    <p class="table-data">Types of properties in Ahemdabad</p>
-    <table class="dataframe">
-      <thead>
-        <tr style="text-align: right;">
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>Apartment</th>
-          <td>89.03%</td>
-        </tr>
-        <tr>
-          <th>Independent House</th>
-          <td>4.65%</td>
-        </tr>
-        <tr>
-          <th>Villa</th>
-          <td>3.34%</td>
-        </tr>
-        <tr>
-          <th>Independent Floor</th>
-          <td>1.44%</td>
-        </tr>
-        <tr>
-          <th>Studio Apartment</th>
-          <td>1.39%</td>
-        </tr>
-        <tr>
-          <th>Penthouse</th>
-          <td>0.15%</td>
-        </tr>
-      </tbody>
-    </table>
-    <p class="table-data">Furnishing of various properties in Ahemdabad</p>
-    <table class="dataframe">
-      <thead>
-        <tr style="text-align: right;">
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>Semi-Furnished</th>
-          <td>51.12%</td>
-        </tr>
-        <tr>
-          <th>Furnished</th>
-          <td>30.98%</td>
-        </tr>
-        <tr>
-          <th>Unfurnished</th>
-          <td>17.9%</td>
-        </tr>
-      </tbody>
-    </table>
-    </p>
-  </div>
+{% block numerical_image %}
+<img class="LeftAlign" src="static/Numerical/AHEMDABAD.png" alt="Ahemdabad-numerical">
+{% endblock numerical_image %}
+
+{% block area_image %}
+<img class="LeftAlign" src="static/Numerical/AHEMDABAD.png" alt="Ahemdabad-numerical">
+{% endblock area_image %}
+
+{% block affordability_image %}
+<img class="LeftAlign" src="static/Affordability/AHEMDABAD.png" alt="Aahemdabad-affordability">
+{% endblock affordability_image %}
+
+{% block other_image %}
+<img class="RightAlign" src="static/Other/AHEMDABAD.png" alt="Ahemdabad-other">
+{% endblock other_image %}
+
+{% block table %}
+<p class="table-data">Seller type of properties in Ahemdabad</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>AGENT</th>
+      <td>87.8%</td>
+    </tr>
+    <tr>
+      <th>OWNER</th>
+      <td>12.14%</td>
+    </tr>
+    <tr>
+      <th>BUILDER</th>
+      <td>0.06%</td>
+    </tr>
+  </tbody>
+</table>
+<p class="table-data">Layout of flats in Ahemdabad</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>BHK</th>
+      <td>98.61%</td>
+    </tr>
+    <tr>
+      <th>RK</th>
+      <td>1.39%</td>
+    </tr>
+  </tbody>
+</table>
+<p class="table-data">Types of properties in Ahemdabad</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Apartment</th>
+      <td>89.03%</td>
+    </tr>
+    <tr>
+      <th>Independent House</th>
+      <td>4.65%</td>
+    </tr>
+    <tr>
+      <th>Villa</th>
+      <td>3.34%</td>
+    </tr>
+    <tr>
+      <th>Independent Floor</th>
+      <td>1.44%</td>
+    </tr>
+    <tr>
+      <th>Studio Apartment</th>
+      <td>1.39%</td>
+    </tr>
+    <tr>
+      <th>Penthouse</th>
+      <td>0.15%</td>
+    </tr>
+  </tbody>
+</table>
+<p class="table-data">Furnishing of various properties in Ahemdabad</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Semi-Furnished</th>
+      <td>51.12%</td>
+    </tr>
+    <tr>
+      <th>Furnished</th>
+      <td>30.98%</td>
+    </tr>
+    <tr>
+      <th>Unfurnished</th>
+      <td>17.9%</td>
+    </tr>
+  </tbody>
+</table>
+</p>
 </div>
-{% endblock body %}
+</div>
+{% endblock table %}

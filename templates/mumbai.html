@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% block body %}
+{% block intro %}
 <p class="intro">
     Mumbai, the financial capital of India has a perception of being the city of dreams with a fancy night
     life and it is also famous
@@ -10,83 +10,26 @@
     so that you can take an informed decision yourself, good luck with your housing search.
 </p>
 </div>
-<hr>
+{% endblock intro %}
 <!-- Insights -->
-<div class="cities" id="cities">
-    <h2>Parameters Covered.</h2>
-    <div class="city-row" id="Numerical">
-        <h3>Numerical Analysis</h3>
-        <img class="LeftAlign" src="static/Numerical/MUMBAI.png" alt="Mumbai-numerical" border="0">
-        <p>
-            In this image, we have analyzed 4 things, the distribution of rent in Mumbai, distribution of the area of
-            houses in Mumbai,
-            Number of bedrooms in the houses in Mumbai and distribution of bathrooms in the houses in Mumbai.
-            From this figure, we find that the rent of most houses is under 100k rupees, most of the houses in Mumbai
-            are under 2000 square
-            feet in area, most houses in Mumbai have 1 or 2 bedrooms and 1 or 2 bathrooms
-        </p>
-    </div>
-    <div class="city-row" id="Sapcious">
-        <h3>Area</h3>
-        <img class="RightAlign" src="static/Spacious/MUMBAI.png" alt="Mumbai-spacious" border="0">
-        <p>
-            This image shows the most spacious and least spacious localities to live in Mumbai. Spaciousness of a
-            locality is calculated by
-            taking the average of areas of houses in that locality. Most spacious localities are the localities that
-            have the highest average area
-            of all the houses in that locality and converse is true for the least spacious localities. From this image,
-            we see that Joseph Patel Wadi, Nariman Point, Mulund Check Naka are the least spacous localities in Mumbai whereas 
-            4 Bungalows, Vasant Vihar, and Samantanagar Thakur Village are the most spacious localities in Mumbai
-        </p>
-    </div>
-    <div class="city-row" id="Afrordability">
-        <h3>Affordability</h3>
-        <img class="LeftAlign" src="static/Affordability/MUMBAI.png" alt="Aahemdabad-affordability" border="0">
-        <p>
-            This image shows the most afforable and least afforable localities to live in Mumbai. Affordability
-            of a locality is calculated by
-            taking the average price of all the houses in that locality. Most affordable localities are the
-            localities that have the lowest average
-            price and the converse is true for least afforable localities. From this image, we see that
-            Utan, Vasind and Shelwadi are the most afforable localities in Mumbai whereas 
-            Bandstand Road, Mount Marry and Churchgate are the least affordable localities in Mumbai
-        </p>
-    </div>
-    <div class="city-row" id="Other">
-        <h3>Other</h3>
-        <img class="RightAlign" src="static/Other/MUMBAI.png" alt="Mumbai-other" border="0">
-        <p>
-            Here we have analyzed other aspects of the houses in Mumbai which are
-            <ol>
-              <li>Seller Type - The entity which is putting the property on rent - Can be of 3 types</li>
-              <ul>
-                <li>Agent - The real estate agent through which the owner would like to put the property on rent</li>
-                <li>Builder - The builder of the property who might put the property on rent</li>
-                <li>Owner - The owner may directly put the property on rent</li>
-              </ul>
-              <li>Layout Type - The layout of the property put on rent</li>
-              <ul>
-                <li>RK - The property contains only a Room and Kitchen where the bedroom and hall are combined</li>
-                <li>BHK - The property contains a Bedroom, Hall and a Kitchen</li>
-              </ul>
-              <li>Property Type - The type of property which is put on rent</li>
-              <ul>
-                <li>Apartment - A flat in a building which contains many flats</li>
-                <li>Studio Aparment - Contains only one room</li>
-                <li>Independent House - A single house with boundary walls on four sides</li>
-                <li>Independent Floor - An entire floor on a building isolated from the rest of the building</li>
-                <li>Villa</li>
-                <li>Penthouse</li>
-              </ul>
-              <li>Furnish Type</li>
-              <ul>
-                <li>Semi Furnished - Contains some furniture sufficient enough for the tennant to settle</li>
-                <li>Furnished - Contains all the necessary furniture for a tennant to settle</li>
-                <li>Unfurnished - Contains no furnitire</li>
-              </ul>
-            </ol>    
+{% block numerical_image %}
+<img class="LeftAlign" src="static/Numerical/MUMBAI.png" alt="Mumbai-numerical" border="0">
+{% endblock numerical_image %}
 
-        <p class="table-data">Seller types of various properties in Mumbai</p>
+{% block area_image %}
+<img class="RightAlign" src="static/Spacious/MUMBAI.png" alt="Mumbai-spacious" border="0">
+{% endblock area_image %}
+
+{% block affordability_image %}
+<img class="LeftAlign" src="static/Affordability/MUMBAI.png" alt="Aahemdabad-affordability" border="0">
+{% endblock affordability_image %}
+
+{% block other_image %}
+<img class="RightAlign" src="static/Other/MUMBAI.png" alt="Mumbai-other" border="0">
+{% endblock other_image %}
+
+{% block table %}
+<p class="table-data">Seller types of various properties in Mumbai</p>
         <table class="dataframe">
           <thead>
             <tr style="text-align: right;">
@@ -189,4 +132,4 @@
         </p>
     </div>
 </div>
-{% endblock body %}
+{% endblock table %}
