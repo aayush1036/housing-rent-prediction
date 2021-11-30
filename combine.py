@@ -49,6 +49,10 @@ EVALUATION_NCOLS = 2
 TEST_SIZE = 0.3
 RANDOM_STATE = 42
 
+# Reading credentials 
+with open('credentials.txt', 'r') as f:
+    PASSWORD = f.read().strip()
+
 # Initializing dictionaries 
 clean_df_dict = {}
 preprocessed_df_dict = {}
@@ -60,7 +64,7 @@ conn = mysql.connector.connect(
     host='34.93.147.30',
     port=3306,
     user='root',
-    password='Aayush_13_06',
+    password=PASSWORD,
     database='CLEAN',
     auth_plugin='mysql_native_password'
 )

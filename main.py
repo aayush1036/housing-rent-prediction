@@ -12,6 +12,8 @@ FURNITURE_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/furniture_encoders/'
 LAYOUT_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/layout_type/'
 PROPERTY_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/property_type/'
 SELLER_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/seller_type/'
+with open('credentials.txt', 'r') as f:
+    PASSWORD = f.read().strip()
 
 model_dict = {}
 locality_encoder_dict = {}
@@ -139,7 +141,7 @@ def contribute():
                         host='34.93.147.30',
                         port=3306,
                         user='root',
-                        password='Aayush_13_06',
+                        password=PASSWORD,
                         database='CLEAN',
                         auth_plugin='mysql_native_password'
                     )
