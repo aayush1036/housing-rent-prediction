@@ -2,3 +2,5 @@ test.ipynb
 outputs/
 ml-env/
 credentials.txt
+__pycache__/
+env/
