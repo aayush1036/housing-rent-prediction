@@ -15,21 +15,6 @@ SELLER_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/seller_type/'
 with open('credentials.txt', 'r') as f:
     PASSWORD = f.read().strip()
 
-model_dict = {}
-locality_encoder_dict = {}
-furniture_encoder_dict = {}
-layout_encoder_dict = {}
-property_encoder_dict = {}
-seller_encoder_dict = {}
-
-for city in CITIES:
-    model_dict[city] = joblib.load(os.path.join(MODEL_PATH, f'{city}_model.pkl'))
-    locality_encoder_dict[city] = joblib.load(os.path.join(LOCALITY_ENCODER_PATH, f'{city}_locality_encoder.pkl'))
-    furniture_encoder_dict[city] = joblib.load(os.path.join(FURNITURE_ENCODER_PATH, f'{city}_furnish_type_encoder.pkl'))
-    layout_encoder_dict[city] = joblib.load(os.path.join(LAYOUT_ENCODER_PATH, f'{city}_layout_type_encoder.pkl'))
-    property_encoder_dict[city] = joblib.load(os.path.join(PROPERTY_ENCODER_PATH, f'{city}_property_type_encoder.pkl'))
-    seller_encoder_dict[city] = joblib.load(os.path.join(SELLER_ENCODER_PATH, f'{city}_seller_type_encoder.pkl'))
-
 # Create a flask app
 app = Flask(__name__)
 
@@ -88,12 +73,12 @@ def predict():
         furnish_type = request.form['furnish_type']
         bathroom = int(request.form['bathroom'])
         # loading the encoder for that particular city
-        locality_encoder = locality_encoder_dict[city]
-        furniture_encoder = furniture_encoder_dict[city]
-        layout_encoder = layout_encoder_dict[city]
-        property_encoder = property_encoder_dict[city]
-        seller_encoder = seller_encoder_dict[city]
-        model = model_dict[city] # select the model 
+        locality_encoder = joblib.load(os.path.join(LOCALITY_ENCODER_PATH, f'{city}_locality_encoder.pkl'))
+        furniture_encoder = joblib.load(os.path.join(FURNITURE_ENCODER_PATH, f'{city}_furnish_type_encoder.pkl'))
+        layout_encoder = joblib.load(os.path.join(LAYOUT_ENCODER_PATH, f'{city}_layout_type_encoder.pkl'))
+        property_encoder = joblib.load(os.path.join(PROPERTY_ENCODER_PATH, f'{city}_property_type_encoder.pkl'))
+        seller_encoder = joblib.load(os.path.join(SELLER_ENCODER_PATH, f'{city}_seller_type_encoder.pkl'))
+        model =joblib.load(os.path.join(MODEL_PATH, f'{city}_model.pkl')) # select the model 
         try:
             # make inputs compatible with our machine learning model 
             locality = locality_encoder.transform([locality])
