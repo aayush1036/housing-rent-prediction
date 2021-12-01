@@ -11,6 +11,7 @@ import mysql.connector
 import os 
 import warnings
 from sklearn.metrics import r2_score
+import datetime as dt
 plt.style.use('seaborn')
 warnings.simplefilter(action='ignore')
 
@@ -276,10 +277,12 @@ for city, df in preprocessed_df_dict.items():
     train_r2_dict[city] = train_r2
     test_r2_dict[city] = test_r2
     joblib.dump(model, os.path.join(MODEL_SAVE_PATH, f'{city}_model.pkl'))
-with open('results.txt', 'a+') as f:
+with open('model_results.txt', 'a+') as f:
     f.write('Train r2\n')
     f.write(str(train_r2_dict))
     f.write('\n')
     f.write('Test r2\n')
     f.write(str(test_r2_dict))
     f.write('\n')
+
+print(f'Successfully executed on {dt.datetime.now()}')
