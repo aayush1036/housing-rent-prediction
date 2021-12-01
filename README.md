@@ -15,8 +15,6 @@ Which involves creating a web app which is able to take inputs and predict house
 
 <a href="https://www.kaggle.com/saisaathvik/house-rent-prices-of-metropolitan-cities-in-india">Data Source</a>
 
-<a href="https://rent-prediction-grootis-330517.el.r.appspot.com/">Web App</a>
-
 This project is an end to end implementation of a project where the goal is to predict house rent prices for various different cities<br>
 This project uses a machine leraning model in the backend to predict the rent prices in various cities using the inputs given to it<br>
 This project uses a XGBoost Regressor model (which turned out to be the best model)<br>
