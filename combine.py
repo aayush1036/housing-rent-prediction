@@ -73,33 +73,6 @@ df_dict = dict(zip(CITIES, [pd.read_sql(f'SELECT * FROM {city}', con=conn) for c
 # closing the connection 
 conn.close()
 
-def clean(df_dict:dict)->None:
-    """Cleans data and removes outliers
-    
-    Keyword arguments:
-    df_dict -- dictionary of data
-    Return: None
-    """
-    for city, df in df_dict.items():
-        # Rename columns for uniformity
-        df.columns = cols 
-        # Dropping the duplicates (if any)
-        df.drop_duplicates(inplace=True)
-        # Removing outliers 
-        desc = df['PRICE'].describe()
-        # Getting IQR
-        iqr = desc.loc['75%'] - desc.loc['25%']
-        # Calculating lower limit as Q1-(1.5*IQR)
-        lower_limit = desc.loc['25%'] - 1.5*iqr
-        # Calculating upper limit as Q3+(1.5*IQR)
-        upper_limit = desc.loc['75%'] + 1.5*iqr
-        # Subsetting the data so as to remove outliers 
-        df = df[(df['PRICE']>=lower_limit)&(df['PRICE']<=upper_limit)]
-        # Saving the clean and interpretable dataframe in clean_df_dict
-        clean_df_dict[city] = df
-clean(df_dict)
-
-
 # preprocessing the data 
 def preprocess(df_dict:dict)-> None:
     """Preprocesses the data according to the following steps: 
@@ -132,6 +105,8 @@ def preprocess(df_dict:dict)-> None:
         upper_limit = desc.loc['75%'] + 1.5*iqr
         # Subsetting the data so as to remove outliers 
         df = df[(df['PRICE']>=lower_limit)&(df['PRICE']<=upper_limit)]
+        # storing the data in clean_df_dict for EDA later on
+        clean_df_dict[city] = df.copy()
         # Building the categories for ordinal encoder 
         cat_furnish = [['Unfurnished','Semi-Furnished','Furnished']]
         cat_seller = [df.groupby(by=['SELLER TYPE'])['PRICE'].mean().sort_values(ascending=True).index.values.tolist()]
