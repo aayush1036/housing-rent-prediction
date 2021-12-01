@@ -1,7 +1,7 @@
-# ml-project
+# housing-rent-prediction
 
-This is the github repository created for the Machine Learning project done by:
-1. <a href="mailto:aayushmaan1306@gmail.com">Aayushmaan Jain</a>
+This is the github repository created for the End to End Machine Learning project done by: <a href="mailto:aayushmaan1306@gmail.com">Aayushmaan Jain</a>
+
 
 Which involves creating a web app which is able to take inputs and predict house prices in the following cities:
 1. Mumbai
@@ -36,6 +36,8 @@ The models tried out in this project are<br>
 <li>XGBoost Regression</li>
 </ol>
 
+Please check out the website at <a href="https://housingrentprediction.com/">Website</a>
+
 Running the project on local machine <br>
 Step 1 - Clone the project <br>
 ```
@@ -47,20 +49,23 @@ Step 2 - Create an environment <br>
 pip install virtualenv
 virualenv YOUR_ENVIRONMENT_NAME
 YOUR_ENVIRONMENT_NAME\Scripts\activate
+
+# or for linux/mac 
+virtualenv YOUR_ENVIRONMENT_NAME 
+source YOUR_ENV_NAME/bin/activate
 ```
+
 Step 3 - Install the dependencies <br>
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt 
+# for linux/mac 
+pip3 install -r requirements.txt
 ```
 Step 4 - Run the code <br>
 ```
 python main.py
-```
-Optional - Deployment (you should have google cloud sdk installed) <br>
-```
-gcloud init
-# choose the configuration settings and region
-gcloud app deploy app.yaml --project YOUR_PROJECT_NAME
+# for linux/mac
+python3 main.py
 ```
 
 Directory structure
@@ -71,15 +76,16 @@ Home - Objects - Encoders(Contains all the label encoders and ordinal encoders f
      - static - All the files needed to render flask app
      - templates - All the templates used in the flask app
      - _All_Cities_Cleaned.csv (data source)
-     - .gcloudignore - Files to be ignored while deploying the app on GCP
      - .gitignore - Files to be ignored while uploading code on github
-     - app.yaml - Specifies the instructions for the runtime while deploying the app on GCP
      - eda.ipynb - Python notebook used while doing Exploratory data analysis 
      - main.py - Python file containing the code for making the flask app
      - models.ipynb - Python notebook used while creating the models 
      - preprocessing.ipynb - Python notebook used while data preprocessing
      - README.md - Readme file for github repository 
      - requirements.txt - For installing the dependencies 
+     - sql_files - The files containing insert queries for SQL (need to run these queries to create initial database)
+     - wsgi.py - Entry point for deployment 
+     - combine.py - The python script which retrains the model every month 
 ```
 
 App structure<br>
@@ -109,3 +115,7 @@ Predict Page
 Results Page
 
 * Displays the result for the particular set of inputs
+
+This project is deployed on a production server by using gunicorn and nginx then connected to a domain via namecheap
+
+<a href = "https://aayushmaan1306.medium.com/end-to-end-machine-learning-project-a3543c89f6eb">Medium Blog</a>

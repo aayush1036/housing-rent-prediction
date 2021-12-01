@@ -265,19 +265,25 @@ train_r2_dict = {}
 test_r2_dict = {}
 # Model building 
 for city, df in preprocessed_df_dict.items():
+    # Grab X and y from the data 
     X = df.drop(['PRICE'], axis=1)
     y = df['PRICE']
+    # perform train test split
     X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=TEST_SIZE, random_state=RANDOM_STATE)
+    # Since XGBoost is the best model (from models.ipynb), we will retrain a XGBRegressor model every time 
     model = XGBRegressor(objective='reg:squarederror')
     model.fit(X_train, y_train)
+    # calculate r2_score for evaulation and write them to a file for evaluationn
     train_preds = model.predict(X_train)
     test_preds = model.predict(X_test)
     train_r2 = r2_score(y_true=y_train, y_pred=train_preds)
     test_r2 = r2_score(y_true=y_test, y_pred=test_preds)
     train_r2_dict[city] = train_r2
     test_r2_dict[city] = test_r2
+    # Save the model
     joblib.dump(model, os.path.join(MODEL_SAVE_PATH, f'{city}_model.pkl'))
 with open('model_results.txt', 'a+') as f:
+    f.write(f'Ran on {dt.datetime.now()}\n')
     f.write('Train r2\n')
     f.write(str(train_r2_dict))
     f.write('\n')
