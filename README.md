@@ -87,7 +87,7 @@ Home - Objects - Encoders(Contains all the label encoders and ordinal encoders f
 ```
 
 App structure<br>
-<img src="https://i.ibb.co/wYC5CSy/homepage.png" alt="homepage" border="0">
+<img src="https://i.ibb.co/RYzTHYH/home.png" alt="home" border="0">
 <br>
 Home page
 
@@ -96,24 +96,40 @@ Home page
 * Contains basic overall analysis for the entire data at the bottom 
 * Contains contact details in the bottom 
 <br>
-<img src="https://i.ibb.co/25GCnSz/citypage.png" alt="citypage" border="0"><br>
+<img src="https://i.ibb.co/GdC23yg/city.png" alt="city" border="0">
+<br>
 Pages for a particular city
 
 * Contains all the links to navigate through the page at the top
 * Contains a detailed analysis for the houses in that city to help the user in making an informed decision 
 * Contains a predict button at the bottom which takes the user to the predict page 
 <br>
-<img src="https://i.ibb.co/XxMkXGQ/predict.png" alt="predict" border="0"><br>
+<img src="https://i.ibb.co/N3LTgZG/predict.png" alt="predict" border="0">
+<br>
 Predict Page
 
 * Takes the input from the user
 * Submit button to display the results
 <br>
-<img src="https://i.ibb.co/hWFvZMq/result.png" alt="result" border="0"><br>
+<img src="https://i.ibb.co/Qps6Z22/result.png" alt="result" border="0">
+<br>
 Results Page
 
 * Displays the result for the particular set of inputs
 
-This project is deployed on a production server by using gunicorn and nginx then connected to a domain via namecheap
+<img src="https://i.ibb.co/VHvfppH/contribute.png" alt="contribute" border="0">
+<br>
+Contribute Page 
+
+* The user can provide information and contribute to the database if the user feels that the predictions are inaccurate or the inputs do not exist in the database 
+
+<img src="https://i.ibb.co/zXHjXtT/thanks.png" alt="thanks" border="0">
+<br>
+Thanks Page 
+
+* This page is displayed when the data contributed by the user is inserted in the database
+
+This project is deployed on a production server by using gunicorn and nginx then connected to a domain via namecheap.<br>
+The machine learning models on the server are retrained on the first of every month by using the combine.py script<br>
 
 <a href = "https://aayushmaan1306.medium.com/end-to-end-machine-learning-project-a3543c89f6eb">Medium Blog</a>
