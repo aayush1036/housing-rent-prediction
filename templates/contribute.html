@@ -23,8 +23,8 @@
 </head>
 
 <body>
-    <div class="city-row" id="predict">
-        <h2 class="mb-3">Predict the house price</h2>
+    <div class="city-row">
+        <h2 class="mb-3">Contribute to the database</h2>
         <div class="container my-3">
             <form method="POST" action="{{url_for('contribute')}}">
                 <div class="mb-3">
@@ -109,6 +109,11 @@
                 <button type="submit" class="btn btn-dark predictButton">SUBMIT</button>
 
             </form>
+            <div class="alert alert-warning" role="alert">
+                By filling the information, you acknowledge that the information you have entered is accurate and is
+                credible enough to contribute to our machine learning models
+            </div>
+
         </div>
 </body>
 

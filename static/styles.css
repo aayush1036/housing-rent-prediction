@@ -174,3 +174,18 @@ a{
     padding-top: 50px;
     padding-bottom: 20px;
 }
+
+.homebutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.thankyouimage{
+    height: 288px;
+    width: 441px;
+}
+
+.other-image{
+    height: 768px;
+    width: 1000px;
+}

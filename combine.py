@@ -177,11 +177,6 @@ for city, df in clean_df_dict.items():
     fig, ax = plt.subplots(figsize=PIE_FIGSIZE,nrows=PIE_NROWS, ncols=PIE_NCOLS) #create a fig with 2 rows and 2 cols 
     for i in range(PIE_NROWS): #loop through the rows 
         for j in range(PIE_NROWS): #loop through columns 
-            vc_df = pd.DataFrame(df[pie_cols[i,j]].value_counts()) #create a value counts dataframe 
-            vc_df[pie_cols[i,j]] = vc_df[pie_cols[i,j]].apply(lambda x: str(np.round((x/df.shape[0])*100,2)) + '%') 
-            #convert the numbers to percentage 
-            with open(os.path.join('outputs',city, f'{pie_cols[i,j]}.html'), 'w') as f: #open the output html file 
-                f.write(vc_df.to_html()) #store the html output in that file (to be used in flask app)
             ax[i,j].pie(x=df[pie_cols[i,j]].value_counts()) #plot the pie chart 
             text = pd.DataFrame(df[pie_cols[i,j]].value_counts().apply(lambda x: f'{np.round((x/df.shape[0])*100,2)}%')) 
             # create the text to display on pie chart 

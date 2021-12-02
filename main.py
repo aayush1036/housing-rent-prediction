@@ -102,12 +102,15 @@ def predict():
             return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
         except:
             return render_template('predict.html',message='failure') # return error message for wrong location
+    else:
+        return render_template('inputsfirst.html')
 @app.route('/GetCorrections')
-def get_corrections():
+def getCorrections():
     return render_template('contribute.html')
 @app.route('/Contribute',methods=['GET','POST'])
 def contribute():
-    # fetch the inputs from the form
+    if request.method == 'POST':
+        # fetch the inputs from the form
         city = request.form['city'].strip()
         seller_type = request.form['seller_type']
         bedrooms = int(request.form['bedroom'])
@@ -146,6 +149,8 @@ def contribute():
             return render_template('thanks.html', status='success') # return the predictions
         except:
             return render_template('thanks.html', status='failure') # return error message for wrong location
+    else:
+        return render_template('error.html')
     
 if __name__ == '__main__':
-    app.run(debug=False, host='0.0.0.0')
+    app.run(debug=True)

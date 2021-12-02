@@ -21,6 +21,7 @@
     <script src="https://kit.fontawesome.com/4231346c72.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{url_for('static', filename='styles.css')}}">
 </head>
+
 <body>
     {% if city=='MUMBAI' %}
     <h1>Mumbai</h1>
@@ -45,12 +46,16 @@
     <img src="https://ihplb.b-cdn.net/wp-content/uploads/2015/09/Kankaria-Lake-Ahmedabad.jpg" alt="Ahemdabad">
     {% elif city == 'PUNE'%}
     <h1>Pune</h1>
-    <img src="https://wikitravel.org/upload/en/thumb/9/9e/A_backside_view_of_the_Pune_University_Main_building-_2015-06-18_16-08.jpg/450px-A_backside_view_of_the_Pune_University_Main_building-_2015-06-18_16-08.jpg" alt="Pune">
+    <img src="https://wikitravel.org/upload/en/thumb/9/9e/A_backside_view_of_the_Pune_University_Main_building-_2015-06-18_16-08.jpg/450px-A_backside_view_of_the_Pune_University_Main_building-_2015-06-18_16-08.jpg"
+        alt="Pune">
     {% endif %}
     {% if message != 'failure' %}
-        <h2>{{message}} for {{city}}</h2>
+    <h2>{{message}} for {{city}}</h2>
     {% endif %}
-    <h3 class="displayHeading">Feel that the prediction is inaccuracte or data in our database is insufficient, please feel free to contribute to the data</h3>
-    <a class="btn btn-dark" href="{{url_for('get_corrections')}}">CONTRIBUTE</a>
+    <h3 class="displayHeading">Feel that the prediction is inaccuracte or data in our database is insufficient? Please
+        feel free to contribute to the data</h3>
+    <a class="btn btn-dark" href="{{url_for('getData')}}">BACK</a>
+    <a class="btn btn-dark" href="{{url_for('getCorrections')}}">CONTRIBUTE</a>
 </body>
+
 </html>

@@ -85,6 +85,7 @@
                     {% block numerical_image %}
 
                     {% endblock numerical_image %}
+                    <br>
                     <p>
                         In this image, we analyze 4 things which are numerical in nature, the distribution of price of
                         houses in the top left chart,
@@ -93,6 +94,7 @@
                         and the bar chart of number of houses in the city in the top right chart.
                     </p>
                 </div>
+                <br>
                 <div class="city-row" id="Sapcious">
                     <h3>Area</h3>
                     {% block area_image %}
@@ -130,9 +132,6 @@
                 </div>
                 <div class="city-row" id="Other">
                     <h3>Other</h3>
-                    {% block other_image %}
-                        
-                    {% endblock other_image %}
                     <p>
                         Here we have analyzed other aspects of the houses in each city which are
                     <ol>
@@ -167,10 +166,10 @@
                             <li>Unfurnished - Contains no furnitire</li>
                         </ul>
                     </ol>
-
-                    {% block table %}
+                    <h2>Pie charts for the above attributes</h2>
+                    {% block other_image %}
                         
-                    {% endblock table %}
+                    {% endblock other_image %}
             <div class="predictButton" id="predict">
                 <a class="btn btn-dark predictButton" href="{{url_for('getData')}}">PREDICT</a>
             </div>
