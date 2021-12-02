@@ -163,7 +163,8 @@ overall_numerical_cols = ['PRICE','AREA','AFFORDABILITY']
 for col in overall_numerical_cols:
     fig, ax = plt.subplots(figsize=REGULAR_FIGSIZE)
     mean_df = combined.groupby(by=['CITY'])[col].mean()
-    sns.lineplot(x=mean_df.index, y=mean_df, ax=ax)
+    mean_df.sort_values(inplace=True,ascending=False)
+    sns.barplot(x=mean_df.index, y=mean_df, ax=ax)
     ax.set_xlabel('CITY')
     ax.set_ylabel(f'AVERAGE {col}')
     ax.set_title(f'AVERAGE {col} IN EACH CITY')
