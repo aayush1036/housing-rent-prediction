@@ -144,7 +144,7 @@ preprocess(df_dict)
 # EDA 
 for city, df in clean_df_dict.items():
     df['CITY'] = city
-    df['AFFORDABILITY'] = df['PRICE']/df['AREA']
+    df['AFFORDABILITY'] = df['AREA']/df['PRICE']
 
 combined = pd.concat([clean_df_dict[city] for city in CITIES])
 
