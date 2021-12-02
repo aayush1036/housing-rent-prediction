@@ -216,25 +216,26 @@ for city, df in clean_df_dict.items():
     plt.savefig(os.path.join(NUMERICAL_PLOT_DESTINATION, f'{city}.png')) #save the figure at the path 
 
 # Affordability analysis
-for city, df in clean_df_dict.items():
-    affordable = df.groupby(by=['LOCALITY'])['AFFORDABILITY'].mean() #calculate the mean price for each area
-    most_affordable = affordable.sort_values(ascending=True)[:10] #sort them in ascending order for most affordable 
-    least_affordable = affordable.sort_values(ascending=False)[:10] #sort them in descending order for least affordable
-    fig, ax = plt.subplots(figsize=MULTICOL_FIGSIZE,nrows=1,ncols=2) #create a figure of 1 row and 2 cols 
-    sns.barplot(x=most_affordable.index, y=most_affordable,ax=ax[0]) #plot the most affordable areas on 1st column 
-    ax[0].set_title(f'MOST AFFORDABLE LOCALITIES IN {city}') #set the title 
-    ax[0].set_xlabel('LOCALITY') #set the xlabel 
-    ax[0].set_ylabel('AVERAGE PRICE PER SQUARE FEET') #set the ylabel 
+for city, df in clean_df_dict.items(): 
+    affordable = df.groupby(by=['LOCALITY'])['AFFORDABILITY'].mean() #calculate mean area for each locality 
+    most_affordable = affordable.sort_values(ascending=False)[:10] #sort in ascending order for most spacious 
+    least_affordable = affordable.sort_values(ascending=True)[:10] #sort in descending order for least spacious 
+    fig, ax = plt.subplots(figsize=MULTICOL_FIGSIZE,nrows=1,ncols=2) #create figure with 1 row and 2 cols 
+    sns.barplot(x=least_affordable.index, y=least_affordable, ax=ax[0], order=least_affordable.index[::-1]) #plot least spacious on 1st col 
+    ax[0].set_title(f'LEAST AFFORDABLE LOCALITIES IN {city}') #set title 
+    ax[0].set_xlabel('LOCALITY') #set xlabel 
+    ax[0].set_ylabel('AVERAGE AFFORDABLITY') #set ylabel
     ax[0].tick_params(axis='x',labelrotation=90) #rotate the labels on x axis by 90 degrees for readibility
-    sns.barplot(x=least_affordable.index, y=least_affordable, ax=ax[1]) #plot the least affordable areas on 2nd column 
-    ax[1].set_title(f'LEAST AFFORDABLE LOCALITIES IN {city}') #set the title 
-    ax[1].set_xlabel('LOCALITY') #set the xlabel 
-    ax[1].set_ylabel('AVERAGE PRICE PER SQUARE FEET') #set the ylabel 
+    sns.barplot(x=most_affordable.index, y=most_affordable,ax=ax[1],order=most_affordable.index[::-1])#plot least affordable localities in 2nd column 
+    ax[1].set_title(f'MOST AFFORDABLE LOCALITIES IN {city}') 
+    ax[1].set_xlabel('LOCALITY') #set xlabel 
+    ax[1].set_ylabel('AVERAGE AFFORDABLITY') #set ylabel
     ax[1].tick_params(axis='x',labelrotation=90) #rotate the labels on x axis by 90 degrees for readibility
-    plt.tight_layout() #tight layout to prevent overlapping 
+    plt.tight_layout() #apply tight layout for no overlap  
     if not os.path.exists(AFFORDABILITY_PLOT_DESTINATION): #check if the path exists
         os.makedirs(AFFORDABILITY_PLOT_DESTINATION) #if not, make the path 
     plt.savefig(os.path.join(AFFORDABILITY_PLOT_DESTINATION, f'{city}.png')) #save the figure 
+    plt.show() #show the figure 
 
 # Area analysis 
 for city, df in clean_df_dict.items():
