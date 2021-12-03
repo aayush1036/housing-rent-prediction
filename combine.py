@@ -25,8 +25,6 @@ SELLER_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/seller_type/'
 FURNITURE_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/furniture_encoders/'
 # city list 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
-# columns list 
-cols = ['SELLER TYPE','BEDROOM','LAYOUT TYPE','PROPERTY TYPE','LOCALITY','PRICE','AREA','FURNISH TYPE','BATHROOM']
 # for plotting 
 PIE_NROWS = 2
 PIE_NCOLS = 2
@@ -62,7 +60,7 @@ y_train_dict = {}
 
 # connecting to mysql 
 conn = mysql.connector.connect(
-    host='34.93.147.30',
+    host='localhost',
     port=3306,
     user='root',
     password=PASSWORD,
@@ -74,71 +72,97 @@ df_dict = dict(zip(CITIES, [pd.read_sql(f'SELECT * FROM {city}', con=conn) for c
 # closing the connection 
 conn.close()
 
-# preprocessing the data 
-def preprocess(df_dict:dict)-> None:
-    """Preprocesses the data according to the following steps: 
-    1) Remove duplicates
-    2) Remove outliers (i.e below Q1-1.5*IQR or above Q3+1.5*IQR) 
-    3) Label Encode locality - as the order does not matter while encoding locality
-    4) Ordinal Encode property type - as the order does matter while encoding property type
-    5) Ordinal Encode seller type - as the order does matter while encoding seller type 
-    6) Ordinal Encode layout type - as the order does matter while encoding layout type 
-    7) Ordinal Encode furnish type - as the order does matter while encoding furnish type
-    
-    Keyword arguments:
-    df_dict(dict) -- The dictionary containing the dataframes for preprocessing
-    Return: None
+# for storing encoders while preprocessing 
+locality_encoder_dict = {}
+furnish_type_encoder_dict = {}
+seller_type_encoder_dict = {}
+layout_type_encoder_dict = {}
+property_type_encoder_dict = {}
+
+# for storing encoders while preprocessing 
+locality_encoder_dict = {}
+furnish_type_encoder_dict = {}
+seller_type_encoder_dict = {}
+layout_type_encoder_dict = {}
+property_type_encoder_dict = {}
+def preprocess(df_dict):
+    """
+    Cleans and preprocesses the data for future use 
+    Cleaning:
+        - Removes duplicate rows (if they exist)
+        - Removes the city column as the dataframes are already separated 
+        - Removes outliers on the basis of price column using lower limit as (Q1-1.5*IQR) and 
+        upper limit as (Q3+1.5*IQR)
+    Preprocessing:
+        - Uses label encoding for locality column as order does not matter in locality
+        - Uses ordianal encoding for furnish_type, layout_type, seller_type and property_type as the 
+        order matters in these columns for predicting the rent prices
+    Args:
+        df_dict - the dictionary containing cities as keys and the dataframe corresponding to them as values 
+    Returns:
+        None 
     """
     for city, df in df_dict.items():
-        # Rename columns for uniformity
-        df.columns = cols 
-        # Dropping the duplicates (if any)
+        # Cleaning the data 
+        # Renaming the columns
+        df.columns = ['SELLER TYPE','BEDROOM','LAYOUT TYPE','PROPERTY TYPE','LOCALITY','PRICE','AREA','FURNISH TYPE','BATHROOM']
+        # Dropping duplicate rows (if they exist)
         df.drop_duplicates(inplace=True)
-        # Converting locality to upper case 
-        df['LOCALITY'] = df['LOCALITY'].str.upper()
         # Removing outliers 
         desc = df['PRICE'].describe()
-        # Getting IQR
-        iqr = desc.loc['75%'] - desc.loc['25%']
-        # Calculating lower limit as Q1-(1.5*IQR)
-        lower_limit = desc.loc['25%'] - 1.5*iqr
-        # Calculating upper limit as Q3+(1.5*IQR)
-        upper_limit = desc.loc['75%'] + 1.5*iqr
-        # Subsetting the data so as to remove outliers 
-        df = df[(df['PRICE']>=lower_limit)&(df['PRICE']<=upper_limit)]
-        # storing the data in clean_df_dict for EDA later on
-        clean_df_dict[city] = df.copy()
-        # Building the categories for ordinal encoder 
-        cat_furnish = [['Unfurnished','Semi-Furnished','Furnished']]
-        cat_seller = [df.groupby(by=['SELLER TYPE'])['PRICE'].mean().sort_values(ascending=True).index.values.tolist()]
-        cat_layout_type = [df.groupby(by=['LAYOUT TYPE'])['PRICE'].mean().sort_values(ascending=True).index.values.tolist()]
-        cat_property_type = [df.groupby(by=['PROPERTY TYPE'])['PRICE'].mean().sort_values(ascending=True).index.values.tolist()]
-        # creating ordinal encoders
-        furnish_type_encoder = OrdinalEncoder(categories=cat_furnish)
-        seller_type_encoder = OrdinalEncoder(categories=cat_seller)
-        layout_type_encoder = OrdinalEncoder(categories=cat_layout_type)
-        property_type_encoder = OrdinalEncoder(categories=cat_property_type)
-        # creating label encoders 
+        q1 = desc.loc['25%']
+        q3 = desc.loc['75%']
+        iqr = q3-q1 
+        lower_lim = q1-(1.5*iqr)
+        upper_lim = q3+(1.5*iqr)
+        df = df[(df['PRICE']>=lower_lim)&(df['PRICE']<=upper_lim)]
+        # Renaming the columns 
+        cols = ['SELLER TYPE','BEDROOM','LAYOUT TYPE','PROPERTY TYPE','LOCALITY','PRICE','AREA','FURNISH TYPE','BATHROOM']
+        df.columns = cols
+        # since the data is cleaned now, we can store it in clean_dict 
+        clean_df = df.copy()
+        clean_df_dict[city] = clean_df
+        # Preprocessing the data 
         locality_encoder = LabelEncoder()
-        # Applying the transformations 
         df['LOCALITY'] = locality_encoder.fit_transform(df['LOCALITY'])
-        df['FURNISH TYPE'] = furnish_type_encoder.fit_transform(df[['FURNISH TYPE']])
-        df['SELLER TYPE'] = seller_type_encoder.fit_transform(df[['SELLER TYPE']])
-        df['PROPERTY TYPE'] = property_type_encoder.fit_transform(df[['PROPERTY TYPE']])
-        df['LAYOUT TYPE'] = layout_type_encoder.fit_transform(df[['LAYOUT TYPE']])
-        # checking if the path exists
-        paths = [FURNITURE_ENCODER_PATH, LAYOUT_ENCODER_PATH, LOCALITY_ENCODER_PATH, SELLER_ENCODER_PATH, PROPERTY_ENCODER_PATH]
-        for path in paths:
-            if not os.path.exists(path):
-                os.makedirs(path)
-        # saving the encoders 
-        joblib.dump(furnish_type_encoder, os.path.join(FURNITURE_ENCODER_PATH, f'{city}_furnish_type_encoder.pkl'))
-        joblib.dump(seller_type_encoder, os.path.join(SELLER_ENCODER_PATH, f'{city}_seller_type_encoder.pkl'))
-        joblib.dump(layout_type_encoder, os.path.join(LAYOUT_ENCODER_PATH, f'{city}_layout_type_encoder.pkl'))
-        joblib.dump(property_type_encoder, os.path.join(PROPERTY_ENCODER_PATH, f'{city}_property_type_encoder.pkl')) 
-        joblib.dump(locality_encoder, os.path.join(LOCALITY_ENCODER_PATH, f'{city}_locality_encoder.pkl'))
-        # save the dataframe in preprocessed_df_dict
+        locality_encoder_dict[city] = locality_encoder
+        if not os.path.exists(LOCALITY_ENCODER_PATH):
+            joblib.dump(locality_encoder)
+        
+        ordinal_encoder_cols = ['SELLER TYPE','LAYOUT TYPE','PROPERTY TYPE','FURNISH TYPE']        
+        ord_enc_dict = {
+            'SELLER TYPE':seller_type_encoder_dict,
+            'LAYOUT TYPE':layout_type_encoder_dict,
+            'PROPERTY TYPE':property_type_encoder_dict,
+            'FURNISH TYPE':furnish_type_encoder_dict
+        }
+        for col in ordinal_encoder_cols:
+            cat = [df.groupby(by=[col])['PRICE'].mean().sort_values(ascending=True).index]
+            col_encoder = OrdinalEncoder(categories=cat)
+            df[col] = col_encoder.fit_transform(df[[col]])
+            ord_enc_dict[col][city] = col_encoder
         preprocessed_df_dict[city] = df
+        paths = {
+            'SELLER TYPE': os.path.join(SELLER_ENCODER_PATH, f'{city}_seller_type_encoder.pkl'),
+            'LAYOUT TYPE': os.path.join(LAYOUT_ENCODER_PATH,f'{city}_layout_type_encoder.pkl'),
+            'PROPERTY TYPE': os.path.join(PROPERTY_ENCODER_PATH,f'{city}_property_type_encoder.pkl'),
+            'FURNISH TYPE': os.path.join(FURNITURE_ENCODER_PATH, f'{city}_furnish_type_encoder.pkl')
+        }
+
+        if not os.path.exists(FURNITURE_ENCODER_PATH): #check if the desired file path exists
+            os.makedirs(FURNITURE_ENCODER_PATH) #if not then make one 
+
+        if not os.path.exists(SELLER_ENCODER_PATH):
+            os.makedirs(SELLER_ENCODER_PATH)
+        
+        if not os.path.exists(LAYOUT_ENCODER_PATH):
+            os.makedirs(LAYOUT_ENCODER_PATH)
+        
+        if not os.path.exists(PROPERTY_ENCODER_PATH):
+            os.makedirs(PROPERTY_ENCODER_PATH)
+     
+        for col in ordinal_encoder_cols:
+            joblib.dump(ord_enc_dict[col][city], paths[col])
 preprocess(df_dict)
 
 # EDA 
@@ -235,7 +259,6 @@ for city, df in clean_df_dict.items():
     if not os.path.exists(AFFORDABILITY_PLOT_DESTINATION): #check if the path exists
         os.makedirs(AFFORDABILITY_PLOT_DESTINATION) #if not, make the path 
     plt.savefig(os.path.join(AFFORDABILITY_PLOT_DESTINATION, f'{city}.png')) #save the figure 
-    plt.show() #show the figure 
 
 # Area analysis 
 for city, df in clean_df_dict.items():
