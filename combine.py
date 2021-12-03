@@ -60,7 +60,7 @@ y_train_dict = {}
 
 # connecting to mysql 
 conn = mysql.connector.connect(
-    host='localhost',
+    host='34.93.147.30',
     port=3306,
     user='root',
     password=PASSWORD,
