@@ -197,8 +197,6 @@ for col in overall_numerical_cols:
 # Other analysis
 pie_cols = np.array(['SELLER TYPE','LAYOUT TYPE','PROPERTY TYPE','FURNISH TYPE']).reshape(PIE_NROWS,PIE_NCOLS)
 for city, df in clean_df_dict.items():
-    if not os.path.exists(os.path.join('outputs',city)): #check if the path exists 
-        os.makedirs(os.path.join('outputs',city)) #if not, make the path 
     fig, ax = plt.subplots(figsize=PIE_FIGSIZE,nrows=PIE_NROWS, ncols=PIE_NCOLS) #create a fig with 2 rows and 2 cols 
     for i in range(PIE_NROWS): #loop through the rows 
         for j in range(PIE_NROWS): #loop through columns 
