@@ -12,6 +12,7 @@ import os
 import warnings
 from sklearn.metrics import r2_score
 import datetime as dt
+import json
 plt.style.use('seaborn')
 warnings.simplefilter(action='ignore')
 
@@ -48,24 +49,24 @@ EVALUATION_NCOLS = 2
 TEST_SIZE = 0.3
 RANDOM_STATE = 42
 
-# Reading credentials 
-with open('credentials.txt', 'r') as f:
-    PASSWORD = f.read().strip()
-
 # Initializing dictionaries 
 clean_df_dict = {}
 preprocessed_df_dict = {}
 X_train_dict = {}
 y_train_dict = {}
 
+# getting the config file 
+with open('config.json', 'r') as f:
+    config = json.load(f)
+
 # connecting to mysql 
 conn = mysql.connector.connect(
-    host='34.93.147.30',
-    port=3306,
-    user='root',
-    password=PASSWORD,
-    database='CLEAN',
-    auth_plugin='mysql_native_password'
+    host=config.get('host'),
+    port=config.get('port'),
+    user=config.get('user'),
+    password=config.get('password'),
+    database=config.get('database'),
+    auth_plugin=config.get('auth_plugin')
 )
 # reading the data and storing it in dictionaries 
 df_dict = dict(zip(CITIES, [pd.read_sql(f'SELECT * FROM {city}', con=conn) for city in CITIES]))
@@ -105,6 +106,7 @@ def preprocess(df_dict):
     for city, df in df_dict.items():
         # Cleaning the data 
         # Renaming the columns
+        df.drop(['ID'],axis=1, inplace=True)
         df.columns = ['SELLER TYPE','BEDROOM','LAYOUT TYPE','PROPERTY TYPE','LOCALITY','PRICE','AREA','FURNISH TYPE','BATHROOM']
         # Dropping duplicate rows (if they exist)
         df.drop_duplicates(inplace=True)

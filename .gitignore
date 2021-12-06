@@ -1,8 +1,6 @@
-test.ipynb
-outputs/
-ml-env/
-credentials.txt
 __pycache__/
 env/
 outputs.txt
 model_results.txt
+config.json
+preprocessed/
