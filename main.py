@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import os 
 import mysql.connector
-
+import json
 # CONSTANTS 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
 MODEL_PATH = 'Objects/Models/'
@@ -12,8 +12,8 @@ FURNITURE_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/furniture_encoders/'
 LAYOUT_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/layout_type/'
 PROPERTY_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/property_type/'
 SELLER_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/seller_type/'
-with open('credentials.txt', 'r') as f:
-    PASSWORD = f.read().strip()
+with open('config.json', 'r') as f:
+    config = json.load(f)
 
 # Create a flask app
 app = Flask(__name__)
@@ -126,12 +126,12 @@ def contribute():
         try:
             # make a connection to MySQL
             conn = mysql.connector.connect(
-                        host='34.93.147.30',
-                        port=3306,
-                        user='root',
-                        password=PASSWORD,
-                        database='CLEAN',
-                        auth_plugin='mysql_native_password'
+                        host=config.get('host'),
+                        port=config.get('port'),
+                        user=config.get('user'),
+                        password=config.get('passowrd'),
+                        database=config.get('database'),
+                        auth_plugin = config.get('auth_plugin')
                     )
             # create a cursor to execute queries in the connection 
             cursor = conn.cursor()
