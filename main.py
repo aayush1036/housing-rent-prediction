@@ -116,7 +116,7 @@ def contribute():
         bedrooms = int(request.form['bedroom'])
         layout_type = request.form['layout_type']
         property_type = request.form['property_type']
-        locality = request.form['locality'].upper()
+        locality = request.form['locality'].strip().upper()
         area = float(request.form['area'])
         furnish_type = request.form['furnish_type']
         bathroom = int(request.form['bathroom']) 
@@ -153,4 +153,4 @@ def contribute():
         return render_template('error.html')
     
 if __name__ == '__main__':
-    app.run(debug=False, host='0.0.0.0')
+    app.run(debug=True,host='0.0.0.0')
