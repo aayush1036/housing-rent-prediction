@@ -4,6 +4,7 @@ import numpy as np
 import os 
 import mysql.connector
 import json
+
 # CONSTANTS 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
 MODEL_PATH = 'Objects/Models/'
@@ -116,7 +117,7 @@ def contribute():
         bedrooms = int(request.form['bedroom'])
         layout_type = request.form['layout_type']
         property_type = request.form['property_type']
-        locality = request.form['locality'].strip().upper()
+        locality = request.form['locality'].upper().strip()
         area = float(request.form['area'])
         furnish_type = request.form['furnish_type']
         bathroom = int(request.form['bathroom']) 
@@ -129,9 +130,9 @@ def contribute():
                         host=config.get('host'),
                         port=config.get('port'),
                         user=config.get('user'),
-                        password=config.get('passowrd'),
+                        password=config.get('password'),
                         database=config.get('database'),
-                        auth_plugin = config.get('auth_plugin')
+                        auth_plugin=config.get('auth_plugin')
                     )
             # create a cursor to execute queries in the connection 
             cursor = conn.cursor()
