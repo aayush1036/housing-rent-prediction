@@ -56,7 +56,7 @@ git clone REPOSITORY_URL
 ```
 cd housing-rent-prediction
 ```
-10. Create credentials.txt and store the password in it as it was not cloned because of gitignore file 
+10. Create config.json and store the database details in it as it was not cloned because of gitignore file 
 
 11. Create an environment and configure it
 ```
