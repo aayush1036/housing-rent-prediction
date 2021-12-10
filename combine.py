@@ -173,6 +173,28 @@ for city, df in clean_df_dict.items():
     df['AFFORDABILITY'] = df['AREA']/df['PRICE']
 
 combined = pd.concat([clean_df_dict[city] for city in CITIES])
+# Overall Analysis (for home page)
+# Preferred Cities
+fig, ax = plt.subplots(figsize=REGULAR_FIGSIZE)
+sns.countplot(x=combined['CITY'],ax=ax)
+ax.set_xlabel('CITY')
+ax.set_ylabel('NUMBER OF HOUSES')
+ax.set_title('NUMBER OF HOUSES IN EACH CITY')
+if not os.path.exists(OVERALL_NUMERICAL_ANALYSIS_PATH):
+    os.makedirs(OVERALL_NUMERICAL_ANALYSIS_PATH)
+plt.savefig(os.path.join(OVERALL_NUMERICAL_ANALYSIS_PATH, 'n_houses.png'))
+
+# Other columns 
+overall_numerical_cols = ['PRICE','AREA','AFFORDABILITY']
+for col in overall_numerical_cols:
+    fig, ax = plt.subplots(figsize=REGULAR_FIGSIZE)
+    mean_df = combined.groupby(by=['CITY'])[col].mean()
+    mean_df.sort_values(inplace=True,ascending=False)
+    sns.barplot(x=mean_df.index, y=mean_df, ax=ax)
+    ax.set_xlabel('CITY')
+    ax.set_ylabel(f'AVERAGE {col}')
+    ax.set_title(f'AVERAGE {col} IN EACH CITY')
+    plt.savefig(os.path.join(OVERALL_NUMERICAL_ANALYSIS_PATH, f'{col}.png'))
 
 # Number of houses in each city
 fig, ax = plt.subplots(figsize=REGULAR_FIGSIZE)
