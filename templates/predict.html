@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Mumbai</title>
+    <title>{{city}}</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
@@ -54,7 +54,7 @@
     {% endif %}
     <h3 class="displayHeading">Feel that the prediction is inaccuracte or data in our database is insufficient? Please
         feel free to contribute to the data</h3>
-    <a class="btn btn-dark" href="{{url_for('getData')}}">BACK</a>
+    <a class="btn btn-dark" href="{{url_for('home')}}">HOME</a>
     <a class="btn btn-dark" href="{{url_for('getCorrections')}}">CONTRIBUTE</a>
 </body>
 
