@@ -175,8 +175,9 @@ crontab -e # edit crontab in vim editor
 # Get path of python3 in env 
 source env/bin/activate 
 whereis python3 
-
+# Get the path of git 
+whereis git 
 # Copy the path which has housing-rent-prediction in it 
 # Enable cron job for retraining model monthly at 12:00 AM
-0 0 1 * * cd housing-rent-prediction && /home/YOUR_USER_NAME/housing-rent-prediction/env/bin/python3 combine.py && sudo service app restart && sudo service nginx restart >> outputs.txt
+0 0 1 * * cd housing-rent-prediction && /home/YOUR_USER_NAME/housing-rent-prediction/env/bin/python3 combine.py && sudo service app restart && sudo service nginx restart && /usr/bin/git add --a && /usr/bin/git commit -m "Run cron job" && /usr/bin/git push origin master >> outputs.txt
 ```
