@@ -4,8 +4,10 @@
 ```
 # create a user
 adduser YOUR_USER_NAME
+```
 
 # elevate the user to sudo group 
+```
 usermod -aG sudo YOUR_USER_NAME
 ``` 
 2. Configure the firewall
@@ -22,11 +24,14 @@ ufw enable
 
 4. Edit the sysctl.conf file to track large changes 
 ```
-# For running linux in vscode 
 sudo vim /etc/sysctl.conf
+```
 # Paste this 
+```
 fs.inotify.max_user_watches=524288
+```
 # execute this command to set the value 
+```
 sudo sysctl -p 
 ```
 
@@ -48,8 +53,9 @@ export PATH=/Users/YOUR_USER_NAME/Library/Python/3.8/bin:$PATH
 # Configure  github 
 git config --global user.name "YOUR_GITHUB_USER_NAME"
 git config --global user.email "YOUR_GITHUB_EMAIL"
-
+```
 # clone the repo from github 
+```
 git clone REPOSITORY_URL
 ```
 9. Move to that directory
@@ -62,14 +68,17 @@ cd housing-rent-prediction
 ```
 # Install virtualenv package to create environment named env 
 sudo pip3 install virtualenv
-
+```
 # Create the environment
+```
 virtualenv env 
-
+```
 # activate the environment
+```
 source env/bin/activate 
-
+```
 # Install the required packages
+```
 pip3 install -r requirements.txt && pip3 install gunicorn 
 ```
 12. Create ```wsgi.py``` as entry point 
@@ -91,8 +100,9 @@ deactivate
 15. Create and configure a service named app
 ```
 sudo vim /etc/systemd/system/app.service
-
-# Open in insert mode and paste the following thing 
+```
+And paste the following in that file
+``` 
 [Unit]
 #  specifies metadata and dependencies
 Description=Gunicorn instance to serve myproject
@@ -113,16 +123,19 @@ ExecStart=/home/YOUR_USER_NAME/housing-rent-prediction/env/bin/gunicorn --worker
 # This will tell systemd what to link this service to if we enable it to start at boot. We want this service to start when the regular multi-user system is up and running:
 [Install]
 WantedBy=multi-user.target
-
-# Enable and start the service named app
+```
+Enable and start the service named app
+```
 sudo systemctl start app
 sudo systemctl enable app
 ```
 16. Configure nginx
+Open the nginx file 
 ```
 sudo vim /etc/nginx/sites-available/app
-
+```
 # Open in insert mode and paste the following thing 
+```
 server {
 listen 80;
 server_name YOUR_DOMAIN_NAME;
@@ -141,14 +154,17 @@ location /templates {
     alias /home/YOUR_USER_NAME/housing-rent-prediction/templates;
 }
 }   
-
+```
 # Activate nginx configuration 
+```
 sudo ln -s /etc/nginx/sites-available/app /etc/nginx/sites-enabled
-
+```
 # Restart nginx service 
+```
 sudo systemctl restart nginx
-
+```
 # Allow nginx through firewall
+```
 sudo ufw allow 'Nginx Full'
 ufw enable 
 ```
@@ -171,13 +187,24 @@ crontab -e # edit crontab in vim editor
 30 4 1 * * sudo certbot renew --quiet
 ```
 18. Create a cron job which retrains the machine learning model 
+Get path of python3 in env 
 ```
-# Get path of python3 in env 
 source env/bin/activate 
 whereis python3 
-# Get the path of git 
+```
+Get the path of git 
+```
 whereis git 
-# Copy the path which has housing-rent-prediction in it 
-# Enable cron job for retraining model monthly at 12:00 AM
+```
+Open crontab
+```
+crontab -e
+```
+
+Copy the path which has housing-rent-prediction in it <br>
+Enable cron job for retraining model monthly at 12:00 AM
+
+
+```
 0 0 1 * * cd housing-rent-prediction && /home/YOUR_USER_NAME/housing-rent-prediction/env/bin/python3 combine.py && sudo service app restart && sudo service nginx restart && /usr/bin/git add --a && /usr/bin/git commit -m "Run cron job" && /usr/bin/git push origin master >> outputs.txt
 ```
