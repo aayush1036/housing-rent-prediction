@@ -34,8 +34,6 @@ The models tried out in this project are<br>
 <li>XGBoost Regression</li>
 </ol>
 
-Please check out the website at <a href="https://www.housingrentprediction.xyz/">Website</a>
-
 Running the project on local machine <br>
 Step 1 - Clone the project <br>
 ```
