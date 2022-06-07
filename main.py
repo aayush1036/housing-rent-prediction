@@ -1,16 +1,10 @@
 from flask import Flask, render_template,request
 import numpy as np
-from utils import loadModels,loadEncoders, getDataFromForm, createConnection
-
+from utils import loadModels,loadEncoders, getDataFromForm, createConnection, transformData
 # CONSTANTS 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
 model_dict = loadModels()
-locality_encoder_dict = loadEncoders(col='locality')
-furnish_type_encoder_dict = loadEncoders(col='furnish_type')
-layout_encoder_dict = loadEncoders(col='layout_type')
-property_encoder_dict = loadEncoders(col='property_type')
-seller_encoder_dict = loadEncoders(col='seller_type')
-
+encoders = loadEncoders()
 # Create a flask app
 app = Flask(__name__)
 
@@ -59,34 +53,20 @@ def getData():
 def predict():
     if request.method == 'POST':
         # fetch the inputs from the form
-        city, (seller_type, bedrooms, 
-        layout_type, property_type, locality, area, furnish_type, bathroom) = getDataFromForm(request=request)
+        city, values = getDataFromForm(request=request)
         try:
             # make inputs compatible with our machine learning model 
-            locality = locality_encoder_dict[city].transform([locality])
-            furnish_type = furnish_type_encoder_dict[city].transform([[furnish_type]])
-            layout_type = layout_encoder_dict[city].transform([[layout_type]])
-            property_type = property_encoder_dict[city].transform([[property_type]])
-            seller_type = seller_encoder_dict[city].transform([[seller_type]])
+            data = transformData(city=city, data=values, encoders=encoders)
             model = model_dict[city]
             # make the prediction 
-            preds = model.predict(np.array([
-                seller_type,
-                bedrooms,
-                layout_type,
-                property_type,
-                locality,
-                area,
-                furnish_type,
-                bathroom
-            ],dtype='object').reshape(-1,1).T)
+            preds = model.predict(data)
             preds=preds[0]
             preds = np.round(preds)
             message = f'The prediction is Rs {preds:,} for {city}'
             return render_template('display.html',statusCode='Success',message=message) # return the predictions
         except:
             message = 'The location that you have entered is not registered in our database'
-            return render_template('diplsay.html',statusCode = 'failure',message=message) # return error message for wrong location
+            return render_template('display.html',statusCode = 'Failure',message=message) # return error message for wrong location
 @app.route('/GetCorrections')
 def getCorrections():
     return render_template('contribute.html')

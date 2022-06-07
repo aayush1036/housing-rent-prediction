@@ -2,11 +2,14 @@ import mysql.connector
 import joblib 
 import os 
 import json
-
+import numpy as np 
 # Constants 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
 MODEL_PATH = os.path.join('Objects','Models')
 ORDINAL_PATH = os.path.join('Objects','Encoders','OrdinalEncoder')
+NUM_COLS = ['bedroom', 'area', 'bathroom']
+ALL_COLS = ['seller_type','bedroom','layout_type','property_type','locality','area','furnish_type','bathroom']
+
 paths = {
     'locality':os.path.join('Objects','Encoders','LabelEncoder'),
     'furnish_type':os.path.join(ORDINAL_PATH, 'furniture_encoders'),
@@ -25,20 +28,16 @@ def loadModels()->dict:
     model_dict = {city:joblib.load(os.path.join(MODEL_PATH, f'{city}_model.pkl')) for city in CITIES}
     return model_dict
 
-def loadEncoders(col:str)->dict:
-    """Loads the encoders for particular columns
-
-    Args:
-        col (str): The column for which you want to load the encoders
+def loadEncoders()->dict:
+    """Loads the encoders for every column of every city
 
     Returns:
-        dict: The dictionary containing encoders for that column for all cities
-    """
-    base_path = paths[col]
-    encoder_dict = {city:joblib.load(os.path.join(base_path, f'{city}_{col}_encoder.pkl')) for city in CITIES}
+        dict: The nested dictionary containing encoders for each column for each city
+    """    
+    encoder_dict = {city: {col:joblib.load(os.path.join(paths[col], f'{city}_{col}_encoder.pkl')) for col in paths.keys()} for city in CITIES}
     return encoder_dict
 
-def getDataFromForm(request, contribute=False)->tuple:
+def getDataFromForm(request, contribute=False)->dict:
     """Gets data from a form and loads it
 
     Args:
@@ -46,22 +45,24 @@ def getDataFromForm(request, contribute=False)->tuple:
         contribute (bool, optional): Whether the data will be used to contribute to the database or not. Defaults to False.
 
     Returns:
-        tuple: The tuple containing the values
+        dict: The dictionary containing column names and data 
     """
     city = request.form['city'].strip()
-    seller_type = request.form['seller_type'].strip()
-    bedrooms = int(request.form['bedroom'])
-    layout_type = request.form['layout_type'].strip()
-    property_type = request.form['property_type'].strip()
-    locality = request.form['locality'].strip().upper()
-    area = float(request.form['area'])
-    furnish_type = request.form['furnish_type'].strip()
-    bathroom = int(request.form['bathroom'])
-    values = [seller_type, bedrooms, layout_type, property_type, locality, area, furnish_type, bathroom]
+    values = []
+    for col in ALL_COLS:
+        if col in NUM_COLS:
+            values.append(float(request.form[col].strip()))
+        else:
+            values.append(request.form[col].strip())
     if contribute:
+        ALL_COLS.insert(5, 'price')
         price = float(request.form['price'].strip())
         values.insert(5,price)
-    return city, tuple(values)
+    VALUES_DICT = dict(zip(ALL_COLS, values))
+    if ALL_COLS[5] == 'price':
+        ALL_COLS.pop(5)
+    VALUES_DICT['locality'] = VALUES_DICT['locality'].upper()
+    return city,VALUES_DICT
 
 def createConnection(config_path=CONFIG_PATH)->mysql.connector.connection:
     """Creates a connection to the database
@@ -84,3 +85,25 @@ def createConnection(config_path=CONFIG_PATH)->mysql.connector.connection:
         database=config.get('database')
     )
     return conn
+
+def transformData(city:str, data:dict,encoders:dict)->np.array:
+    """Transforms the data to make it suitable for prediction
+
+    Args:
+        city (str): The city for which we are transforming the data
+        data (dict): The dictionary containing column names and data for that particular city
+        encoders (dict): The dictionary containing the encoders for all the columns for that city
+
+    Returns:
+        np.array: An array containing the required data which can be passed to the model
+    """
+    transformed_data = []
+    for name, value in data.items():
+        if name not in NUM_COLS:
+            if name == 'locality':
+                transformed_data.append(encoders[city][name].transform([value]))
+            else:
+                transformed_data.append(encoders[city][name].transform([[value]]))
+        else:
+            transformed_data.append(value)
+    return np.array(transformed_data, dtype='object').reshape(-1,1).T
