@@ -1,20 +1,15 @@
 from flask import Flask, render_template,request
-import joblib
 import numpy as np
-import os 
-import mysql.connector
-import json
+from utils import loadModels,loadEncoders, getDataFromForm, createConnection
 
 # CONSTANTS 
 CITIES = ['AHEMDABAD','BANGALORE','CHENNAI','DELHI','HYDERABAD','KOLKATA','MUMBAI','PUNE']
-MODEL_PATH = 'Objects/Models/'
-LOCALITY_ENCODER_PATH = 'Objects/Encoders/LabelEncoder/'
-FURNITURE_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/furniture_encoders/'
-LAYOUT_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/layout_type/'
-PROPERTY_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/property_type/'
-SELLER_ENCODER_PATH = 'Objects/Encoders/OrdinalEncoder/seller_type/'
-with open('config.json', 'r') as f:
-    config = json.load(f)
+model_dict = loadModels()
+locality_encoder_dict = loadEncoders(col='locality')
+furnish_type_encoder_dict = loadEncoders(col='furnish_type')
+layout_encoder_dict = loadEncoders(col='layout_type')
+property_encoder_dict = loadEncoders(col='property_type')
+seller_encoder_dict = loadEncoders(col='seller_type')
 
 # Create a flask app
 app = Flask(__name__)
@@ -64,29 +59,16 @@ def getData():
 def predict():
     if request.method == 'POST':
         # fetch the inputs from the form
-        city = request.form['city'].strip()
-        seller_type = request.form['seller_type']
-        bedrooms = int(request.form['bedroom'])
-        layout_type = request.form['layout_type']
-        property_type = request.form['property_type']
-        locality = request.form['locality'].upper()
-        area = float(request.form['area'])
-        furnish_type = request.form['furnish_type']
-        bathroom = int(request.form['bathroom'])
-        # loading the encoder for that particular city
-        locality_encoder = joblib.load(os.path.join(LOCALITY_ENCODER_PATH, f'{city}_locality_encoder.pkl'))
-        furniture_encoder = joblib.load(os.path.join(FURNITURE_ENCODER_PATH, f'{city}_furnish_type_encoder.pkl'))
-        layout_encoder = joblib.load(os.path.join(LAYOUT_ENCODER_PATH, f'{city}_layout_type_encoder.pkl'))
-        property_encoder = joblib.load(os.path.join(PROPERTY_ENCODER_PATH, f'{city}_property_type_encoder.pkl'))
-        seller_encoder = joblib.load(os.path.join(SELLER_ENCODER_PATH, f'{city}_seller_type_encoder.pkl'))
-        model =joblib.load(os.path.join(MODEL_PATH, f'{city}_model.pkl')) # select the model 
+        city, (seller_type, bedrooms, 
+        layout_type, property_type, locality, area, furnish_type, bathroom) = getDataFromForm(request=request)
         try:
             # make inputs compatible with our machine learning model 
-            locality = locality_encoder.transform([locality])
-            furnish_type = furniture_encoder.transform([[furnish_type]])
-            layout_type = layout_encoder.transform([[layout_type]])
-            property_type = property_encoder.transform([[property_type]])
-            seller_type = seller_encoder.transform([[seller_type]])
+            locality = locality_encoder_dict[city].transform([locality])
+            furnish_type = furnish_type_encoder_dict[city].transform([[furnish_type]])
+            layout_type = layout_encoder_dict[city].transform([[layout_type]])
+            property_type = property_encoder_dict[city].transform([[property_type]])
+            seller_type = seller_encoder_dict[city].transform([[seller_type]])
+            model = model_dict[city]
             # make the prediction 
             preds = model.predict(np.array([
                 seller_type,
@@ -100,40 +82,21 @@ def predict():
             ],dtype='object').reshape(-1,1).T)
             preds=preds[0]
             preds = np.round(preds)
-            return render_template('predict.html',message=f'The prediction is Rs {preds:,}',city=city) # return the predictions
+            message = f'The prediction is Rs {preds:,} for {city}'
+            return render_template('display.html',statusCode='Success',message=message) # return the predictions
         except:
-            return render_template('predict.html',message='failure') # return error message for wrong location
-    else:
-        return render_template('inputsfirst.html')
+            message = 'The location that you have entered is not registered in our database'
+            return render_template('diplsay.html',statusCode = 'failure',message=message) # return error message for wrong location
 @app.route('/GetCorrections')
 def getCorrections():
     return render_template('contribute.html')
 @app.route('/Contribute',methods=['GET','POST'])
 def contribute():
     if request.method == 'POST':
-        # fetch the inputs from the form
-        city = request.form['city'].strip()
-        seller_type = request.form['seller_type']
-        bedrooms = int(request.form['bedroom'])
-        layout_type = request.form['layout_type']
-        property_type = request.form['property_type']
-        locality = request.form['locality'].upper().strip()
-        area = float(request.form['area'])
-        furnish_type = request.form['furnish_type']
-        bathroom = int(request.form['bathroom']) 
-        price = float(request.form['price'])
-        # create a tuple of values to insert
-        values = (seller_type, bedrooms, layout_type, property_type, locality, price, area, furnish_type, bathroom)
+        city, values = getDataFromForm(request=request, contribute=True)
         try:
             # make a connection to MySQL
-            conn = mysql.connector.connect(
-                        host=config.get('host'),
-                        port=config.get('port'),
-                        user=config.get('user'),
-                        password=config.get('password'),
-                        database=config.get('database'),
-                        auth_plugin=config.get('auth_plugin')
-                    )
+            conn = createConnection()
             # create a cursor to execute queries in the connection 
             cursor = conn.cursor()
             # frame the SQL query 
@@ -150,8 +113,6 @@ def contribute():
             return render_template('thanks.html', status='success') # return the predictions
         except:
             return render_template('thanks.html', status='failure') # return error message for wrong location
-    else:
-        return render_template('error.html')
     
 if __name__ == '__main__':
-    app.run(debug=False,host='0.0.0.0')
+    app.run(debug=True)

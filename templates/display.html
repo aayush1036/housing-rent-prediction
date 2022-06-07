@@ -105,6 +105,30 @@
 
             </form>
         </div>
+        {% if statusCode == "Success" %}
+        <div class="alert alert-success" role="alert">
+            <h3>
+                {{message}}
+                <br>
+                Feel that the prediction is inaccuracte or data in our database is insufficient?
+                Please feel free to contribute to the data
+            </h3>
+            <br>
+            <a class="btn btn-dark" href="{{url_for('home')}}">HOME</a>
+            <a class="btn btn-dark" href="{{url_for('getCorrections')}}">CONTRIBUTE</a>
+        </div>
+        {% elif statusCode == "Failure" %}
+
+        <h3>
+            {{message}}
+            <br>
+            Feel that the prediction is inaccuracte or data in our database is insufficient?
+            Please feel free to contribute to the data
+        </h3>
+        <br>
+        <a class="btn btn-dark" href="{{url_for('home')}}">HOME</a>
+        <a class="btn btn-dark" href="{{url_for('getCorrections')}}">CONTRIBUTE</a>
+        {% endif %}
 </body>
 
 </html>
